@@ -1,1 +1,30 @@
-NDAzLUJDRlg6DQogIHR5cGU6IFNTRA0KICBzaXplOiA0ODAgR0INCiAgZGVzYzogQk9TUyBjb250cm9sbGVyIGNhcmQgKyAgd2l0aCAyIE0uMiBTdGlja3MgNDgwR0IgKFJBSUQgMSkNCiAgbm90aWNlOiBbXQ0KICBpbnRlcmZhY2U6IE0uMg0KNDAzLUJDSEg6DQogIHR5cGU6IFNTRA0KICBzaXplOiA0ODAgR0INCiAgZGVzYzogQk9TUyBjb250cm9sbGVyIGNhcmQgKyB3aXRoIDIgTS4yIFN0aWNrcyA0ODBHQiAoUkFJRCAxKSxMUA0KICBub3RpY2U6IFtdDQogIGludGVyZmFjZTogTS4yDQo0MDMtQkNISToNCiAgdHlwZTogU1NEDQogIHNpemU6IDI0MCBHQg0KICBkZXNjOiBCT1NTIGNvbnRyb2xsZXIgY2FyZCArIHdpdGggMiBNLjIgU3RpY2tzIDI0MEcgKFJBSUQgMSksTFANCiAgbm90aWNlOiBbXQ0KICBpbnRlcmZhY2U6IE0uMg0KNDAzLUJDSEo6DQogIHR5cGU6IFNTRA0KICBzaXplOiA0ODAgR0INCiAgZGVzYzogQk9TUyBjb250cm9sbGVyIGNhcmQgKyB3aXRoIDIgTS4yIFN0aWNrcyA0ODBHQiAoUkFJRCAxKSxGSA0KICBub3RpY2U6IFtdDQogIGludGVyZmFjZTogTS4yDQo0MDMtQkNIUDoNCiAgdHlwZTogU1NEDQogIHNpemU6IDI0MCBHQg0KICBkZXNjOiBCT1NTIGNvbnRyb2xsZXIgY2FyZCArIHdpdGggMiBNLjIgU3RpY2tzIDI1MEcgKFJBSUQgMSksRkgNCiAgbm90aWNlOiBbXQ0KICBpbnRlcmZhY2U6IE0uMg0K
+403-BCFX:
+  type: SSD
+  size: 480 GB
+  desc: BOSS controller card +  with 2 M.2 Sticks 480GB (RAID 1)
+  notice: []
+  interface: M.2
+403-BCHH:
+  type: SSD
+  size: 480 GB
+  desc: BOSS controller card + with 2 M.2 Sticks 480GB (RAID 1),LP
+  notice: []
+  interface: M.2
+403-BCHI:
+  type: SSD
+  size: 240 GB
+  desc: BOSS controller card + with 2 M.2 Sticks 240G (RAID 1),LP
+  notice: []
+  interface: M.2
+403-BCHJ:
+  type: SSD
+  size: 480 GB
+  desc: BOSS controller card + with 2 M.2 Sticks 480GB (RAID 1),FH
+  notice: []
+  interface: M.2
+403-BCHP:
+  type: SSD
+  size: 240 GB
+  desc: BOSS controller card + with 2 M.2 Sticks 250G (RAID 1),FH
+  notice: []
+  interface: M.2

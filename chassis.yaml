@@ -1,1 +1,88 @@
-MzIxLUJDTVE6DQogIGRlc2M6IDIuNSIgQ2hhc3NpcyB3aXRoIHVwIHRvIDI0IEhhcmQgRHJpdmVzDQogIG5vZGVzOiAxDQogIGhlaWdodC1ydTogMw0KICBub3RpY2U6IFtdDQozMjEtQkNPTzoNCiAgZGVzYzogUG93ZXJFZGdlIEM2NDAwIEVuY2xvc3VyZSwgMi41IiBOVk1FDQogIG5vZGVzOiB1cCB0byA0DQogIGhlaWdodC1ydTogMg0KICBub3RpY2U6DQogICAgLSBJZiB5b3Ugc2VsZWN0IDMgbm9kZXMsIGFkZCBhIGJsYW5rIHRyYXkgdG8gZ2V0IHRoZSBtYXhpbXVtIG9mIDQNCiAgICAtIDY0MDAgRW5jbG9zdXJlIENoYXNzaXMgZG9lcyBub3QgaGF2ZSBSYWNrIFVuaXQuIEdpdmVuIFJVIGlzIGZvciA2NDIwIENoYXNzaXMNCjMyMS1CQ1BVOg0KICBkZXNjOiBDaGFzc2lzIHdpdGggVXAgdG8gMTIgeCAzLjUgSGFyZCBEcml2ZXMgZm9yIDJDUFUgQ29uZmlndXJhdGlvbg0KICBub2RlczogMQ0KICBoZWlnaHQtcnU6IDINCiAgbm90aWNlOiBbXQ0KMzIxLUJDUFk6DQogIGRlc2M6IENoYXNzaXMgd2l0aCBVcCB0byAyNCB4IDIuNSIgSGFyZCBEcml2ZXMgZm9yIDJDUFUNCiAgbm9kZXM6IDENCiAgaGVpZ2h0LXJ1OiAyDQogIG5vdGljZTogW10NCjMyMS1CQ1FGOg0KICBkZXNjOiAzLjUgQ2hhc3NpcyB3aXRoIHVwIHRvIDQgSGFyZCBEcml2ZXMgYW5kIDNQQ0llIHNsb3RzDQogIG5vZGVzOiAyDQogIGhlaWdodC1ydTogMQ0KICBub3RpY2U6IFtdDQozMjEtQkNRTDoNCiAgZGVzYzogMi41IENoYXNzaXMgd2l0aCB1cCB0byAxMCBIYXJkIERyaXZlcyBhbmQgM1BDSWUgc2xvdHMNCiAgbm9kZXM6IDENCiAgaGVpZ2h0LXJ1OiAxDQogIG5vdGljZTogW10NCjMyMS1CQ1JCOg0KICBkZXNjOiBDaGFzc2lzIHVwIHRvIDI0IHggMi41IEhhcmQgRHJpdmVzIGluY2x1ZGluZyA4IE5WTUUgRHJpdmVzLCAyQ1BVIENvbmZpZ3VyYXRpb24NCiAgbm9kZXM6IDENCiAgaGVpZ2h0LXJ1OiAyDQogIG5vdGljZTogW10NCjMyMS1CREhaOg0KICBkZXNjOiBDaGFzc2lzIHdpdGggVXAgdG8gMjQgeCAyLjUgSGFyZCBEcml2ZXMgZm9yIDJDUFUsIEdQVSBDYXBhYmxlIENvbmZpZ3VyYXRpb24NCiAgbm9kZXM6IDENCiAgaGVpZ2h0LXJ1OiAyDQogIG5vdGljZTogW10NCjMyMS1CRFRUOg0KICBkZXNjOiAyLjUgQ2hhc3NpcyB3aXRoIHVwIHRvIDEwIEhhcmQgRHJpdmVzLCA0IE5WTWUgRHJpdmVzIGFuZCAzIFBDSWUgU2xvdHMsIDJDUFUgb25seQ0KICBub2RlczogMQ0KICBoZWlnaHQtcnU6IDENCiAgbm90aWNlOiBbXQ0KMzIxLUJEV046DQogIGRlc2M6IDIuNUNoYXNzaXMgd2l0aCB1cCB0byAyNCBIYXJkIERyaXZlcyBhbmQgNCBOVk1FIGZvciA0UyBjb25maWcNCiAgbm9kZXM6IDENCiAgaGVpZ2h0LXJ1OiAzDQogIG5vdGljZTogW10NCjMyMS1CRU1UOg0KICBkZXNjOiBQb3dlckVkZ2UgQzY0MjAsIDIuNSBEaXJlY3QgQ2hhc3NpcyBNTEsNCiAgbm9kZXM6IHVwIHRvIDQNCiAgaGVpZ2h0LXJ1OiAyDQogIG5vdGljZToNCiAgICAtIElmIHlvdSBzZWxlY3QgMyBub2RlcywgYWRkIGEgYmxhbmsgdHJheSB0byBnZXQgdGhlIG1heGltdW0gb2YgNA0KICAgIC0gNjQwMCBFbmNsb3N1cmUgQ2hhc3NpcyBkb2VzIG5vdCBoYXZlIFJhY2sgVW5pdC4gR2l2ZW4gUlUgaXMgZm9yIDY0MjAgQ2hhc3Npcw0KMzIxLUJFTVU6DQogIGRlc2M6IFBvd2VyRWRnZSBDNjQyMCwgU2luZ2xlIFNsZWQgTUxLDQogIG5vZGVzOiB1cCB0byA0DQogIGhlaWdodC1ydTogMg0KICBub3RpY2U6DQogICAgLSBJZiB5b3Ugc2VsZWN0IDMgbm9kZXMsIGFkZCBhIGJsYW5rIHRyYXkgdG8gZ2V0IHRoZSBtYXhpbXVtIG9mIDQNCiAgICAtIDY0MDAgRW5jbG9zdXJlIENoYXNzaXMgZG9lcyBub3QgaGF2ZSBSYWNrIFVuaXQuIEdpdmVuIFJVIGlzIGZvciA2NDIwIENoYXNzaXMNCjMyMS1CRVFIOg0KICBkZXNjOiBDaGFzc2lzIHVwIHRvIDI0IHggMi41IEhhcmQgRHJpdmVzIGluY2x1ZGluZyA0IE5WTUUgYW5kIDIgVDQgR1BVDQogIG5vZGVzOiAxDQogIGhlaWdodC1ydTogMg0KICBub3RpY2U6IFtdDQozMjEtQkVSTzoNCiAgZGVzYzogMi41IiBDaGFzc2lzIHdpdGggdXAgdG8gOCBIb3QgUGx1ZyBIYXJkIERyaXZlcw0KICBub2RlczogMQ0KICBoZWlnaHQtcnU6IDENCiAgbm90aWNlOiBbXQ0KMzIxLUJGQlM6DQogIGRlc2M6IFBvd2VyRWRnZSBDNjQwMCBFbmNsb3N1cmUsIDIuNSIgSGFyZCBEcml2ZXMgVjMNCiAgbm9kZXM6IHVwIHRvIDQNCiAgaGVpZ2h0LXJ1OiAyDQogIG5vdGljZToNCiAgICAtIElmIHlvdSBzZWxlY3QgMyBub2RlcywgYWRkIGEgYmxhbmsgdHJheSB0byBnZXQgdGhlIG1heGltdW0gb2YgNA0KICAgIC0gNjQwMCBFbmNsb3N1cmUgQ2hhc3NpcyBkb2VzIG5vdCBoYXZlIFJhY2sgVW5pdC4gR2l2ZW4gUlUgaXMgZm9yIDY0MjAgQ2hhc3Npcw0KMzIxLUJGU0k6DQogIGRlc2M6IDIuNSIgQ2hhc3NpcyB3aXRoIHVwIHRvIDggSG90IFBsdWcgSGFyZCBEcml2ZXMsIE5vIEdQVQ0KICBub2RlczogMQ0KICBoZWlnaHQtcnU6IDENCiAgbm90aWNlOiBbXQ0K
+321-BCMQ:
+  desc: 2.5" Chassis with up to 24 Hard Drives
+  nodes: 1
+  height-ru: 3
+  notice: []
+321-BCOO:
+  desc: PowerEdge C6400 Enclosure, 2.5" NVME
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BCPU:
+  desc: Chassis with Up to 12 x 3.5 Hard Drives for 2CPU Configuration
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BCPY:
+  desc: Chassis with Up to 24 x 2.5" Hard Drives for 2CPU
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BCQF:
+  desc: 3.5 Chassis with up to 4 Hard Drives and 3PCIe slots
+  nodes: 2
+  height-ru: 1
+  notice: []
+321-BCQL:
+  desc: 2.5 Chassis with up to 10 Hard Drives and 3PCIe slots
+  nodes: 1
+  height-ru: 1
+  notice: []
+321-BCRB:
+  desc: Chassis up to 24 x 2.5 Hard Drives including 8 NVME Drives, 2CPU Configuration
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BDHZ:
+  desc: Chassis with Up to 24 x 2.5 Hard Drives for 2CPU, GPU Capable Configuration
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BDTT:
+  desc: 2.5 Chassis with up to 10 Hard Drives, 4 NVMe Drives and 3 PCIe Slots, 2CPU only
+  nodes: 1
+  height-ru: 1
+  notice: []
+321-BDWN:
+  desc: 2.5Chassis with up to 24 Hard Drives and 4 NVME for 4S config
+  nodes: 1
+  height-ru: 3
+  notice: []
+321-BEMT:
+  desc: PowerEdge C6420, 2.5 Direct Chassis MLK
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BEMU:
+  desc: PowerEdge C6420, Single Sled MLK
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BEQH:
+  desc: Chassis up to 24 x 2.5 Hard Drives including 4 NVME and 2 T4 GPU
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BERO:
+  desc: 2.5" Chassis with up to 8 Hot Plug Hard Drives
+  nodes: 1
+  height-ru: 1
+  notice: []
+321-BFBS:
+  desc: PowerEdge C6400 Enclosure, 2.5" Hard Drives V3
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BFSI:
+  desc: 2.5" Chassis with up to 8 Hot Plug Hard Drives, No GPU
+  nodes: 1
+  height-ru: 1
+  notice: []

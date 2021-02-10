@@ -1,1 +1,144 @@
-MzMwLUJCTEY6DQogIGRlc2M6IFJpc2VyIENvbmZpZyAyLCAzeDE2IExQDQogIG5vdGljZToNCiAgICAtIFJpc2VyIGtpdA0KMzMwLUJCTFE6DQogIGRlc2M6IFJpc2VyIENvbmZpZyA0LCAyeDE2IExQDQogIG5vdGljZToNCiAgICAtIFJpc2VyIGtpdA0KMzg0LUJCUFI6DQogIGRlc2M6IDUgU3RhbmRhcmQgRmFucyBmb3IgUjY0MA0KICBub3RpY2U6DQogICAgLSBGYW4ga2l0DQozMzAtQkJMRzoNCiAgZGVzYzogUmlzZXIgQ29uZmlnIDYsIDUgeDgsIDMgeDE2IHNsb3RzDQogIG5vdGljZToNCiAgICAtIFJpc2VyIGtpdA0KMzMwLUJCTEg6DQogIGRlc2M6IFJpc2VyIENvbmZpZyA0LCAzeDgsIDQgeDE2IHNsb3RzDQogIG5vdGljZToNCiAgICAtIFJpc2VyIGtpdA0KMzMwLUJCTFo6DQogIGRlc2M6IFJpc2VyIENvbmZpZyAzLCAyIHggMTYgTFAsIFhSMg0KICBub3RpY2U6DQogICAgLSBSaXNlciBraXQNCjMzMC1CQk1UOg0KICBkZXNjOiBSaXNlciBDb25maWcgNSwgQnV0dGVyZmx5IC0gMXhGSCs0eExQLCBEdWFsIENQVSwgUjc0MHhkMg0KICBub3RpY2U6DQogICAgLSBSaXNlciBraXQNCjMzMC1CQk5OOg0KICBkZXNjOiBSaXNlciBDb25maWcgMiwgMngxNiBMUCBQQ0llIHNsb3QNCiAgbm90aWNlOg0KICAgIC0gUmlzZXIga2l0DQozNzAtQUJXRToNCiAgZGVzYzogRElNTSBCbGFua3MgZm9yIFN5c3RlbSB3aXRoIDIgUHJvY2Vzc29ycw0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjM3MC1BQlhYOg0KICBkZXNjOiBESU1NIEJsYW5rcyBmb3IgU3lzdGVtIHdpdGggMiBQcm9jZXNzb3JzDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KMzcwLUFETk06DQogIGRlc2M6IEJsYW5rIGZvciAxQ1BVIENvbmZpZ3VyYXRpb24NCiAgbm90aWNlOg0KICAgIC0gUHJvY2Vzc29yIFRoZXJtYWwgTW9kdWxlDQozNzAtQURQTjoNCiAgZGVzYzogTWVtb3J5LCBGaWxsZXIsIEJsYW5rIERJTU0sIFF0eSA4DQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KMzc5LUJDUVE6DQogIGRlc2M6IDQgQ1BVIEhlYXRzaW5rLCAzVVBJDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KMzc5LUJEQkY6DQogIGRlc2M6IFJpc2VyIENvbmZpZywgNCBDUFUNCiAgbm90aWNlOg0KICAgIC0gUmlzZXIga2l0DQozODQtQkJQWToNCiAgZGVzYzogNiBTdGFuZGFyZCBGYW5zIGZvciBSNzQwLzc0MFhEDQogIG5vdGljZToNCiAgICAtIEZhbiBraXQNCjM4NC1CQlBaOg0KICBkZXNjOiA2IFBlcmZvcm1hbmNlIEZhbnMgZm9yUjc0MC83NDBYRA0KICBub3RpY2U6DQogICAgLSBGYW4ga2l0DQozODQtQkJRSToNCiAgZGVzYzogOCBQZXJmb3JtYW5jZSBGYW5zIGZvciBSNjQwDQogIG5vdGljZToNCiAgICAtIEZhbiBraXQNCjM4NC1CQlFKOg0KICBkZXNjOiA4IFN0YW5kYXJkIEZhbnMgZm9yIFI2NDANCiAgbm90aWNlOg0KICAgIC0gRmFuIGtpdA0KMzg0LUJDRlc6DQogIGRlc2M6IFN0YW5kYXJkIEZhbg0KICBub3RpY2U6DQogICAgLSBGYW4ga2l0DQo0MTItQUFJUDoNCiAgZGVzYzogMVUgUGlwZSBMb3cgUHJvZmlsZSBIZWF0c2luaw0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjQxMi1BQUlROg0KICBkZXNjOiBTdGFuZGFyZCAxVSBIZWF0c2luaw0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjQxMi1BQUlSOg0KICBkZXNjOiBTdGFuZGFyZCAyVSBIZWF0c2luaw0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjQxMi1BQUlYOg0KICBkZXNjOiBDNjQyMCBIZWF0c2luayBmb3IgQ1BVMQ0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjQxMi1BQUlZOg0KICBkZXNjOiBDNjQyMCBFeHRlbmRlZCBXaWR0aCBDUFUxIEhlYXRzaW5rIGZvciBIaWdoIEZyZXEvUG93ZXIgQ1BVDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KNDEyLUFBSVo6DQogIGRlc2M6IEM2NDIwIEhlYXRzaW5rIGZvciBDUFUyDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KNDEyLUFBSks6DQogIGRlc2M6IEhlYXRzaW5rIGFuZCBJbnN0YWxsIEtpdCBmb3IgR1BVIGNvbmZpZ3VyYXRpb24NCiAgbm90aWNlOg0KICAgIC0gUHJvY2Vzc29yIFRoZXJtYWwgTW9kdWxlDQo0MTItQUFKVDoNCiAgZGVzYzogU3RhbmRhcmQgSGVhdCBTaW5rDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KNDEyLUFBSlU6DQogIGRlc2M6IFN0YW5kYXJkIEhlYXQgU2luayBmb3IgMm5kIENQVQ0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjQxMi1BQVJJOg0KICBkZXNjOiAxIENQVSBTdGFuZGFyZCBUaGVybWFsIGZvciAzLjUiIENoYXNzaXMNCiAgbm90aWNlOg0KICAgIC0gUHJvY2Vzc29yIFRoZXJtYWwgTW9kdWxlDQo0MTItQUFTQzoNCiAgZGVzYzogSGVhdHNpbmsgZm9yIENQVSBlcXVhbCB0byBvciBncmVhdGVyIHRoYW4gMTgwVw0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjQxMi1BQVNGOg0KICBkZXNjOiBIZWF0c2luayBmb3IgQ1BVIGxlc3MgdGhhbiAxODBXDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KNDcwLUFDUVE6DQogIGRlc2M6IEdQVSBSZWFkeSBDb25maWd1cmF0aW9uIENhYmxlIEluc3RhbGwgS2l0DQogIG5vdGljZToNCiAgICAtIEdQVSBSZWFkeSBDb25maWd1cmF0aW9uIENhYmxlIEluc3RhbGwgS2l0DQo3NTAtQUFVUjoNCiAgZGVzYzogTm9uRmFicmljIENQVSBDbGlwIGZvciBDNjQyMA0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjc1MC1BQVhXOg0KICBkZXNjOiBIUyBJbnN0YWxsIEtpdCxHUFUgQ29uZmlnLE5vIGNhYmxlDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0KNzUwLUFBWFg6DQogIGRlc2M6IEhTIEluc3RhbGwgS2l0LEdQVSBDb25maWcsIEVQUzEyViBDYWJsZQ0KICBub3RpY2U6DQogICAgLSBQcm9jZXNzb3IgVGhlcm1hbCBNb2R1bGUNCjM3MC1BRFBGOg0KICBkZXNjOiBCbGFuayBmb3IgMUNQVSBDb25maWd1cmF0aW9uDQogIG5vdGljZToNCiAgICAtIFByb2Nlc3NvciBUaGVybWFsIE1vZHVsZQ0K
+330-BBLF:
+  desc: Riser Config 2, 3x16 LP
+  notice:
+    - Riser kit
+330-BBLQ:
+  desc: Riser Config 4, 2x16 LP
+  notice:
+    - Riser kit
+384-BBPR:
+  desc: 5 Standard Fans for R640
+  notice:
+    - Fan kit
+330-BBLG:
+  desc: Riser Config 6, 5 x8, 3 x16 slots
+  notice:
+    - Riser kit
+330-BBLH:
+  desc: Riser Config 4, 3x8, 4 x16 slots
+  notice:
+    - Riser kit
+330-BBLZ:
+  desc: Riser Config 3, 2 x 16 LP, XR2
+  notice:
+    - Riser kit
+330-BBMT:
+  desc: Riser Config 5, Butterfly - 1xFH+4xLP, Dual CPU, R740xd2
+  notice:
+    - Riser kit
+330-BBNN:
+  desc: Riser Config 2, 2x16 LP PCIe slot
+  notice:
+    - Riser kit
+370-ABWE:
+  desc: DIMM Blanks for System with 2 Processors
+  notice:
+    - Processor Thermal Module
+370-ABXX:
+  desc: DIMM Blanks for System with 2 Processors
+  notice:
+    - Processor Thermal Module
+370-ADNM:
+  desc: Blank for 1CPU Configuration
+  notice:
+    - Processor Thermal Module
+370-ADPN:
+  desc: Memory, Filler, Blank DIMM, Qty 8
+  notice:
+    - Processor Thermal Module
+379-BCQQ:
+  desc: 4 CPU Heatsink, 3UPI
+  notice:
+    - Processor Thermal Module
+379-BDBF:
+  desc: Riser Config, 4 CPU
+  notice:
+    - Riser kit
+384-BBPY:
+  desc: 6 Standard Fans for R740/740XD
+  notice:
+    - Fan kit
+384-BBPZ:
+  desc: 6 Performance Fans forR740/740XD
+  notice:
+    - Fan kit
+384-BBQI:
+  desc: 8 Performance Fans for R640
+  notice:
+    - Fan kit
+384-BBQJ:
+  desc: 8 Standard Fans for R640
+  notice:
+    - Fan kit
+384-BCFW:
+  desc: Standard Fan
+  notice:
+    - Fan kit
+412-AAIP:
+  desc: 1U Pipe Low Profile Heatsink
+  notice:
+    - Processor Thermal Module
+412-AAIQ:
+  desc: Standard 1U Heatsink
+  notice:
+    - Processor Thermal Module
+412-AAIR:
+  desc: Standard 2U Heatsink
+  notice:
+    - Processor Thermal Module
+412-AAIX:
+  desc: C6420 Heatsink for CPU1
+  notice:
+    - Processor Thermal Module
+412-AAIY:
+  desc: C6420 Extended Width CPU1 Heatsink for High Freq/Power CPU
+  notice:
+    - Processor Thermal Module
+412-AAIZ:
+  desc: C6420 Heatsink for CPU2
+  notice:
+    - Processor Thermal Module
+412-AAJK:
+  desc: Heatsink and Install Kit for GPU configuration
+  notice:
+    - Processor Thermal Module
+412-AAJT:
+  desc: Standard Heat Sink
+  notice:
+    - Processor Thermal Module
+412-AAJU:
+  desc: Standard Heat Sink for 2nd CPU
+  notice:
+    - Processor Thermal Module
+412-AARI:
+  desc: 1 CPU Standard Thermal for 3.5" Chassis
+  notice:
+    - Processor Thermal Module
+412-AASC:
+  desc: Heatsink for CPU equal to or greater than 180W
+  notice:
+    - Processor Thermal Module
+412-AASF:
+  desc: Heatsink for CPU less than 180W
+  notice:
+    - Processor Thermal Module
+470-ACQQ:
+  desc: GPU Ready Configuration Cable Install Kit
+  notice:
+    - GPU Ready Configuration Cable Install Kit
+750-AAUR:
+  desc: NonFabric CPU Clip for C6420
+  notice:
+    - Processor Thermal Module
+750-AAXW:
+  desc: HS Install Kit,GPU Config,No cable
+  notice:
+    - Processor Thermal Module
+750-AAXX:
+  desc: HS Install Kit,GPU Config, EPS12V Cable
+  notice:
+    - Processor Thermal Module
+370-ADPF:
+  desc: Blank for 1CPU Configuration
+  notice:
+    - Processor Thermal Module

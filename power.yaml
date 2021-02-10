@@ -1,1 +1,40 @@
-NDUwLUFEV1E6DQogIHJhdGU6IDQ5NSBXDQogIGRlc2M6IER1YWwsIEhvdC1wbHVnLCBSZWR1bmRhbnQgUG93ZXIgU3VwcGx5ICgxKzEpLCA0OTVXDQogIG5vdGljZTogW10NCjQ1MC1BRFdUOg0KICByYXRlOiA3NTAgVw0KICBkZXNjOiBEdWFsLCBIb3QtcGx1ZywgUmVkdW5kYW50IFBvd2VyIFN1cHBseSAoMSsxKSwgNzUwVywgVGl0YW5pdW0sIDIwMC0yNDBWQUMNCiAgbm90aWNlOiBbXQ0KNDUwLUFGTVE6DQogIHJhdGU6IDE2MDAgVw0KICBkZXNjOiBEdWFsLCBIb3QtcGx1ZywgUmVkdW5kYW50IFBvd2VyIFN1cHBseSAoMSsxKSwgMTYwMFcsIDI1MCBWb2x0IFBvd2VyIENvcmQgUmVxdWlyZWQgZm9yIFVzZQ0KICBub3RpY2U6IFtdDQo0NTAtQURJSjoNCiAgcmF0ZTogMTEwMCBXDQogIGRlc2M6IER1YWwsIEhvdC1wbHVnLCBSZWR1bmRhbnQgREMgUG93ZXIgU3VwcGx5ICgxKzEpLCAxMTAwVyAtNDhWREMgT25seQ0KICBub3RpY2U6IFtdDQo0NTAtQUVOVToNCiAgcmF0ZTogMjAwMCBXDQogIGRlc2M6IER1YWwsIEhvdC1wbHVnLCBSZWR1bmRhbnQgUG93ZXIgU3VwcGx5LCAyMDAwVywgQzE5L0MyMCBQb3dlciBDb3JkIFJlcXVpcmVkIGZvciBVc2UNCiAgbm90aWNlOiBbXQ0KNDUwLUFHRkw6DQogIHJhdGU6IDE2MDAgVw0KICBkZXNjOiBEdWFsLCBIb3QtcGx1ZywgTm9uLVJlZHVuZGFudCBQb3dlciBTdXBwbHkgKDIgKyAwKSwgMTYwMFcNCiAgbm90aWNlOiBbXQ0KNDUwLUFHRk86DQogIHJhdGU6IDI0MDAgVw0KICBkZXNjOiBEdWFsLEhvdC1wbHVnIFBvd2VyIFN1cHBseSAsIDI0MDBXLDI1MCBWb2x0IFBvd2VyIENvcmQgUmVxdWlyZWQgZm9yIFVzZQ0KICBub3RpY2U6IFtdDQo0NTAtQUdaRzoNCiAgcmF0ZTogNTUwIFcNCiAgZGVzYzogRHVhbCwgSG90IFBsdWcsIFJlZHVuZGFudCBQb3dlciBTdXBwbHkgKDErMSksIDU2MFcNCiAgbm90aWNlOiBbXQ0KNDUwLUFKU0M6DQogIHJhdGU6IDc1MCBXDQogIGRlc2M6IER1YWwsIEhvdC1wbHVnLCBSZWR1bmRhbnQgUG93ZXIgU3VwcGx5ICgxKzEpLCA3NTBXDQogIG5vdGljZTogW10NCjQ1MC1BR1VKOg0KICByYXRlOiA1NTAgVw0KICBkZXNjOiBEdWFsLCBIb3QgUGx1ZywgUmVkdW5kYW50IFBvd2VyIFN1cHBseSAoMSsxKSwgNTUwVw0KICBub3RpY2U6IFtdDQo=
+450-ADWQ:
+  rate: 495 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 495W
+  notice: []
+450-ADWT:
+  rate: 750 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 750W, Titanium, 200-240VAC
+  notice: []
+450-AFMQ:
+  rate: 1600 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 1600W, 250 Volt Power Cord Required for Use
+  notice: []
+450-ADIJ:
+  rate: 1100 W
+  desc: Dual, Hot-plug, Redundant DC Power Supply (1+1), 1100W -48VDC Only
+  notice: []
+450-AENU:
+  rate: 2000 W
+  desc: Dual, Hot-plug, Redundant Power Supply, 2000W, C19/C20 Power Cord Required for Use
+  notice: []
+450-AGFL:
+  rate: 1600 W
+  desc: Dual, Hot-plug, Non-Redundant Power Supply (2 + 0), 1600W
+  notice: []
+450-AGFO:
+  rate: 2400 W
+  desc: Dual,Hot-plug Power Supply , 2400W,250 Volt Power Cord Required for Use
+  notice: []
+450-AGZG:
+  rate: 550 W
+  desc: Dual, Hot Plug, Redundant Power Supply (1+1), 560W
+  notice: []
+450-AJSC:
+  rate: 750 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 750W
+  notice: []
+450-AGUJ:
+  rate: 550 W
+  desc: Dual, Hot Plug, Redundant Power Supply (1+1), 550W
+  notice: []
