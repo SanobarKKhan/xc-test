@@ -1,0 +1,182 @@
+'23139207858072538075981294016406373471':
+  model: 400-ASHS
+  type: HDD
+  size: 2 TB
+  desc: 2TB 7.2K RPM NLSAS 12Gbps 512n 3.5in Hot-Plug Hard Drive
+  form-factor: large
+  name: 2TB 7.2K RPM NLSAS 12Gbps 512n 3.5in Hot-Plug Hard Drive
+  price: 549.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-ASHS
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 2TB 7.2K RPM NLSAS 12Gbps 512n 3.5in Hot-Plug Hard Drive
+'322448286474736019060245053608788603508':
+  model: 400-ASHY
+  type: HDD
+  size: 4 TB
+  desc: 4TB 7.2K RPM NLSAS 12Gbps 512n 3.5in Hot-plug Hard Drive
+  form-factor: large
+  name: 4TB 7.2K RPM NLSAS 12Gbps 512n 3.5in Hot-plug Hard Drive
+  price: 739.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-ASHY
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 4TB 7.2K RPM NLSAS 12Gbps 512n 3.5in Hot-plug Hard Drive
+'3363891528226423973913074758186198273':
+  model: 400-ASHI
+  type: HDD
+  size: 1.2 TB
+  desc: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+  form-factor: small
+  name: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+  price: 709.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-ASHI
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+'178493438221655812690515969222832276099':
+  model: 400-ASIB
+  type: HDD
+  size: 8 TB
+  desc: 8TB 7.2K RPM NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive
+  form-factor: large
+  name: 8TB 7.2K RPM NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive
+  price: 1129.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-ASIB
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 8TB 7.2K RPM NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive
+'253667036555301183149624218239703600969':
+  model: 400-ASID
+  type: HDD
+  size: 8 TB
+  desc: 8TB 7.2K RPM Self-Encrypting NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive, FIPS140
+  form-factor: large
+  name: 8TB 7.2K RPM Self-Encrypting NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive, FIPS140
+  price: 1699.00
+  encryptedPart: true
+  interface: SAS
+  sku: 400-ASID
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 8TB 7.2K RPM Self-Encrypting NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive, FIPS140
+'332350918979768162741666163275938522688':
+  model: 400-AVHH
+  type: HDD
+  size: 2.4 TB
+  desc: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
+  form-factor: small
+  name: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
+  price: 1399.00
+  encryptedPart: true
+  interface: SAS
+  sku: 400-AVHH
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
+'253832018645947396541998317877843234420':
+  model: 400-AWIP
+  type: HDD
+  size: 12 TB
+  desc: 12TB 7.2K RPM NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive
+  form-factor: large
+  name: 12TB 7.2K RPM NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive
+  price: 1739.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-AWIP
+  notice: []
+  manufacturer: HITACHI
+  model_string: 12TB 7.2K RPM NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive
+'13525792393416442364281855044260109809':
+  model: 400-AXLN
+  type: HDD
+  size: 12 TB
+  desc: 12TB 7.2K RPM Self-Encrypting NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive, FIPS140
+  form-factor: large
+  name: 12TB 7.2K RPM Self-Encrypting NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive, FIPS140
+  price: 2249.00
+  encryptedPart: true
+  interface: SAS
+  sku: 400-AXLN
+  notice: []
+  manufacturer: HITACHI
+  model_string: 12TB 7.2K RPM Self-Encrypting NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive, FIPS140
+'232788441978585483251253305337876613260':
+  model: 400-AYSC
+  type: HDD
+  size: 1.2 TB
+  desc: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+  form-factor: small
+  name: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+  price: 709.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-AYSC
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+'302191054862632887660665466913475881445':
+  model: 400-AYSD
+  type: HDD
+  size: 1.2 TB
+  desc: 1.2TB 10K RPM Self-Encrypting SAS 12Gbps 512n 2.5in Hot-plug Hard Drive, FIPS140
+  form-factor: small
+  name: 1.2TB 10K RPM Self-Encrypting SAS 12Gbps 512n 2.5in Hot-plug Hard Drive, FIPS140
+  price: 969.00
+  encryptedPart: true
+  interface: SAS
+  sku: 400-AYSD
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 1.2TB 10K RPM Self-Encrypting SAS 12Gbps 512n 2.5in Hot-plug Hard Drive, FIPS140
+'39177579356867245254051998870578289750':
+  model: 400-AYSF
+  type: HDD
+  size: 2.4 TB
+  desc: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+  form-factor: small
+  name: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+  price: 1179.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-AYSF
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+'88162332449009455531526147020928690689':
+  model: 400-BEJR
+  type: HDD
+  size: 12 TB
+  desc: 12TB 7.2K SAS 12Gbps 512e 3.5in Hot-Plug Hard Drive
+  form-factor: large
+  name: 12TB 7.2K SAS 12Gbps 512e 3.5in Hot-Plug Hard Drive
+  price: 1739.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-BEJR
+  notice: []
+  manufacturer: TOS
+  model_string: 12TB 7.2K SAS 12Gbps 512e 3.5in Hot-Plug Hard Drive
+'145135824134346564621174368429977173415':
+  model: 400-BJKZ
+  type: HDD
+  size: 16 TB
+  desc: 16TB Hard Drive SAS 12Gbps 7.2K 512e 3.5in Hot-Plug
+  form-factor: large
+  name: 16TB Hard Drive SAS 12Gbps 7.2K 512e 3.5in Hot-Plug
+  price: 2629.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-BJKZ
+  notice: []
+  manufacturer: TOS
+  model_string: 16TB Hard Drive SAS 12Gbps 7.2K 512e 3.5in Hot-Plug

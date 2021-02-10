@@ -1,0 +1,88 @@
+321-BCMQ:
+  desc: 2.5" Chassis with up to 24 Hard Drives
+  nodes: 1
+  height-ru: 3
+  notice: []
+321-BCOO:
+  desc: PowerEdge C6400 Enclosure, 2.5" NVME
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BCPU:
+  desc: Chassis with Up to 12 x 3.5 Hard Drives for 2CPU Configuration
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BCPY:
+  desc: Chassis with Up to 24 x 2.5" Hard Drives for 2CPU
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BCQF:
+  desc: 3.5 Chassis with up to 4 Hard Drives and 3PCIe slots
+  nodes: 2
+  height-ru: 1
+  notice: []
+321-BCQL:
+  desc: 2.5 Chassis with up to 10 Hard Drives and 3PCIe slots
+  nodes: 1
+  height-ru: 1
+  notice: []
+321-BCRB:
+  desc: Chassis up to 24 x 2.5 Hard Drives including 8 NVME Drives, 2CPU Configuration
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BDHZ:
+  desc: Chassis with Up to 24 x 2.5 Hard Drives for 2CPU, GPU Capable Configuration
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BDTT:
+  desc: 2.5 Chassis with up to 10 Hard Drives, 4 NVMe Drives and 3 PCIe Slots, 2CPU only
+  nodes: 1
+  height-ru: 1
+  notice: []
+321-BDWN:
+  desc: 2.5Chassis with up to 24 Hard Drives and 4 NVME for 4S config
+  nodes: 1
+  height-ru: 3
+  notice: []
+321-BEMT:
+  desc: PowerEdge C6420, 2.5 Direct Chassis MLK
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BEMU:
+  desc: PowerEdge C6420, Single Sled MLK
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BEQH:
+  desc: Chassis up to 24 x 2.5 Hard Drives including 4 NVME and 2 T4 GPU
+  nodes: 1
+  height-ru: 2
+  notice: []
+321-BERO:
+  desc: 2.5" Chassis with up to 8 Hot Plug Hard Drives
+  nodes: 1
+  height-ru: 1
+  notice: []
+321-BFBS:
+  desc: PowerEdge C6400 Enclosure, 2.5" Hard Drives V3
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BFSI:
+  desc: 2.5" Chassis with up to 8 Hot Plug Hard Drives, No GPU
+  nodes: 1
+  height-ru: 1
+  notice: []
