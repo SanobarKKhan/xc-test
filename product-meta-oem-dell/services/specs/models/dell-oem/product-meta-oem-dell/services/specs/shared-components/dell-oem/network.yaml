@@ -27,8 +27,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 540-BBCZ:
   desc: Intel Ethernet i350 Quad Port 1GbE BASE-T Adapter, PCIe Low Profile
   name: Intel Ethernet i350 Quad Port 1GbE BASE-T Adapter, PCIe Low Profile
@@ -55,8 +55,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 540-BBDB:
   desc: Intel Ethernet I350 Dual Port 1GbE BASE-T Adapter, PCIe Low Profile
   name: Intel Ethernet I350 Dual Port 1GbE BASE-T Adapter, PCIe Low Profile
@@ -121,8 +121,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 540-BBVI:
   desc: Broadcom 57412 Dual Port 10GbE SFP+ Adapter, PCIe Low Profile
   name: Broadcom 57412 Dual Port 10GbE SFP+ Adapter, PCIe Low Profile
@@ -151,8 +151,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 540-BBUY:
   desc: Intel X550 Quad Port 10GbE BASE-T, rNDC
   name: Intel X550 Quad Port 10GbE BASE-T, rNDC
@@ -179,8 +179,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 406-BBLE:
   desc: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28  Adapter, PCIe Full Height
   name: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28  Adapter, PCIe Full Height
@@ -195,8 +195,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 407-BBDT:
   desc: Cisco 10Gb SFP+ Twinax Cable, 5m
   name: Cisco 10Gb SFP+ Twinax Cable, 5m
@@ -287,6 +287,11 @@
   name: Accessory, Filter, OEM PowerEdge XR2 Server Marine Grade
   price: 1349.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec: []
+    data-rate: []
 470-AAGN:
   desc: Dell Networking, Cable, SFP+ to SFP+, 10GbE, Copper Twinax Direct Attach Cable, 1 Meter
   name: Dell Networking, Cable, SFP+ to SFP+, 10GbE, Copper Twinax Direct Attach Cable, 1 Meter
@@ -368,6 +373,11 @@
   name: Ruggedized 901D Kit, XR2 -  Low Profile Riser Only
   price: 249.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec: []
+    data-rate: []
 540-BBBB:
   desc: Intel X520 Dual Port 10GbE SFP+ & i350 Dual Port 1GbE BASE-T, rNDC
   name: Intel X520 Dual Port 10GbE SFP+ & i350 Dual Port 1GbE BASE-T, rNDC
@@ -464,8 +474,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 540-BBUK:
   desc: Broadcom 57416 Dual Port 10GbE BASE-T & 5720 Dual Port 1GbE BASE-T, rNDC
   name: Broadcom 57416 Dual Port 10GbE BASE-T & 5720 Dual Port 1GbE BASE-T, rNDC
@@ -539,6 +549,11 @@
   name: OCP Mezzanine Bracket for C6420
   price: 0.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec: []
+    data-rate: []
 540-BCIU:
   desc: Mellanox ConnectX-5 EX Dual Port 40/100GbE QSFP28 Adapter, PCIe Full Height
   name: Mellanox ConnectX-5 EX Dual Port 40/100GbE QSFP28 Adapter, PCIe Full Height
@@ -555,8 +570,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 40 Gbps
       - 100 Gbps
+      - 40 Gbps
 540-BCKU:
   desc: Broadcom 57414 Dual Port 25GbE SFP28 LOM Mezz Card
   name: Broadcom 57414 Dual Port 25GbE SFP28 LOM Mezz Card
@@ -601,8 +616,8 @@
       - QSFP
       - SFP
     data-rate:
-      - 10 Gbps
       - 25 Gbps
+      - 10 Gbps
 540-BCRQ:
   desc: Intel X710-T2L Dual Port 10GbE BASE-T Adapter, PCIe Low Profile
   name: Intel X710-T2L Dual Port 10GbE BASE-T Adapter, PCIe Low Profile
@@ -620,6 +635,11 @@
   name: PCIe Blank Filler, R6515 / R7515
   price: 0.00
   notice: []
+  type: PCIe
+  port:
+    count: 1
+    spec: []
+    data-rate: []
 407-BBBY:
   desc: Dell Networking, Transceiver, 40GbE QSFP+, SR4, 850nm, MPO, 100-150m Reach on OM3/OM4, MMF
   name: Dell Networking, Transceiver, 40GbE QSFP+, SR4, 850nm, MPO, 100-150m Reach on OM3/OM4, MMF
@@ -641,6 +661,13 @@
   name: Dell Networking, Transceiver, SFP, 1000BASE-T
   price: 134.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP
+      - BASE-T
+    data-rate: []
 407-BBDU:
   desc: Cisco 10Gb SFP+ Twinax Cable, 3m
   name: Cisco 10Gb SFP+ Twinax Cable, 3m

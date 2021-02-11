@@ -25,15 +25,6 @@
 403-BCHP:
   type: SSD
   size: 240 GB
-  desc: BOSS controller card + with 2 M.2 Sticks 240G (RAID 1),FH
-  notice:
-    - 
-  interface: M.2
-  end-of-sale: 2021-06-01
-403-BBSD:
-  type: SSD
-  size: 240 GB
-  desc: BOSS controller card +  with 2 M.2 Sticks 240G (RAID 1)
-  notice:
-    - "Test line 1\nTest line 2\n\nTest line 4 after empty line\n\nTest line 6 after empty line"
+  desc: BOSS controller card + with 2 M.2 Sticks 250G (RAID 1),FH
+  notice: []
   interface: M.2
