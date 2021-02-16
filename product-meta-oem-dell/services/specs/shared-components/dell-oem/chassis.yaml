@@ -1,0 +1,23 @@
+321-BCOO:
+  desc: PowerEdge C6400 Enclosure, 2.5" NVME
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis
+321-BCQF:
+  desc: 3.5 Chassis with up to 4 Hard Drives and 3PCIe slots
+  nodes: 1
+  height-ru: 1
+  notice:
+    - First Line
+    - Second Line
+    - 
+    - Fourth Line
+321-BFBS:
+  desc: PowerEdge C6400 Enclosure, 2.5" Hard Drives V3
+  nodes: up to 4
+  height-ru: 2
+  notice:
+    - If you select 3 nodes, add a blank tray to get the maximum of 4
+    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis

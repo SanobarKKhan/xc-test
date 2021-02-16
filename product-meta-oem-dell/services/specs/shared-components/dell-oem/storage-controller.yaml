@@ -1,0 +1,33 @@
+338-BMPC:
+  desc: C34, Single 1U C6420 Sled, H330 HBA, Supports 2.5in or 3.5in Direct and Expander Backplanes
+  notice: []
+338-BMPD:
+  desc: C35, Single 1U C6420 Sled, H330 HBA, Supports 2.5in NVMe Backplane
+  notice: []
+405-AAJU:
+  desc: HBA330 12Gbps SAS HBA Controller (NON-RAID), Minicard
+  notice: []
+405-AANE:
+  desc: HBA330 Controller Card
+  notice: []
+405-AANK:
+  desc: HBA330 Controller Adapter, Low Profile
+  notice: []
+405-AASF:
+  desc: HBA330+ Controller
+  notice: []
+540-BBWM:
+  desc: PERC Bridge Card for C6420
+  notice: []
+575-BBNY:
+  desc: MiniPerc Bracket for C6420
+  notice: []
+780-BCDI:
+  desc: No RAID
+  notice: []
+780-BCET:
+  desc: C4, H330 HBA, C6420 1U Direct BP, Supports up to 6x2.5in Hard Drives
+  notice: []
+780-BCEU:
+  desc: C5, H330 HBA, C6420 1U NVMe, Supports up to 6x2.5in Hard Drives
+  notice: []

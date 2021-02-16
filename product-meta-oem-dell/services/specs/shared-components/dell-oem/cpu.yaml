@@ -1,0 +1,240 @@
+338-BTWI:
+  nameId: Gold 6262V
+  category: vcpu
+  product: Xeon
+  power: 135 W
+  SPECint: 1151.92
+  mfr: INTEL
+  cores: 24
+  cycles: 1.9
+  arch: Cascade Lake
+  desc: 2x Intel Xeon Gold 6262V, 1.9G, 24C/48T, 10.4GT/s, 33M Cache, Turbo, HT (135W) DDR4-2933
+  name: 2x Intel Xeon Gold 6262V, 1.9G, 24C/48T, 10.4GT/s, 33M Cache, Turbo, HT (135W) DDR4-2933
+  price: 10898.00
+  specintRatePerCore: 48.00
+  memorySpeed: 2933
+  notice: []
+338-BTWV:
+  nameId: Gold 6240L
+  category: lcpu
+  product: Xeon
+  power: 150 W
+  SPECint: 1068.18
+  mfr: INTEL
+  cores: 18
+  cycles: 2.6
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6240L 2.6G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (150W) DDR4-2933
+  name: Intel Xeon Gold 6240L 2.6G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (150W) DDR4-2933
+  price: 8049.00
+  specintRatePerCore: 59.34
+  memorySpeed: 2933
+  notice: []
+338-BVJU:
+  nameId: Gold 6246R
+  category: rcpu
+  product: Xeon
+  power: 205 W
+  SPECint: 1120.91
+  mfr: INTEL
+  cores: 16
+  cycles: 3.4
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6246R 3.4G, 16C/32T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
+  name: Intel Xeon Gold 6246R 3.4G, 16C/32T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
+  price: 5599.00
+  specintRatePerCore: 70.06
+  memorySpeed: 2933
+  notice: []
+338-BVJV:
+  nameId: Gold 6226R
+  category: rcpu
+  product: Xeon
+  power: 150 W
+  SPECint: 1004.36
+  mfr: INTEL
+  cores: 16
+  cycles: 2.9
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6226R 2.9G, 16C/32T, 10.4GT/s, 22 M Cache, Turbo, HT (150W) DDR4-2933
+  name: Intel Xeon Gold 6226R 2.9G, 16C/32T, 10.4GT/s, 22 M Cache, Turbo, HT (150W) DDR4-2933
+  price: 2899.00
+  specintRatePerCore: 62.77
+  memorySpeed: 2933
+  notice: []
+338-BVJW:
+  nameId: Gold 6240R
+  category: rcpu
+  product: Xeon
+  power: 165 W
+  SPECint: 1428.0
+  mfr: INTEL
+  cores: 24
+  cycles: 2.4
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6240R 2.4G, 24C/48T, 10.4GT/s, 35.75 M Cache, Turbo, HT (165W) DDR4-2933
+  name: Intel Xeon Gold 6240R 2.4G, 24C/48T, 10.4GT/s, 35.75 M Cache, Turbo, HT (165W) DDR4-2933
+  price: 3899.00
+  specintRatePerCore: 59.5
+  memorySpeed: 2933
+  notice: []
+338-BVJX:
+  nameId: Silver 4214R
+  category: rcpu
+  product: Xeon
+  power: 100 W
+  SPECint: 771.12
+  mfr: INTEL
+  cores: 12
+  cycles: 2.4
+  arch: Cascade Lake
+  desc: Intel Xeon Silver 4214R 2.4G, 12C/24T, 9.6GT/s, 16.5M Cache, Turbo, HT (100W) DDR4-2400
+  name: Intel Xeon Silver 4214R 2.4G, 12C/24T, 9.6GT/s, 16.5M Cache, Turbo, HT (100W) DDR4-2400
+  price: 1149.00
+  specintRatePerCore: 64.26
+  memorySpeed: 2400
+  notice: []
+338-BVKD:
+  nameId: Silver 4210R
+  category: rcpu
+  product: Xeon
+  power: 100 W
+  SPECint: 604.52
+  mfr: INTEL
+  cores: 10
+  cycles: 2.4
+  arch: Cascade Lake
+  desc: Intel Xeon Silver 4210R 2.4G, 10C/20T, 9.6GT/s, 13.75M Cache, Turbo, HT (100W) DDR4-2400
+  name: Intel Xeon Silver 4210R 2.4G, 10C/20T, 9.6GT/s, 13.75M Cache, Turbo, HT (100W) DDR4-2400
+  price: 839.00
+  specintRatePerCore: 60.45
+  memorySpeed: 2400
+  notice: []
+338-BVKF:
+  nameId: Gold 5220R
+  category: rcpu
+  product: Xeon
+  power: 150 W
+  SPECint: 1313.76
+  mfr: INTEL
+  cores: 24
+  cycles: 2.2
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 5220R 2.2G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (150W) DDR4-2666
+  name: Intel Xeon Gold 5220R 2.2G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (150W) DDR4-2666
+  price: 2599.00
+  specintRatePerCore: 54.74
+  memorySpeed: 2666
+  notice: []
+338-BVKG:
+  nameId: Gold 6258R
+  category: rcpu
+  product: Xeon
+  power: 205 W
+  SPECint: 1723.12
+  mfr: INTEL
+  cores: 28
+  cycles: 2.7
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6258R 2.7G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (205W) DDR4-2933
+  name: Intel Xeon Gold 6258R 2.7G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (205W) DDR4-2933
+  price: 6199.00
+  specintRatePerCore: 61.54
+  memorySpeed: 2933
+  notice: []
+338-BVKH:
+  nameId: Gold 6248R
+  category: rcpu
+  product: Xeon
+  power: 205 W
+  SPECint: 1604.12
+  mfr: INTEL
+  cores: 24
+  cycles: 3.0
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6248R 3.0G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
+  name: Intel Xeon Gold 6248R 3.0G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
+  price: 4899.00
+  specintRatePerCore: 66.84
+  memorySpeed: 2933
+  notice: []
+338-BVKJ:
+  nameId: Gold 5218R
+  category: rcpu
+  product: Xeon
+  power: 125 W
+  SPECint: 1175.72
+  mfr: INTEL
+  cores: 20
+  cycles: 2.1
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 5218R 2.1G, 20C/40T, 10.4GT/s, 27.5 M Cache, Turbo, HT (125W) DDR4-2666
+  name: Intel Xeon Gold 5218R 2.1G, 20C/40T, 10.4GT/s, 27.5 M Cache, Turbo, HT (125W) DDR4-2666
+  price: 2099.00
+  specintRatePerCore: 58.79
+  memorySpeed: 2666
+  notice: []
+338-BVKL:
+  nameId: Gold 6242R
+  category: rcpu
+  product: Xeon
+  power: 205 W
+  SPECint: 1442.28
+  mfr: INTEL
+  cores: 20
+  cycles: 3.1
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6242R 3.1G, 20C/40T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
+  name: Intel Xeon Gold 6242R 3.1G, 20C/40T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
+  price: 4399.00
+  specintRatePerCore: 72.11
+  memorySpeed: 2933
+  notice: []
+338-BVKQ:
+  nameId: Silver 4215R
+  category: rcpu
+  product: Xeon
+  power: 130 W
+  SPECint: 585.48
+  mfr: INTEL
+  cores: 8
+  cycles: 3.2
+  arch: Cascade Lake
+  desc: Intel Xeon Silver 4215R 3.2G, 8C/16T, 9.6GT/s, 11 M Cache, Turbo, HT (130W) DDR4-2400
+  name: Intel Xeon Silver 4215R 3.2G, 8C/16T, 9.6GT/s, 11 M Cache, Turbo, HT (130W) DDR4-2400
+  price: 1379.00
+  specintRatePerCore: 73.18
+  memorySpeed: 2400
+  notice: []
+338-BVKR:
+  nameId: Gold 6230R
+  category: rcpu
+  product: Xeon
+  power: 150 W
+  SPECint: 1480.36
+  mfr: INTEL
+  cores: 26
+  cycles: 2.1
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6230R 2.1G, 26C/52T, 10.4GT/s, 35.75 M Cache, Turbo, HT (150W) DDR4-2933
+  name: Intel Xeon Gold 6230R 2.1G, 26C/52T, 10.4GT/s, 35.75 M Cache, Turbo, HT (150W) DDR4-2933
+  price: 3049.00
+  specintRatePerCore: 56.94
+  memorySpeed: 2933
+  notice: []
+338-BVKU:
+  nameId: Gold 6238R
+  category: rcpu
+  product: Xeon
+  power: 165 W
+  SPECint: 1513.68
+  mfr: INTEL
+  cores: 28
+  cycles: 2.2
+  arch: Cascade Lake
+  desc: Intel Xeon Gold 6238R 2.2G, 28C/56T, 10.4GT/s, 38.5 M Cache, Turbo, HT (165W) DDR4-2933
+  name: Intel Xeon Gold 6238R 2.2G, 28C/56T, 10.4GT/s, 38.5 M Cache, Turbo, HT (165W) DDR4-2933
+  price: 4149.00
+  specintRatePerCore: 54.06
+  memorySpeed: 2933
+  notice: []
