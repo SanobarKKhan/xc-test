@@ -1,3 +1,31 @@
+330-BBLF:
+  desc: Riser Config 2, 3x16 LP
+  notice:
+    - Riser kit
+330-BBLG:
+  desc: Riser Config 6, 5 x8, 3 x16 slots
+  notice:
+    - Riser kit
+330-BBLH:
+  desc: Riser Config 4, 3x8, 4 x16 slots
+  notice:
+    - Riser kit
+330-BBLQ:
+  desc: Riser Config 4, 2x16 LP
+  notice:
+    - Riser kit
+330-BBLZ:
+  desc: Riser Config 3, 2 x 16 LP, XR2
+  notice:
+    - Riser kit
+330-BBMT:
+  desc: Riser Config 4, Butterfly - 1xFH+4xLP, Dual CPU, R740xd2
+  notice:
+    - Riser kit
+330-BBNN:
+  desc: Riser Config 2, 2x16 LP PCIe slot
+  notice:
+    - Riser kit
 370-ABWE:
   desc: DIMM Blanks for System with 2 Processors
   notice:

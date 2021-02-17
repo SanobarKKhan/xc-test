@@ -1,332 +1,44 @@
-321-BCMQ:
-  rate: 
-  desc: 2.5" Chassis with up to 24 Hard Drives
-  notice: []
-321-BCPU:
-  rate: 
-  desc: Chassis with Up to 12 x 3.5 Hard Drives for 2CPU Configuration
-  notice: []
-321-BCPY:
-  rate: 
-  desc: Chassis with Up to 24 x 2.5" Hard Drives for 2CPU
-  notice: []
-321-BCQL:
-  rate: 
-  desc: 2.5 Chassis with up to 10 Hard Drives and 3PCIe slots
-  notice: []
-321-BCRB:
-  rate: 
-  desc: Chassis up to 24 x 2.5 Hard Drives including 8 NVME Drives, 2CPU Configuration
-  notice: []
-321-BDHZ:
-  rate: 
-  desc: Chassis with Up to 24 x 2.5 Hard Drives for 2CPU, GPU Capable Configuration
-  notice: []
-321-BDTT:
-  rate: 
-  desc: 2.5 Chassis with up to 10 Hard Drives, 4 NVMe Drives and 3 PCIe Slots, 2CPU only
-  notice: []
-321-BDWN:
-  rate: 
-  desc: 2.5Chassis with up to 24 Hard Drives and 4 NVME for 4S config
-  notice: []
-321-BDXY:
-  rate: 
-  desc: Chassis Config 0, 24x3.5" HDD, Single PERC, for Riser Config 1 or 4
-  notice: []
-321-BEMT:
-  rate: 
-  desc: PowerEdge C6420, 2.5 Direct Chassis MLK
-  notice: []
-321-BEMU:
-  rate: 
-  desc: PowerEdge C6420, Single Sled MLK
-  notice: []
-321-BEQH:
-  rate: 
-  desc: Chassis up to 24 x 2.5 Hard Drives including 4 NVME and 2 T4 GPU
-  notice: []
-321-BERO:
-  rate: 
-  desc: 2.5" Chassis with up to 8 Hot Plug Hard Drives
-  notice: []
-321-BFSI:
-  rate: 
-  desc: 2.5" Chassis with up to 8 Hot Plug Hard Drives, No GPU
-  notice: []
-338-BRVH:
-  rate: 125 W
-  desc: Intel Xeon Gold 5218 2.3G, 16C/32T, 10.4GT/s, 22M Cache, Turbo, HT (125W) DDR4-2666
-  notice: []
-338-BRVJ:
-  rate: 205 W
-  desc: Intel Xeon Platinum 8268 2.9G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BRVM:
-  rate: 200 W
-  desc: Intel Xeon Gold 6254 3.1G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (200W) DDR4-2933
-  notice: []
-338-BRVN:
-  rate: 125 W
-  desc: Intel Xeon Gold 6230 2.1G, 20C/40T, 10.4GT/s, 27.5M Cache, Turbo, HT (125W) DDR4-2933
-  notice: []
-338-BRVO:
-  rate: 150 W
-  desc: Intel Xeon Gold 6248 2.5G, 20C/40T, 10.4GT/s, 27.5M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BRVR:
-  rate: 205 W
-  desc: Intel® Xeon® Platinum 8280 2.7G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BSDH:
-  rate: 85 W
-  desc: Intel Xeon Silver 4210 2.2G, 10C/20T, 9.6GT/s, 13.75M Cache, Turbo, HT (85W) DDR4-2400
-  notice: []
-338-BSDI:
-  rate: 125 W
-  desc: Intel Xeon Gold 5220 2.2G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (125W) DDR4-2666
-  notice: []
-338-BSDL:
-  rate: 85 W
-  desc: Intel Xeon Silver 4214 2.2G, 12C/24T, 9.6GT/s, 16.5M Cache, Turbo, HT (85W) DDR4-2400
-  notice: []
-338-BSDO:
-  rate: 100 W
-  desc: Intel Xeon Silver 4216 2.1G, 16C/32T, 9.6GT/s, 22M Cache, Turbo, HT (100W) DDR4-2400
-  notice: []
-338-BSDP:
-  rate: 85 W
-  desc: Intel Xeon Silver 4215 2.5G, 8C/16T, 9.6GT/s, 11M Cache, Turbo, HT (85W) DDR4-2400
-  notice: []
-338-BSDS:
-  rate: 85 W
-  desc: Intel Xeon Gold 5215 2.5G, 10C/20T, 10.4GT/s, 13.75M Cache, Turbo, HT (85W) DDR4-2666
-  notice: []
-338-BSDT:
-  rate: 115 W
-  desc: Intel Xeon Gold 5217 3.0G, 8C/16T, 10.4GT/s, 11M Cache, Turbo, HT (115W) DDR4-2666
-  notice: []
-338-BSEV:
-  rate: 125 W
-  desc: 2x Intel Xeon Gold 5218 2.3G, 16C/32T, 10.4GT/s, 22M Cache, Turbo, HT (125W) DDR4-2666
-  notice: []
-338-BSEX:
-  rate: 205 W
-  desc: 2x Intel  Xeon Platinum 8268 2.9G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BSEY:
-  rate: 150 W
-  desc: 2x Intel  Xeon  Gold 6248 2.5G, 20C/40T, 10.4GT/s, 27.5M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSEZ:
-  rate: 205 W
-  desc: 2x Intel  Xeon  Platinum 8280 2.7G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BSFB:
-  rate: 125 W
-  desc: 2x Intel  Xeon Gold 6230 2.1G, 20C/40T, 10.4GT/s, 27.5M Cache, Turbo, HT (125W) DDR4-2933
-  notice: []
-338-BSGF:
-  rate: 125 W
-  desc: 2x Intel Xeon Gold 5220 2.2G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (125W) DDR4-2666
-  notice: []
-338-BSGG:
-  rate: 85 W
-  desc: 2x Intel Xeon Gold 5215 2.5G, 10C/20T, 10.4GT/s, 13.75M Cache, Turbo, HT (85W) DDR4-2666
-  notice: []
-338-BSGN:
-  rate: 150 W
-  desc: Intel Xeon Gold 6240 2.6G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSGQ:
-  rate: 125 W
-  desc: 2x Intel Xeon Platinum 8253 2.2G, 16C/32T, 10.4GT/s, 22M Cache, Turbo, HT (125W) DDR4-2933
-  notice: []
-338-BSGR:
-  rate: 150 W
-  desc: 2x Intel Xeon Gold 6240 2.6G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSGS:
-  rate: 150 W
-  desc: 2x Intel Xeon Gold 6242 2.8G, 16C/32T, 10.4GT/s, 22M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSGT:
-  rate: 150 W
-  desc: 2x Intel Xeon Gold 6244 3.6G, 8C/16T, 10.4GT/s, 24.75M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSGU:
-  rate: 150 W
-  desc: Intel Xeon Gold 6252 2.1G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSGW:
-  rate: 150 W
-  desc: 2x Intel Xeon Gold 6252 2.1G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSHD:
-  rate: 150 W
-  desc: Intel Xeon Gold 6242 2.8G, 16C/32T, 10.4GT/s, 22M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSHF:
-  rate: 125 W
-  desc: Intel Xeon Platinum 8253 2.2G, 16C/32T, 10.4GT/s, 22M Cache, Turbo, HT (125W) DDR4-2933
-  notice: []
-338-BSHH:
-  rate: 150 W
-  desc: Intel Xeon Gold 6244 3.6G, 8C/16T, 10.4GT/s, 24.75M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-338-BSHJ:
-  rate: 205 W
-  desc: 2x Intel Xeon Platinum 8270 2.7G, 26C/52T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BSHM:
-  rate: 165 W
-  desc: 2x Intel Xeon Platinum 8276 2.2G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSHN:
-  rate: 205 W
-  desc: Intel Xeon Platinum 8280L 2.7G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BSHR:
-  rate: 165 W
-  desc: Intel Xeon Platinum 8276L 2.2G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSHS:
-  rate: 165 W
-  desc: 2x Intel Xeon Platinum 8276L 2.2G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSHT:
-  rate: 205 W
-  desc: 2x Intel Xeon Platinum 8280L 2.7G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BSHY:
-  rate: 165 W
-  desc: Intel Xeon Platinum 8276 2.2G, 28C/56T, 10.4GT/s, 38.5M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSIH:
-  rate: 165 W
-  desc: 2x Intel  Xeon  Platinum 8260 2.4G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSII:
-  rate: 165 W
-  desc: 2x Intel  Xeon  Platinum 8260L 2.4G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSIM:
-  rate: 205 W
-  desc: Intel  Xeon  Platinum 8270 2.7G, 26C/52T, 10.4GT/s, 35.75M Cache, Turbo, HT (205W) DDR4-2933
-  notice: []
-338-BSIQ:
-  rate: 165 W
-  desc: Intel  Xeon Platinum 8260 2.4G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSIV:
-  rate: 165 W
-  desc: Intel  Xeon  Platinum 8260L 2.4G, 24C/48T, 10.4GT/s, 35.75M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BSWG:
-  rate: 180 W
-  desc: AMD 7402P 2.8GHz,24C/48T,128M,180W,3200
-  notice: []
-338-BSWH:
-  rate: 180 W
-  desc: AMD 7502P 2.5GHz,32C/64T,128M,180W,3200
-  notice: []
-338-BSWO:
-  rate: 155 W
-  desc: AMD 7302P 3GHz,16C/32T,128M,155W,3200
-  notice: []
-338-BSWP:
-  rate: 200 W
-  desc: AMD 7702P 2GHz,64C/128T,256M,200W,3200
-  notice: []
-338-BSWV:
-  rate: 85 W
-  desc: Intel Xeon Gold 5215L 2.5G, 10C/20T, 10.4GT/s, 13.75M Cache, Turbo, HT (85W) DDR4-2666
-  notice: []
-338-BSWW:
-  rate: 85 W
-  desc: 2x Intel Xeon Gold 5215L 2.5G, 10C/20T, 10.4GT/s, 13.75M Cache, Turbo, HT (85W) DDR4-2666
-  notice: []
-338-BSWX:
-  rate: 85 W
-  desc: Intel Xeon Silver 4208 2.1G, 8C/16T, 9.6GT/s, 11M Cache, Turbo, HT (85W) DDR4-2400
-  notice: []
-338-BTSH:
-  rate: 140 W
-  desc: 2x Intel Xeon Gold 6238 2.1G, 22C/44T, 10.4GT/s, 30.25M Cache, Turbo, HT (140W) DDR4-2933
-  notice: []
-338-BTSI:
-  rate: 140 W
-  desc: Intel Xeon Gold 6238 2.1G, 22C/44T, 10.4GT/s, 30.25M Cache, Turbo, HT (140W) DDR4-2933
-  notice: []
-338-BTSJ:
-  rate: 140 W
-  desc: Intel Xeon Gold 6238L 2.1G, 22C/44T, 10.4GT/s, 30.25M Cache, Turbo, HT (140W) DDR4-2933
-  notice: []
-338-BTSL:
-  rate: 165 W
-  desc: 2x Intel Xeon Gold 6246 3.3G, 12C/24T, 10.4GT/s, 24.75M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BTSM:
-  rate: 165 W
-  desc: Intel Xeon Gold 6246 3.3G, 12C/24T, 10.4GT/s, 24.75M Cache, Turbo, HT (165W) DDR4-2933
-  notice: []
-338-BTSN:
-  rate: 115 W
-  desc: 2x Intel Xeon Gold 6222V 1.8G, 20C/40T, 10.4GT/s, 27.5M Cache, Turbo, HT (115W) DDR4-2933
-  notice: []
-338-BTSO:
-  rate: 125 W
-  desc: Intel Xeon Gold 6226 2.7G, 12C/24T, 10.4GT/s, 19.25M Cache, Turbo, HT (125W) DDR4-2933
-  notice: []
-338-BTSP:
-  rate: 130 W
-  desc: Intel Xeon Gold 6234 3.3G, 8C/16T, 10.4GT/s, 24.75M Cache, Turbo, HT (130W) DDR4-2933
-  notice: []
-338-BTST:
-  rate: 140 W
-  desc: 2x Intel Xeon Gold 6238L 2.1G, 22C/44T, 10.4GT/s, 30.25M Cache, Turbo, HT (140W) DDR4-2933
-  notice: []
-338-BTSU:
-  rate: 115 W
-  desc: Intel Xeon Gold 6222V 1.8G, 20C/40T, 10.4GT/s, 27.5M Cache, Turbo, HT (115W) DDR4-2400
-  notice: []
-338-BTSW:
-  rate: 125 W
-  desc: 2x Intel Xeon Gold 6226 2.7G, 12C/24T, 10.4GT/s, 19.25M Cache, Turbo, HT (125W) DDR4-2933
-  notice: []
-338-BTWE:
-  rate: 135 W
-  desc: Intel Xeon Gold 6262V, 1.9G, 24C/48T, 10.4GT/s, 33M Cache, Turbo, HT (135W) DDR4-2933
-  notice: []
-338-BTWH:
-  rate: 150 W
-  desc: 2x Intel Xeon Gold 6240L 2.6G, 18C/36T, 10.4GT/s, 24.75M Cache, Turbo, HT (150W) DDR4-2933
-  notice: []
-330-BBLF:
-  rate: 
-  desc: Riser Config 2, 3x16 LP
-  notice: []
-330-BBLG:
-  rate: 
-  desc: Riser Config 6, 5 x8, 3 x16 slots
-  notice: []
-330-BBLH:
-  rate: 
-  desc: Riser Config 4, 3x8, 4 x16 slots
-  notice: []
-330-BBLQ:
-  rate: 
-  desc: Riser Config 4, 2x16 LP
-  notice: []
-330-BBLZ:
-  rate: 
-  desc: Riser Config 3, 2 x 16 LP, XR2
-  notice: []
-330-BBMT:
-  rate: 
-  desc: Riser Config 4, Butterfly - 1xFH+4xLP, Dual CPU, R740xd2
-  notice: []
-330-BBNN:
-  rate: 
-  desc: Riser Config 2, 2x16 LP PCIe slot
+450-ADIJ:
+  rate: 1100 W
+  desc: Dual, Hot-plug, Redundant DC Power Supply (1+1), 1100W -48VDC Only
+  notice: []
+450-ADWM:
+  rate: 1100 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 1100W
+  notice: []
+450-ADWQ:
+  rate: 495 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 495W
+  notice: []
+450-ADWT:
+  rate: 750 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 750W, Titanium, 200-240VAC
+  notice: []
+450-AENU:
+  rate: 2000 W
+  desc: Dual, Hot-plug, Redundant Power Supply, 2000W, C19/C20 Power Cord Required for Use
+  notice: []
+450-AFMQ:
+  rate: 1600 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 1600W, 250 Volt Power Cord Required for Use
+  notice: []
+450-AGFL:
+  rate: 1600 W
+  desc: Dual, Hot-plug, Non-Redundant Power Supply (2 + 0), 1600W
+  notice: []
+450-AGFO:
+  rate: 2400 W
+  desc: Dual,Hot-plug Power Supply , 2400W,250 Volt Power Cord Required for Use
+  notice: []
+450-AGUJ:
+  rate: 550 W
+  desc: Dual, Hot Plug, Redundant Power Supply (1+1), 550W
+  notice: []
+450-AGZG:
+  rate: 550 W
+  desc: Dual, Hot Plug, Redundant Power Supply (1+1), 550W
+  notice: []
+450-AJSC:
+  rate: 750 W
+  desc: Dual, Hot-plug, Redundant Power Supply (1+1), 750W
   notice: []

@@ -7,7 +7,7 @@
 403-BCFX:
   type: SSD
   size: 480 GB
-  desc: BOSS controller card +  with 2 M.2 Sticks 490GB (RAID 1)
+  desc: BOSS controller card +  with 2 M.2 Sticks 480GB (RAID 1)
   notice: []
   interface: M.2
 403-BCHH:
