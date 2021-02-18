@@ -1,5 +1,6 @@
 370-ADMX:
-  cpu: null
+  cpu:
+    - Cascade Lake
   class: DDR4
   speed: 2667
   voltage: 1.2
@@ -7,7 +8,7 @@
   size: 128 GB
   type: LRDIMM
   price: 4099.00
-  name: null
+  name: 128GB LRDIMM, 2666MT/s, Octo Rank
   desc: 128GB LRDIMM, 2666MT/s, Octo Rank
   notice: []
 370-ADNH:
@@ -61,4 +62,17 @@
   price: 572.00
   name: 16GB RDIMM, 3200MT/s, Dual Rank
   desc: 16GB RDIMM, 3200MT/s, Dual Rank
+  notice: []
+370-AGEW:
+  cpu:
+    - Cascade Lake
+  class: DDR4
+  speed: 3200
+  voltage: 1.2
+  ecc: yes
+  size: 128 GB
+  type: LRDIMM
+  price: 4099.00
+  name: 128GB LRDIMM, 3200MT/s, Quad Rank
+  desc: 128GB LRDIMM, 3200MT/s, Quad Rank
   notice: []

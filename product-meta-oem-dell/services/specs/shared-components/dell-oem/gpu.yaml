@@ -1,7 +1,7 @@
 489-BBCG:
   name: NVIDIA Tesla M10 GPU, Requires GRID 2.0 SW for VDI Function
   desc: NVIDIA Tesla M10 GPU, Requires GRID 2.0 SW for VDI Function
-  price: 4519.00
+  price: 4520.00
   notice: []
   power:
     maximum: 225
@@ -10,18 +10,6 @@
     maximum: 767.25
     typical: 767.25
   card type: M10
-490-BEYL:
-  name: NVIDIA(R) Tesla(TM) T4 16GB Passive, Single Slot, Full Height GPU
-  desc: NVIDIA(R) Tesla(TM) T4 16GB Passive, Single Slot, Full Height GPU
-  price: 5249.00
-  notice: []
-  power:
-    maximum: 0
-    typical: 225
-  thermal BTU / hr:
-    maximum: 0
-    typical: 1023.64
-  card type: T4
 490-BFHN:
   name: NVIDIA® Tesla™ T4 16GB Passive, Single Slot, Low Profile GPU
   desc: NVIDIA® Tesla™ T4 16GB Passive, Single Slot, Low Profile GPU
