@@ -1,6 +1,3 @@
-338-BMPC:
-  desc: C34, Single 1U C6420 Sled, H330 HBA, Supports 2.5in or 3.5in Direct and Expander Backplanes
-  notice: []
 338-BMPD:
   desc: C35, Single 1U C6420 Sled, H330 HBA, Supports 2.5in NVMe Backplane
   notice: []

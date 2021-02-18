@@ -152,6 +152,31 @@
   notice: []
   manufacturer: SEAGATE
   model_string: 1.2TB 10K RPM Self-Encrypting SAS 12Gbps 512n 2.5in Hot-plug Hard Drive, FIPS140
+'150696842859783770413576095303130962240':
+  model: 400-AYSE
+  type: HDD
+  size: 1.8 TB
+  desc: 1.8TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+  form-factor: small
+  name: 1.8TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+  price: 1039.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-AYSE
+  notice:
+    - Notice Line 1
+    - 
+    - Notice Line 2
+    - 
+    - Notice line 3
+    - 
+    - Notice line 4
+    - 
+    - 
+    - 
+  manufacturer: SEAGATE
+  model_string: 1.8TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+  end-of-sale: 2021-06-01
 '39177579356867245254051998870578289750':
   model: 400-AYSF
   type: HDD

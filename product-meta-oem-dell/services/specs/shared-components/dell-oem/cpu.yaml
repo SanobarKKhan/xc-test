@@ -1121,7 +1121,11 @@
   price: 2099.00
   specintRatePerCore: 58.79
   memorySpeed: 2666
-  notice: []
+  notice:
+    - Notice line 1
+    - Notice line 2
+    - 
+    - Notice line 4 after an empty line in line 3
 338-BVKL:
   nameId: Gold 6242R
   category: rcpu
