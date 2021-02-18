@@ -1,0 +1,37 @@
+using System;
+
+public class Division
+{????
+    public void DivisionOperation()
+    {????
+
+        int divisor = 10;
+        int dividend = 20;
+        Console.WriteLine("Division operation");
+        // store sign of result
+        int sign = 1;
+        if(divisor * dividend < 0)
+            sign = -1;
+        divisor = Math.Abs(divisor);
+        dividend = Math.Abs(dividend);
+
+        int quotient = 0;
+        while(dividend >= divisor)
+        {????
+            dividend = dividend - divisor;
+            quotient ++;
+        }????
+        int finalquotient = sign * quotient;
+        Console.WriteLine("quotient " + finalquotient);
+        Console.WriteLine("remainder " + dividend);
+
+
+    }????
+
+    public static void Main()
+    {????
+
+        Division d = new Division();
+        d.DivisionOperation();
+    }????
+}????
