@@ -120,7 +120,7 @@
   sku: 400-AXQK
 '166840999981962305612148959121095435610':
   type: SSD
-  size: 3.84 TB
+  size: 3840 GB
   desc: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
   notice: []
   price: 2180.35
@@ -140,7 +140,7 @@
   sku: 400-AXSK
 '63394183602891993764774094171218655218':
   type: SSD
-  size: 3.84 TB
+  size: 3840 GB
   desc: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 1 DWPD, 7008 TBW
   notice: []
   price: 2180.35
@@ -220,7 +220,7 @@
   sku: 400-AZQO
 '80808574923117154152725902313206978044':
   type: SSD
-  size: 1.92 TB
+  size: 1.9 TB
   desc: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive, 3 DWPD, 10512 TBW
   notice: []
   price: 1623.50
@@ -228,7 +228,7 @@
   encryptedPart: False
   approved_by: Legacy, Nutanix
   boot: false
-  capacity_gb: 1920
+  capacity_gb: 1900
   data: true
   interface: SATA
   manufacturer: Ag
@@ -260,7 +260,7 @@
   sku: 400-AZTW
 '139057104888233118379708168295037334380':
   type: SSD
-  size: 1.92 TB
+  size: 1.9 TB
   desc: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 3 DWPD, 10512 TBW
   notice: []
   price: 1623.50
@@ -268,7 +268,7 @@
   encryptedPart: False
   approved_by: Legacy, Nutanix
   boot: false
-  capacity_gb: 1920
+  capacity_gb: 1900
   data: true
   interface: SATA
   manufacturer: Ag

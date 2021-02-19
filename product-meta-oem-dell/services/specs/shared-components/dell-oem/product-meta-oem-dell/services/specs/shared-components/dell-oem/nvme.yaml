@@ -198,3 +198,23 @@
   nand_type: TLC
   form-factor: small
   sku: 400-BKGI
+'214505552832989726967645225003051731234':
+  type: SSD
+  size: 6.4 TB
+  desc: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  notice: []
+  price: 9610.00
+  name: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  encryptedPart: False
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 6400
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-BELR
+  model_string: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BELR
