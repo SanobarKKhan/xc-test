@@ -56,29 +56,59 @@
   name: Dell Networking, Transceiver, 40GbE QSFP+, SR4, 850nm, MPO, 100-150m Reach on OM3/OM4, MMF
   price: 1265.00
   notice: []
-  type: Transceiver
-  transceiver-spec: QSFP+
-  data-rate:
-    - 40 Gbps
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - QSFP+
+      - SFP28
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 40 Gbps
 407-BBDT:
   desc: Cisco 10Gb SFP+ Twinax Cable, 5m
   name: Cisco 10Gb SFP+ Twinax Cable, 5m
   price: 279.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 407-BBDU:
   desc: Cisco 10Gb SFP+ Twinax Cable, 3m
   name: Cisco 10Gb SFP+ Twinax Cable, 3m
   price: 199.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 407-BBEE:
   desc: Dell Networking, Transceiver, SFP+, 10GbE, LR, 1310nm Wavelength, 10km Reach
   name: Dell Networking, Transceiver, SFP+, 10GbE, LR, 1310nm Wavelength, 10km Reach
   price: 1100.00
   notice: []
-  type: Transceiver
-  transceiver-spec: SFP+
-  data-rate:
-    - 10 Gbps
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 407-BBEL:
   desc: Dell Networking, Transceiver, SFP, 1000BASE-T
   name: Dell Networking, Transceiver, SFP, 1000BASE-T
@@ -89,38 +119,58 @@
   name: Mellanox, Transceiver, SFP+, 10Gb, Short-Range
   price: 349.00
   notice: []
-  type: Transceiver
-  transceiver-spec: SFP+
-  data-rate:
-    - 10 Gbps
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 407-BBVK:
   desc: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
   name: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
   price: 279.00
   notice: []
-  type: Transceiver
-  transceiver-spec: SFP+
-  data-rate:
-    - 10 Gbps
-    - 1 Gbps
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
+      - 1 Gbps
 407-BBZO:
   desc: SFP+ SR 10GbE Optical Transceiver, High Temperature, Dell
   name: SFP+ SR 10GbE Optical Transceiver, High Temperature, Dell
   price: 795.00
   notice: []
-  type: Transceiver
-  transceiver-spec: SFP+
-  data-rate:
-    - 10 Gbps
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 407-BCBE:
   desc: Dell EMC PowerEdge SFP+ SR Optic 10GbE 850nm
   name: Dell EMC PowerEdge SFP+ SR Optic 10GbE 850nm
   price: 239.00
   notice: []
-  type: Transceiver
-  transceiver-spec: SFP+
-  data-rate:
-    - 10 Gbps
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 429-ABHW:
   desc: Accessory, Filter, OEM PowerEdge XR2 Server Marine Grade
   name: Accessory, Filter, OEM PowerEdge XR2 Server Marine Grade
@@ -131,26 +181,77 @@
   name: Dell Networking, Cable, SFP+ to SFP+, 10GbE, Copper Twinax Direct Attach Cable, 1 Meter
   price: 75.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 470-AAGP:
   desc: Dell Networking, Cable, SFP+ to SFP+, 10GbE, Copper Twinax Direct Attach Cable, 3 Meter
   name: Dell Networking, Cable, SFP+ to SFP+, 10GbE, Copper Twinax Direct Attach Cable, 3 Meter
   price: 105.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 470-AAGR:
   desc: Dell Networking, Cable, SFP+ to SFP+, 10GbE, Copper Twinax Direct Attach Cable, 5 Meter
   name: Dell Networking, Cable, SFP+ to SFP+, 10GbE, Copper Twinax Direct Attach Cable, 5 Meter
   price: 135.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
 470-ABOT:
   desc: Dell Networking Cable,100GbE QSFP28 to 4 x SFP28 Passive Copper Breakout Cable, 3 Meter
   name: Dell Networking Cable,100GbE QSFP28 to 4 x SFP28 Passive Copper Breakout Cable, 3 Meter
   price: 574.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - QSFP28
+      - QSFP+
+      - SFP28
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 100 Gbps
 470-ABOW:
   desc: Dell Networking Cable,100GbE QSFP28 to QSFP28, Passive Copper Direct Attach Cable, 2 Meter
   name: Dell Networking Cable,100GbE QSFP28 to QSFP28, Passive Copper Direct Attach Cable, 2 Meter
   price: 325.00
   notice: []
+  type: FLOM
+  port:
+    count: 1
+    spec:
+      - QSFP28
+      - QSFP+
+      - SFP28
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 100 Gbps
 470-ADDY:
   desc: Ruggedized 901D Kit, XR2 -  Low Profile Riser Only
   name: Ruggedized 901D Kit, XR2 -  Low Profile Riser Only

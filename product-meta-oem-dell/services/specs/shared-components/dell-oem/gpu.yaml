@@ -1,15 +1,15 @@
-489-BBCG:
-  name: NVIDIA Tesla M10 GPU, Requires GRID 2.0 SW for VDI Function
-  desc: NVIDIA Tesla M10 GPU, Requires GRID 2.0 SW for VDI Function
-  price: 4520.00
+490-BEYL:
+  name: NVIDIA(R) Tesla(TM) T4 16GB Passive, Single Slot, Full Height GPU
+  desc: NVIDIA(R) Tesla(TM) T4 16GB Passive, Single Slot, Full Height GPU
+  price: 5249.00
   notice: []
   power:
-    maximum: 225
+    maximum: 0
     typical: 225
   thermal BTU / hr:
-    maximum: 767.25
-    typical: 767.25
-  card type: M10
+    maximum: 0
+    typical: 1023.64
+  card type: T4
 490-BFHN:
   name: NVIDIA® Tesla™ T4 16GB Passive, Single Slot, Low Profile GPU
   desc: NVIDIA® Tesla™ T4 16GB Passive, Single Slot, Low Profile GPU
@@ -22,39 +22,3 @@
     maximum: 0
     typical: 1023.64
   card type: T4
-490-BFRQ:
-  name: NVIDIA Quadro RTX 6000 24 GB, 250W, Dual Slot, PCIe x16 Passive Cooled, Full Height GPU
-  desc: NVIDIA Quadro RTX 6000 24 GB, 250W, Dual Slot, PCIe x16 Passive Cooled, Full Height GPU
-  price: 8199.00
-  notice: []
-  power:
-    maximum: 250
-    typical: 250
-  thermal BTU / hr:
-    maximum: 4750
-    typical: 4750
-  card type: RTX 6000
-490-BFRR:
-  name: NVIDIA Tesla V100S 32GB, 250W, Passive, Double Wide, Full Height GPU
-  desc: NVIDIA Tesla V100S 32GB, 250W, Passive, Double Wide, Full Height GPU
-  price: 18499.00
-  notice: []
-  power:
-    maximum: 0
-    typical: 225
-  thermal BTU / hr:
-    maximum: 0
-    typical: 1023.64
-  card type: V100S
-490-BFSG:
-  name: NVIDIA Quadro  RTX 8000 48 GB, 250W, Dual Slot,PCIe x16 Passive Cooled, Full Height GPU
-  desc: NVIDIA Quadro  RTX 8000 48 GB, 250W, Dual Slot,PCIe x16 Passive Cooled, Full Height GPU
-  price: 10990.00
-  notice: []
-  power:
-    maximum: 250
-    typical: 250
-  thermal BTU / hr:
-    maximum: 6367
-    typical: 6367
-  card type: RTX 8000
