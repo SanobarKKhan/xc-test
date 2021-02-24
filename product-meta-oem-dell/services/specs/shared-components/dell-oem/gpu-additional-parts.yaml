@@ -14,10 +14,6 @@
   desc: Riser Config 3, 2 x 16 LP, XR2
   notice:
     - Riser kit
-330-BBMT:
-  desc: Riser Config 4, Butterfly - 1xFH+4xLP, Dual CPU, R740xd2
-  notice:
-    - Riser kit
 330-BBNN:
   desc: Riser Config 2, 2x16 LP PCIe slot
   notice:
@@ -126,10 +122,6 @@
   desc: GPU Ready Configuration Cable Install Kit
   notice:
     - GPU Ready Configuration Cable Install Kit
-540-BCFL:
-  desc: PCIE Riser for XC6420
-  notice:
-    - Riser kit
 750-AAUR:
   desc: NonFabric CPU Clip for C6420
   notice:
@@ -142,3 +134,7 @@
   desc: HS Install Kit,GPU Config, EPS12V Cable
   notice:
     - Processor Thermal Module
+330-YYYY:
+  desc: Riser Config 2, 2x16 LP PCIe slot
+  notice:
+    - Riser kit

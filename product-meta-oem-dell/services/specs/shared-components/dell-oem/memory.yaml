@@ -1,16 +1,3 @@
-370-ADMX:
-  cpu:
-    - Cascade Lake
-  class: DDR4
-  speed: 2667
-  voltage: 1.2
-  ecc: yes
-  size: 128 GB
-  type: LRDIMM
-  price: 4099.00
-  name: 128GB LRDIMM, 2666MT/s, Octo Rank
-  desc: 128GB LRDIMM, 2666MT/s, Octo Rank
-  notice: []
 370-ADNH:
   cpu:
     - Cascade Lake

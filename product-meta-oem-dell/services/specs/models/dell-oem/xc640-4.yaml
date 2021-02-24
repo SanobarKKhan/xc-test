@@ -1,0 +1,22 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - 
+label: XC640 CORE-4
+chassis:
+  label: Chassis
+  use-case:
+    - Remote Office/Branch Office
+  product: []
+boot: []
+power: []
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    qty:
+      - 1
+    product: []
+compute: []
+network: []

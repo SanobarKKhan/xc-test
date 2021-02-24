@@ -1,0 +1,26 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - 
+label: XC740XD CORE-12
+chassis:
+  label: Chassis
+  use-case:
+    - Analytics and Big Data
+    - Database and Business Critical Apps
+  product: []
+boot: []
+power: []
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    qty:
+      - 2
+      - 4
+      - 6
+      - 8
+    product: []
+compute: []
+network: []
