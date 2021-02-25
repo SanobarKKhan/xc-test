@@ -130,3 +130,6 @@
   desc: HS Install Kit,GPU Config, EPS12V Cable
   notice:
     - Processor Thermal Module
+330-BBLG:
+  desc: Riser Config 6, 5 x8, 3 x16 slots
+  notice: null
