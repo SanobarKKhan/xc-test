@@ -1,1 +1,200 @@
-{}
+'43084278103483279260019618439313481298':
+  type: SSD
+  size: 1.6 TB
+  desc: Intel 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4600 with Carrier
+  notice: []
+  price: 2152.00
+  name: Intel 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4600 with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-AWLD
+  model_string: Intel 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4600 with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AWLD
+'298339745049653224905112565989127617045':
+  type: SSD
+  size: 1.6 TB
+  desc: Dell 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  notice: []
+  price: 2015.00
+  name: Dell 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: NVMe
+  manufacturer: Samsung
+  metadata: true
+  model: 400-BEFC
+  model_string: Dell 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEFC
+'214505552832989726967645225003051733981':
+  type: SSD
+  size: 6.4 TB
+  desc: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  notice: []
+  price: 9610.00
+  name: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 6400
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-BELR
+  model_string: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BELR
+'295467276563241914106340257036676349543':
+  type: SSD
+  size: 1.6 TB
+  desc: Dell 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  notice: []
+  price: 2152.00
+  name: Dell 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-BELT
+  model_string: Dell 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BELT
+'246972353523660328396878698041626692252':
+  type: SSD
+  size: 750 GB
+  desc: Dell 750GB, NVMe, Ultra Performance Express Flash, 2.5 SFF Drive, U.2, Optane with Carrier
+  notice: []
+  price: 5397.00
+  name: Dell 750GB, NVMe, Ultra Performance Express Flash, 2.5 SFF Drive, U.2, Optane with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 750
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-BGUF
+  model_string: Dell 750GB, NVMe, Ultra Performance Express Flash, 2.5 SFF Drive, U.2, Optane with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BGUF
+'19200905459818286079724237208630576280':
+  type: SSD
+  size: 3.2 TB
+  desc: 3.2TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  notice: []
+  price: 4570.00
+  name: 3.2TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3200
+  data: true
+  interface: NVMe
+  manufacturer: Samsung
+  metadata: true
+  model: 400-BKGD
+  model_string: 3.2TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BKGD
+'95871435093711669359049346072281438417':
+  type: SSD
+  size: 1.6 TB
+  desc: 1.6TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  notice: []
+  price: 2425.00
+  name: 1.6TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: NVMe
+  manufacturer: Samsung
+  metadata: true
+  model: 400-BKGF
+  model_string: 1.6TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BKGF
+'49721042611895952964486647797332626730':
+  type: SSD
+  size: 6.4 TB
+  desc: 6.4TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  notice: []
+  price: 8860.00
+  name: 6.4TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 6400
+  data: true
+  interface: NVMe
+  manufacturer: Samsung
+  metadata: true
+  model: 400-BKGI
+  model_string: 6.4TB Enterprise NVMe Mixed Use AG Drive U.2 Gen4 with carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BKGI
+'179048453891607316891647591398986683792':
+  type: SSD
+  size: 3.2 TB
+  desc: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  notice: []
+  price: 4915.00
+  name: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3200
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-BEMG
+  model_string: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEMG
+'258666303488476385233169021777228728367':
+  type: SSD
+  size: 3.2 TB
+  desc: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  notice: []
+  price: 3166.25
+  name: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3200
+  data: true
+  interface: NVMe
+  manufacturer: Samsung
+  metadata: true
+  model: 400-BEFE
+  model_string: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEFE

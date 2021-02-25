@@ -3,7 +3,7 @@
   desc: Dual, Hot-plug, Redundant DC Power Supply (1+1), 1100W -48VDC Only
   notice: []
 450-ADWQ:
-  rate: 496 W
+  rate: 495 W
   desc: Dual, Hot-plug, Redundant Power Supply (1+1), 495W
   notice: []
 450-ADWT:

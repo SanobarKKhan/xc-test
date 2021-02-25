@@ -44,14 +44,194 @@ storage:
       - 6
       - 8
     product:
+      - sku: 338-BMPC
+      - sku: 338-BMPD
       - sku: 405-AANE
       - sku: 540-BBWM
       - sku: 575-BBNY
-compute: []
+  - type: all-ssd
+    label: 'Storage: All-Flash'
+    desc: Only SSDs
+    ssd:
+      label: 2.5"/3.5" SATA/SAS SSDs
+      notice:
+        - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
+      product:
+        - sku: '323834918580278084328641974500807077565'
+        - sku: '95912119091177647629226493328071369329'
+        - sku: '166840999981962305612148959121095435610'
+        - sku: '1174464922584254170417802415736644907'
+        - sku: '90833455129206868617678552408519836311'
+        - sku: '80808574923117154152725902313206978044'
+        - sku: '160558304592478904032540905540903219810'
+        - sku: '333990743079391927607951567393030209890'
+        - sku: '215137931292368162721804918377844480416'
+        - sku: '229372639610581042077045608570756967868'
+        - sku: '90814140513368975450361688105871080682'
+        - sku: '210219359981054762459125055455586294606'
+        - sku: '235775901007359025031218256037325114878'
+        - sku: '17776468870014337304494786892220978842'
+        - sku: '306028234786407443679263415481738436927'
+        - sku: '58319436410203236490379762893139142151'
+  - type: all-ssd-sed
+    label: 'Storage: All-Flash Self Encrypting Drive (SED)'
+    desc: Only SATA/SAS SED SSDs
+    ssd:
+      label: 2.5"/3.5" SED SSDs
+      notice:
+        - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
+      product:
+        - sku: '338448206611622137018025894881388071203'
+        - sku: '320919677385603210840870212554129099320'
+        - sku: '32794810713895053531054748297700528105'
+  - type: hybrid
+    label: 'Storage: Hybrid'
+    desc: Mix of SATA/SAS SSDs and HDDs
+    config-1:
+      ssd:
+        label: 2.5"/3.5" SATA/SAS SSDs
+        product:
+          - sku: '323834918580278084328641974500807077565'
+          - sku: '95912119091177647629226493328071369329'
+          - sku: '166840999981962305612148959121095435610'
+          - sku: '1174464922584254170417802415736644907'
+          - sku: '90833455129206868617678552408519836311'
+          - sku: '80808574923117154152725902313206978044'
+          - sku: '160558304592478904032540905540903219810'
+          - sku: '333990743079391927607951567393030209890'
+          - sku: '215137931292368162721804918377844480416'
+          - sku: '229372639610581042077045608570756967868'
+          - sku: '90814140513368975450361688105871080682'
+          - sku: '210219359981054762459125055455586294606'
+          - sku: '235775901007359025031218256037325114878'
+          - sku: '17776468870014337304494786892220978842'
+          - sku: '306028234786407443679263415481738436927'
+          - sku: '58319436410203236490379762893139142151'
+      hdd:
+        label: 2.5"/3.5" HDDs
+        product:
+          - sku: '3363891528226423973913074758186198273'
+          - sku: '51113348047165284683467509257691228755'
+compute:
+  - type: cascade-lake
+    label: Cascade Lake and Cascade Lake Refresh
+    cpu:
+      desc: Any Intel Cascade Lake or Cascade Lake Refresh Silver, Gold, or Platinum CPU (8 or more cores per CPU).
+      notice:
+        - Do not mix AMD with Intel.
+      qty:
+        - 2
+        - 4
+        - 6
+        - 8
+      product:
+        - sku: 338-BRVH
+        - sku: 338-BRVJ
+        - sku: 338-BRVM
+        - sku: 338-BRVN
+        - sku: 338-BRVO
+        - sku: 338-BRVR
+        - sku: 338-BSDH
+        - sku: 338-BSDI
+        - sku: 338-BSDL
+        - sku: 338-BSDO
+        - sku: 338-BSDP
+        - sku: 338-BSDS
+        - sku: 338-BSDT
+        - sku: 338-BSGN
+        - sku: 338-BSGU
+        - sku: 338-BSHD
+        - sku: 338-BSHF
+        - sku: 338-BSHH
+        - sku: 338-BSHY
+        - sku: 338-BSIM
+        - sku: 338-BSIQ
+        - sku: 338-BSWX
+        - sku: 338-BTSI
+        - sku: 338-BTSM
+        - sku: 338-BTSO
+        - sku: 338-BTSP
+        - sku: 338-BVJU
+        - sku: 338-BVJV
+        - sku: 338-BVJW
+        - sku: 338-BVJX
+        - sku: 338-BVKD
+        - sku: 338-BVKF
+        - sku: 338-BVKG
+        - sku: 338-BVKH
+        - sku: 338-BVKJ
+        - sku: 338-BVKL
+        - sku: 338-BVKR
+        - sku: 338-BVKU
+    memory:
+      notice:
+        - You may select a maximum of 2 different types of memory capacity (DIMMS).
+      product:
+        - sku: 370-AEVN
+          qty:
+            - 8
+            - 9
+            - 10
+            - 11
+            - 12
+            - 13
+            - 14
+            - 15
+            - 16
+        - sku: 370-AEVP
+          qty:
+            - 8
+            - 9
+            - 10
+            - 11
+            - 12
+            - 13
+            - 14
+            - 15
+            - 16
+        - sku: 370-AEVQ
+          qty:
+            - 8
+            - 9
+            - 10
+            - 11
+            - 12
+            - 13
+            - 14
+            - 15
+            - 16
 network:
-  - type: flom
-    label: FlexibleLOM Adapter
+  - type: pcie
+    label: PCIe Network Interfaces
+    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
     qty:
       - 1
+      - 2
+      - 3
+      - 4
+    product:
+      - sku: 406-BBLD
+      - sku: 540-BBRL
+      - sku: 540-BBVI
+      - sku: 540-BBVJ
+      - sku: 540-BBVK
+      - sku: 540-BBWC
+      - sku: 540-BBZG
+      - sku: 540-BCKX
+      - sku: 540-BCMQ
+      - sku: 555-BCKN
+  - type: transceivers
+    label: Transceiver
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
     product:
       - sku: 407-BBVK
