@@ -1,0 +1,15 @@
+338-BLMP:
+  nameId: 0
+  product: Xeon
+  power: 140 W
+  SPECint: 1951.18
+  mfr: INTEL
+  cores: 22
+  cycles: 2.1
+  arch: Skylake
+  desc: Intel Xeon Gold 6152 2.1G, 22C/44T, 10.4GT/s , 30M Cache, Turbo, HT (140W) DDR4-2666
+  name: Intel Xeon Gold 6152 2.1G, 22C/44T, 10.4GT/s , 30M Cache, Turbo, HT (140W) DDR4-2666
+  price: 6299.00
+  specintRatePerCore: 44.34
+  memorySpeed: 2666
+  notice: []
