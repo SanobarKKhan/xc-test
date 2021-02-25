@@ -1,0 +1,85 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - XC740xd Core-12 Repl
+label: XC740xd Core-12 Repl
+chassis:
+  label: Chassis and chassis sub-components
+  use-case:
+    - Analytics and Big Data
+    - Database and Business Critical Apps
+  product:
+    - type: chassis
+      sku: 321-BCPU
+      qual-date: 6-March-2018
+    - type: fan
+      sku: 384-BBPY
+      qty:
+        - 1
+boot:
+  - type: m.2-boot-drive-raid
+    label: Boot drive (RAID card)
+    desc: Boot drive with RAID card
+    qty:
+      - 1
+    product:
+      - sku: 403-BCHJ
+      - sku: 403-BCHP
+power:
+  - type: power-supply
+    label: Power Supply
+    desc: Power Supply
+    qty:
+      - 1
+    product:
+      - sku: 450-ADIJ
+      - sku: 450-ADWM
+      - sku: 450-ADWT
+      - sku: 450-AENU
+      - sku: 450-AFMQ
+      - sku: 450-AJSC
+  - type: power-cord
+    label: Power Cord
+    desc: Power cord
+    qty:
+      - 2
+      - 4
+      - 6
+      - 8
+    product:
+      - sku: 450-AADX
+      - sku: 450-AAEW
+      - sku: 450-AALV
+      - sku: 450-AAME
+      - sku: 450-AARX
+      - sku: 450-AAXG
+      - sku: 450-ACSL
+      - sku: 450-ACSM
+      - sku: 450-ACSO
+      - sku: 450-AHFH
+      - sku: 470-AARQ
+      - sku: 492-BBDG
+      - sku: 492-BBDH
+      - sku: 492-BBDI
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    desc: storage controller, cable kit and riser kit
+    qty:
+      - 2
+      - 4
+      - 6
+      - 8
+    product:
+      - sku: 405-AANK
+      - sku: 780-BCDI
+compute: []
+network:
+  - type: flom
+    label: FlexibleLOM Adapter
+    qty:
+      - 1
+    product:
+      - sku: 407-BBVK
