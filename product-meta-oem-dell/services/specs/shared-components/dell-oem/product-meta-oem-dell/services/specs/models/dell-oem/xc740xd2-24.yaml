@@ -1,0 +1,67 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - XC740xd2-24
+label: XC740xd2 Core-24
+chassis:
+  label: Chassis
+  use-case:
+    - Analytics and Big Data
+    - Files and Objects
+    - Tactical and Ruggedized
+  product: []
+boot:
+  - type: m.2-boot-drive-raid
+    label: Boot drive (RAID card)
+    desc: Boot drive with RAID card
+    qty:
+      - 1
+    product:
+      - sku: 403-BCHJ
+      - sku: 403-BCHP
+power:
+  - type: power-supply
+    label: Power Supply
+    qty:
+      - 1
+    product:
+      - sku: 450-ADWM
+  - type: power-cord
+    label: Power Cord
+    desc: Power cord
+    qty:
+      - 2
+    product:
+      - sku: 450-AADX
+      - sku: 450-AAEW
+      - sku: 450-AALV
+      - sku: 450-AAME
+      - sku: 450-AARX
+      - sku: 450-AAXG
+      - sku: 450-AAXT
+      - sku: 450-ABLP
+      - sku: 450-ACSL
+      - sku: 450-ACSM
+      - sku: 450-ACSO
+      - sku: 450-AEIT
+      - sku: 450-AEJI
+      - sku: 450-AHFH
+      - sku: 470-AARQ
+      - sku: 470-ADFO
+      - sku: 492-BBDG
+      - sku: 492-BBDH
+      - sku: 492-BBDI
+      - sku: 492-BCON
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    desc: storage controller, cable kit and riser kit
+    qty:
+      - 1
+    product:
+      - sku: 405-AANE
+      - sku: 780-BCDI
+compute: []
+network: []
