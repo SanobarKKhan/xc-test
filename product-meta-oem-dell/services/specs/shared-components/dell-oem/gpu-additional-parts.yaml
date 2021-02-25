@@ -1,0 +1,135 @@
+330-BBLF:
+  desc: Riser Config 2, 3x16 LP
+  notice:
+    - Riser kit
+330-BBLQ:
+  desc: Riser Config 4, 2x16 LP
+  notice:
+    - Riser kit
+330-BBLZ:
+  desc: Riser Config 3, 2 x 16 LP, XR2
+  notice:
+    - Riser kit
+330-BBNN:
+  desc: Riser Config 2, 2x16 LP PCIe slot
+  notice:
+    - Riser kit
+370-ABWE:
+  desc: DIMM Blanks for System with 2 Processors
+  notice:
+    - Processor Thermal Module
+370-ABXX:
+  desc: DIMM Blanks for System with 2 Processors
+  notice:
+    - Processor Thermal Module
+370-ADNM:
+  desc: Blank for 1CPU Configuration
+  notice:
+    - Processor Thermal Module
+370-ADPF:
+  desc: Blank for 1CPU Configuration
+  notice:
+    - Processor Thermal Module
+370-ADPN:
+  desc: Memory, Filler, Blank DIMM, Qty 8
+  notice:
+    - Processor Thermal Module
+379-BCQQ:
+  desc: 4 CPU Heatsink, 3UPI
+  notice:
+    - Processor Thermal Module
+379-BDBF:
+  desc: Riser Config, 4 CPU
+  notice:
+    - Riser kit
+384-BBPR:
+  desc: 5 Standard Fans for R640
+  notice:
+    - Fan kit
+384-BBPY:
+  desc: 6 Standard Fans for R740/740XD
+  notice:
+    - Fan kit
+384-BBPZ:
+  desc: 6 Performance Fans forR740/740XD
+  notice:
+    - Fan kit
+384-BBQI:
+  desc: 8 Performance Fans for R640
+  notice:
+    - Fan kit
+384-BBQJ:
+  desc: 8 Standard Fans for R640
+  notice:
+    - Fan kit
+384-BCFW:
+  desc: Standard Fan
+  notice:
+    - Fan kit
+412-AAIP:
+  desc: 1U Pipe Low Profile Heatsink
+  notice:
+    - Processor Thermal Module
+412-AAIQ:
+  desc: Standard 1U Heatsink
+  notice:
+    - Processor Thermal Module
+412-AAIR:
+  desc: Standard 2U Heatsink
+  notice:
+    - Processor Thermal Module
+412-AAIX:
+  desc: C6420 Heatsink for CPU1
+  notice:
+    - Processor Thermal Module
+412-AAIY:
+  desc: C6420 Extended Width CPU1 Heatsink for High Freq/Power CPU
+  notice:
+    - Processor Thermal Module
+412-AAIZ:
+  desc: C6420 Heatsink for CPU2
+  notice:
+    - Processor Thermal Module
+412-AAJK:
+  desc: Heatsink and Install Kit for GPU configuration
+  notice:
+    - Processor Thermal Module
+412-AAJT:
+  desc: Standard Heat Sink
+  notice:
+    - Processor Thermal Module
+412-AAJU:
+  desc: Standard Heat Sink for 2nd CPU
+  notice:
+    - Processor Thermal Module
+412-AARI:
+  desc: 1 CPU Standard Thermal for 3.5" Chassis
+  notice:
+    - Processor Thermal Module
+412-AASC:
+  desc: Heatsink for CPU equal to or greater than 180W
+  notice:
+    - Processor Thermal Module
+412-AASF:
+  desc: Heatsink for CPU less than 180W
+  notice:
+    - Processor Thermal Module
+470-ACQQ:
+  desc: GPU Ready Configuration Cable Install Kit
+  notice:
+    - GPU Ready Configuration Cable Install Kit
+750-AAUR:
+  desc: NonFabric CPU Clip for C6420
+  notice:
+    - Processor Thermal Module
+750-AAXW:
+  desc: HS Install Kit,GPU Config,No cable
+  notice:
+    - Processor Thermal Module
+750-AAXX:
+  desc: HS Install Kit,GPU Config, EPS12V Cable
+  notice:
+    - Processor Thermal Module
+330-BBLG:
+  desc: Riser Config 6, 5 x8, 3 x16 slots
+  notice: null
