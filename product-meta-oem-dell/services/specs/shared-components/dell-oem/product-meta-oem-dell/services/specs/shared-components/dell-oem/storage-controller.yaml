@@ -1,0 +1,24 @@
+405-AAJU:
+  desc: HBA330 12Gbps SAS HBA Controller (NON-RAID), Minicard
+  notice: []
+405-AANE:
+  desc: HBA330 Controller Card
+  notice: []
+405-AANK:
+  desc: HBA330 Controller Adapter, Low Profile
+  notice: []
+540-BBWM:
+  desc: PERC Bridge Card for C6420
+  notice: []
+575-BBNY:
+  desc: MiniPerc Bracket for C6420
+  notice: []
+780-BCDI:
+  desc: No RAID
+  notice: []
+780-BCET:
+  desc: C4, H330 HBA, C6420 1U Direct BP, Supports up to 6x2.5in Hard Drives
+  notice: []
+780-BCEU:
+  desc: C5, H330 HBA, C6420 1U NVMe, Supports up to 6x2.5in Hard Drives
+  notice: []
