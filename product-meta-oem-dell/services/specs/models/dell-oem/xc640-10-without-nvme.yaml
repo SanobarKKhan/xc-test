@@ -1,0 +1,91 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - XC640-10
+label: XC640 Core-10
+chassis:
+  label: Chassis and chassis sub-components
+  use-case:
+    - End-User Computing/Virtual Desktop Infrastructure
+    - Test and Development
+    - Private Cloud
+  product:
+    - type: chassis
+      sku: 321-BCQL
+      qual-date: 6-March-2018
+    - type: fan
+      sku: 384-BBQI
+      qty:
+        - 1
+    - type: fan
+      sku: 384-BBQJ
+      qty:
+        - 1
+boot:
+  - type: m.2-boot-drive-raid
+    label: Boot drive (RAID card)
+    qty:
+      - 1
+    product:
+      - sku: 403-BCHH
+power:
+  - type: power-supply
+    label: Power Supply
+    desc: Power Supply
+    qty:
+      - 1
+    product:
+      - sku: 450-ADWM
+      - sku: 450-ADWQ
+      - sku: 450-ADWT
+      - sku: 450-AFMQ
+      - sku: 450-AJSC
+  - type: power-cord
+    label: Power Cord
+    desc: Power cord
+    qty:
+      - 2
+    product:
+      - sku: 450-AALV
+      - sku: 450-AAXG
+      - sku: 450-ACSL
+      - sku: 450-ACSM
+      - sku: 450-ACSO
+      - sku: 450-AHFH
+      - sku: 492-BBDG
+      - sku: 492-BBDH
+      - sku: 492-BBDI
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    desc: storage controller, cable kit and riser kit
+    qty:
+      - 1
+    product:
+      - sku: 405-AAJU
+      - sku: 780-BCDI
+compute: []
+network:
+  - type: flom
+    label: FlexibleLOM Adapter
+    qty:
+      - 1
+    product:
+      - sku: 407-BBVK
+  - type: transceivers
+    label: Transceiver
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 407-BBVK

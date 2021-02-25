@@ -6,10 +6,6 @@
   desc: Riser Config 6, 5 x8, 3 x16 slots
   notice:
     - Riser kit
-330-BBLH:
-  desc: Riser Config 4, 3x8, 4 x16 slots
-  notice:
-    - Riser kit
 330-BBLQ:
   desc: Riser Config 4, 2x16 LP
   notice:
