@@ -4,7 +4,7 @@ software: field-installed
 visibility: external
 models:
   - XCXR2
-label: XCXR2 Core-8
+label: XCXR2 Core
 chassis:
   label: Chassis
   use-case:
@@ -16,45 +16,34 @@ chassis:
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)
-    desc: Boot drive with RAID card
     qty:
       - 1
     product:
       - sku: 403-BCHH
-      - sku: 403-BCHI
 power:
   - type: power-supply
     label: Power Supply
-    desc: Power Supply
     qty:
       - 1
     product:
       - sku: 450-AGZG
-      - sku: 450-AALV
-      - sku: 450-AADX
-      - sku: 492-BBDI
-      - sku: 492-BBDG
-      - sku: 450-AAEW
-      - sku: 492-BBDH
-      - sku: 450-ACSM
-      - sku: 470-AARQ
   - type: power-cord
     label: Power Cord
     desc: Power cord
     qty:
       - 2
     product:
-      - sku: 450-ACSO
+      - sku: 450-AALV
+      - sku: 450-AAXG
       - sku: 450-ACSL
       - sku: 450-ACSM
+      - sku: 450-ACSO
+      - sku: 450-AEIT
+      - sku: 450-AEJI
+      - sku: 450-AHFH
       - sku: 492-BBDG
       - sku: 492-BBDH
       - sku: 492-BBDI
-      - sku: 450-AEJI
-      - sku: 450-AAXG
-      - sku: 450-AALV
-      - sku: 450-AEIT
-      - sku: 450-AHFH
 storage:
   - type: storage-controller
     label: Storage storage-controller
@@ -62,184 +51,7 @@ storage:
     qty:
       - 1
     product:
-      - sku: 780-BCDI
       - sku: 405-AANE
-  - type: all-ssd
-    label: 'Storage: All-Flash'
-    desc: Only SSDs
-    ssd:
-      label: 2.5"/3.5" SATA/SAS SSDs
-      notice:
-        - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
-      qty:
-        - 2
-        - 4
-        - 6
-        - 8
-      product:
-        - sku: '3201703884265688375699536108360116059'
-        - sku: '240519460928992803921942000299099072794'
-        - sku: '229079688489890358446306189231630131407'
-        - sku: '201047941852016267622156504445178696582'
-        - sku: '299307632318102340724149417666773397564'
-        - sku: '268295570922968426174827142404469732195'
-        - sku: '295617184082787444565038697055143346348'
-        - sku: '232065336207091531158879565287771086748'
-        - sku: '198043362209761037973247545280425811576'
-        - sku: '95881942765196111557784288161507111865'
-        - sku: '37222195332845161498272941919115516336'
-        - sku: '189681549699183665447863948590765882236'
-        - sku: '246488677298864472749876701749612647667'
-        - sku: '21847380006219371036501008567792865277'
-        - sku: '323834918580278084328641974500807077565'
-  - type: all-ssd-sed
-    label: 'Storage: All-Flash Self Encrypting Drive (SED)'
-    desc: Only SATA/SAS SED SSDs
-    ssd:
-      label: 2.5"/3.5" SED SSDs
-      notice:
-        - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
-      qty:
-        - 2
-        - 4
-        - 6
-        - 8
-      product:
-        - sku: '277278903281806366987814235145274997191'
-        - sku: '90726325996011270541987864872532947061'
-        - sku: '105809996698816992070088675044179177350'
-  - type: hybrid-sed
-    label: 'Storage: Self Encrypting Drive (SED) Hybrid'
-    desc: Mix of SED SSDs and HDDs
-    sed-ssd:
-      label: 2.5"/3.5" SATA // SAS SED SSDs
-      qty:
-        - 2
-      product:
-        - sku: '277278903281806366987814235145274997191'
-        - sku: '90726325996011270541987864872532947061'
-        - sku: '105809996698816992070088675044179177350'
-    sed-hdd:
-      label: 2.5"/3.5" SED HDDs
-      qty:
-        - 4
-        - 6
-      product:
-        - sku: '302191054862632887660665466913475881445'
-  - type: hybrid
-    label: 'Storage: Hybrid'
-    desc: Mix of SATA/SAS SSDs and HDDs
-    config-1:
-      ssd:
-        label: 2.5"/3.5" SATA/SAS SSDs
-        qty:
-          - 2
-        product:
-          - sku: '3201703884265688375699536108360116059'
-          - sku: '240519460928992803921942000299099072794'
-          - sku: '229079688489890358446306189231630131407'
-          - sku: '201047941852016267622156504445178696582'
-          - sku: '299307632318102340724149417666773397564'
-          - sku: '268295570922968426174827142404469732195'
-          - sku: '295617184082787444565038697055143346348'
-          - sku: '232065336207091531158879565287771086748'
-          - sku: '198043362209761037973247545280425811576'
-          - sku: '95881942765196111557784288161507111865'
-          - sku: '37222195332845161498272941919115516336'
-          - sku: '189681549699183665447863948590765882236'
-          - sku: '246488677298864472749876701749612647667'
-          - sku: '21847380006219371036501008567792865277'
-          - sku: '323834918580278084328641974500807077565'
-      hdd:
-        label: 2.5"/3.5" HDDs
-        product:
-          - sku: '232788441978585483251253305337876613260'
-          - sku: '39177579356867245254051998870578289750'
-compute:
-  - type: cascade-lake
-    label: Cascade Lake and Cascade Lake Refresh
-    cpu:
-      desc: Any Intel Cascade Lake or Cascade Lake Refresh Silver, Gold, or Platinum CPU (8 or more cores per CPU).
-      notice:
-        - Do not mix AMD with Intel.
-        - Two processors per selection.
-      qty:
-        - 1
-      product:
-        - sku: 338-BRVH
-        - sku: 338-BRVN
-        - sku: 338-BSDH
-        - sku: 338-BSDI
-        - sku: 338-BSDL
-        - sku: 338-BSDO
-        - sku: 338-BSDP
-        - sku: 338-BSDS
-        - sku: 338-BSDT
-        - sku: 338-BSHF
-        - sku: 338-BTSI
-        - sku: 338-BTSO
-        - sku: 338-BTSP
-        - sku: 338-BTSU
-    memory:
-      notice:
-        - You may select a maximum of 2 different types of memory capacity (DIMMS)
-      product:
-        - sku: 370-AEVQ
-          qty:
-            - 8
-            - 10
-            - 12
-            - 14
-            - 16
-        - sku: 370-AEVN
-          qty:
-            - 8
-            - 10
-            - 12
-            - 14
-            - 16
-        - sku: 370-AEVP
-          qty:
-            - 8
-            - 10
-            - 12
-            - 14
-            - 16
-network:
-  - type: flom
-    label: FlexibleLOM Adapter
-    qty:
-      - 1
-    product:
-      - sku: 540-BCKU
-  - type: pcie
-    label: PCIe Network Interfaces
-    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
-    qty:
-      - 1
-    product:
-      - sku: 540-BBVI
-      - sku: 540-BBRL
-      - sku: 555-BCKN
-      - sku: 540-BBVO
-      - sku: 406-BBLD
-      - sku: 540-BCMQ
-      - sku: 540-BBVJ
-      - sku: 540-BBVK
-  - type: transceivers
-    label: Transceiver
-    desc: Transceiver
-    qty:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-    product:
-      - sku: 429-ABHW
-      - sku: 470-ADDY
+      - sku: 780-BCDI
+compute: []
+network: []

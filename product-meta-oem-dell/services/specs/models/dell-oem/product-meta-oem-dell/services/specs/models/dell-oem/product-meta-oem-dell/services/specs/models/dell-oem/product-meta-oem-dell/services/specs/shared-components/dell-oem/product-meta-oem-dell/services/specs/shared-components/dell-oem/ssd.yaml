@@ -1,1 +1,1140 @@
-{}
+'323834918580278084328641974500807077565':
+  type: SSD
+  size: 7.68 TB
+  desc: 7.68TB Solid State Drive Read Intensive SAS 12Gbps 512e 2.5in PM1643a Hot-Plug 1 DWPD 14016 TBW
+  notice: []
+  price: 8900.00
+  name: 7.68TB Solid State Drive Read Intensive SAS 12Gbps 512e 2.5in PM1643a Hot-Plug 1 DWPD 14016 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 7680
+  data: true
+  interface: SAS
+  manufacturer: Samsung
+  metadata: true
+  model: 345-BBBP
+  model_string: 7.68TB Solid State Drive Read Intensive SAS 12Gbps 512e 2.5in PM1643a Hot-Plug 1 DWPD 14016 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 345-BBBP
+'335603533838886991831607637943942190057':
+  type: SSD
+  size: 7.68 TB
+  desc: 7.68TB Solid State Drive RI SAS 12Gbps 512e 2.5in PM1643a w/ 3.5in HYB CARR 1 DWPD 14016 TBW
+  notice: []
+  price: 8900.00
+  name: 7.68TB Solid State Drive RI SAS 12Gbps 512e 2.5in PM1643a w/ 3.5in HYB CARR 1 DWPD 14016 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 7680
+  data: true
+  interface: SAS
+  manufacturer: Samsung
+  metadata: true
+  model: 345-BBCH
+  model_string: 7.68TB Solid State Drive RI SAS 12Gbps 512e 2.5in PM1643a w/ 3.5in HYB CARR 1 DWPD 14016 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 345-BBCH
+'285819303310181187344972430326732147910':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SAS Mix Use 12Gbps 512n 2.5in Hot-plug Drive, PX05SV,3 DWPD,10512 TBW
+  notice: []
+  price: 3399.00
+  name: 1.92TB SSD SAS Mix Use 12Gbps 512n 2.5in Hot-plug Drive, PX05SV,3 DWPD,10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOSHIBA
+  metadata: true
+  model: 400-ASFZ
+  model_string: 1.92TB SSD SAS Mix Use 12Gbps 512n 2.5in Hot-plug Drive, PX05SV,3 DWPD,10512 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-ASFZ
+'328081329898234127749207467571452165071':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Read Intensive 12Gb 512e 2.5in Hot-plug Drive, PM1633a,1 DWPD,7008 TBW
+  notice: []
+  price: 4500.00
+  name: 3.84TB SSD SAS Read Intensive 12Gb 512e 2.5in Hot-plug Drive, PM1633a,1 DWPD,7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: SAMSUNG
+  metadata: true
+  model: 400-ASGI
+  model_string: 3.84TB SSD SAS Read Intensive 12Gb 512e 2.5in Hot-plug Drive, PM1633a,1 DWPD,7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-ASGI
+'95912119091177647629226493328071369329':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  notice: []
+  price: 3703.40
+  name: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOSHIBA
+  metadata: true
+  model: 400-AXPE
+  model_string: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AXPE
+'258177486820870950109041153366594214437':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 1 DWPD, 7008 TBW
+  notice: []
+  price: 3703.40
+  name: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOSHIBA
+  metadata: true
+  model: 400-AXQK
+  model_string: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-AXQK
+'166840999981962305612148959121095435610':
+  type: SSD
+  size: 3840 GB
+  desc: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  notice: []
+  price: 2180.35
+  name: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SATA
+  manufacturer: INTEL
+  metadata: true
+  model: 400-AXSK
+  model_string: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AXSK
+'63394183602891993764774094171218655218':
+  type: SSD
+  size: 3840 GB
+  desc: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 1 DWPD, 7008 TBW
+  notice: []
+  price: 2180.35
+  name: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SATA
+  manufacturer: INTEL
+  metadata: true
+  model: 400-AXTF
+  model_string: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-AXTF
+'1174464922584254170417802415736644907':
+  type: SSD
+  size: 1.6 TB
+  desc: 1.6TB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 8760 TBW
+  notice: []
+  price: 2365.00
+  name: 1.6TB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 8760 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: SAS
+  manufacturer: Ag
+  metadata: true
+  model: 400-AZOY
+  model_string: 1.6TB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 8760 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AZOY
+'220061746464546034380484556121739909946':
+  type: SSD
+  size: 1.6 TB
+  desc: 1.6TB SSD SAS Mixed Use 12Gbps 512 2.5in HP AG Drive,3.5in HYB CARR, 3 DWPD, 8760 TBW
+  notice: []
+  price: 2365.00
+  name: 1.6TB SSD SAS Mixed Use 12Gbps 512 2.5in HP AG Drive,3.5in HYB CARR, 3 DWPD, 8760 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: SAS
+  manufacturer: Ag
+  metadata: true
+  model: 400-AZPQ
+  model_string: 1.6TB SSD SAS Mixed Use 12Gbps 512 2.5in HP AG Drive,3.5in HYB CARR, 3 DWPD, 8760 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-AZPQ
+'90833455129206868617678552408519836311':
+  type: SSD
+  size: 800 GB
+  desc: 800GB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 4380 TBW
+  notice: []
+  price: 1360.00
+  name: 800GB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 4380 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 800
+  data: true
+  interface: SAS
+  manufacturer: Ag
+  metadata: true
+  model: 400-AZQO
+  model_string: 800GB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 4380 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AZQO
+'80808574923117154152725902313206978044':
+  type: SSD
+  size: 1.9 TB
+  desc: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive, 3 DWPD, 10512 TBW
+  notice: []
+  price: 1623.50
+  name: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive, 3 DWPD, 10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1900
+  data: true
+  interface: SATA
+  manufacturer: Ag
+  metadata: true
+  model: 400-AZTN
+  model_string: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive, 3 DWPD, 10512 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AZTN
+'252841938026033781970632760279754843483':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 3 DWPD, 5256 TBW
+  notice: []
+  price: 984.00
+  name: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 3 DWPD, 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SATA
+  manufacturer: Ag
+  metadata: true
+  model: 400-AZTW
+  model_string: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-AZTW
+'139057104888233118379708168295037334380':
+  type: SSD
+  size: 1.9 TB
+  desc: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 3 DWPD, 10512 TBW
+  notice: []
+  price: 1623.50
+  name: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 3 DWPD, 10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1900
+  data: true
+  interface: SATA
+  manufacturer: Ag
+  metadata: true
+  model: 400-AZVG
+  model_string: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive,3.5in HYB CARR, 3 DWPD, 10512 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-AZVG
+'160558304592478904032540905540903219810':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive, 3 DWPD, 5256 TBW
+  notice: []
+  price: 984.00
+  name: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive, 3 DWPD, 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SATA
+  manufacturer: Ag
+  metadata: true
+  model: 400-AZVM
+  model_string: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive, 3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AZVM
+'37222195332845161498272941919115516336':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  notice: []
+  price: 3703.40
+  name: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: Agnostic
+  metadata: true
+  model: 400-BBHM
+  model_string: 3.84TB SSD SAS Read Intensive 12Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBHM
+'246488677298864472749876701749612647667':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  notice: []
+  price: 2180.35
+  name: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SATA
+  manufacturer: Agnostic
+  metadata: true
+  model: 400-BBHY
+  model_string: 3.84TB SSD SATA Read Intensive 6Gbps 512 2.5in Hot-plug AG Drive, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBHY
+'3201703884265688375699536108360116059':
+  type: SSD
+  size: 480 GB
+  desc: 480GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  notice: []
+  price: 467.16
+  name: 480GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 480
+  data: true
+  interface: SATA
+  manufacturer: Agnostic
+  metadata: true
+  model: 400-BBKW
+  model_string: 480GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBKW
+'198043362209761037973247545280425811576':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  notice: []
+  price: 1623.50
+  name: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SATA
+  manufacturer: Agnostic
+  metadata: true
+  model: 400-BBKX
+  model_string: 1.92TB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBKX
+'299307632318102340724149417666773397564':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  notice: []
+  price: 984.00
+  name: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SATA
+  manufacturer: Agnostic
+  metadata: true
+  model: 400-BBKY
+  model_string: 960GB SSD SATA Mix Use 6Gbps 512 2.5in Hot-plug AG Drive
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBKY
+'295617184082787444565038697055143346348':
+  type: SSD
+  size: 1.6 TB
+  desc: 1.6TB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 8760 TBW
+  notice: []
+  price: 2365.00
+  name: 1.6TB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 8760 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: SAS
+  manufacturer: Agnostic
+  metadata: true
+  model: 400-BBLN
+  model_string: 1.6TB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 8760 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBLN
+'229079688489890358446306189231630131407':
+  type: SSD
+  size: 800 GB
+  desc: 800GB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 4380 TBW
+  notice: []
+  price: 1360.00
+  name: 800GB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 4380 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 800
+  data: true
+  interface: SAS
+  manufacturer: Agnostic
+  metadata: true
+  model: 400-BBLW
+  model_string: 800GB SSD SAS Mix Use 12Gbps 512e 2.5in Hot-plug AG Drive, 3 DWPD, 4380 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBLW
+'208736722385166478577359621399482425670':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Read Intensive 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-R HYB CARR Drive, 1 DWPD, 7008 TBW
+  notice: []
+  price: 4500.00
+  name: 3.84TB SSD SAS Read Intensive 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-R HYB CARR Drive, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BBQU
+  model_string: 3.84TB SSD SAS Read Intensive 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-R HYB CARR Drive, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BBQU
+'333990743079391927607951567393030209890':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Read Intensive 12Gbps 512e 2.5in PM5-R Hot-plug Drive, 1 DWPD, 7008 TBW
+  notice: []
+  price: 4500.00
+  name: 3.84TB SSD SAS Read Intensive 12Gbps 512e 2.5in PM5-R Hot-plug Drive, 1 DWPD, 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BBQX
+  model_string: 3.84TB SSD SAS Read Intensive 12Gbps 512e 2.5in PM5-R Hot-plug Drive, 1 DWPD, 7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BBQX
+'215137931292368162721804918377844480416':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SAS Mixed use 12Gbps 512e 2.5in Hot-Plug PM5-V Drive, 3 DWPD, 10512 TBW
+  notice: []
+  price: 3399.00
+  name: 1.92TB SSD SAS Mixed use 12Gbps 512e 2.5in Hot-Plug PM5-V Drive, 3 DWPD, 10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: Toshiba
+  metadata: true
+  model: 400-BCOM
+  model_string: 1.92TB SSD SAS Mixed use 12Gbps 512e 2.5in Hot-Plug PM5-V Drive, 3 DWPD, 10512 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BCOM
+'33277448667516586057416269844547649013':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SAS Mixed use 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-V Drive, 3 DWPD, 10512 TBW
+  notice: []
+  price: 3399.00
+  name: 1.92TB SSD SAS Mixed use 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-V Drive, 3 DWPD, 10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: Toshiba
+  metadata: true
+  model: 400-BCPF
+  model_string: 1.92TB SSD SAS Mixed use 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-V Drive, 3 DWPD, 10512 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BCPF
+'106973222121069373278777675025646403022':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SAS Mixed use 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-V Drive, 3 DWPD, 5256 TBW
+  notice: []
+  price: 2249.00
+  name: 960GB SSD SAS Mixed use 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-V Drive, 3 DWPD, 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BCQF
+  model_string: 960GB SSD SAS Mixed use 12Gbps 512e 2.5in with 3.5in HYB CARR PM5-V Drive, 3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BCQF
+'229372639610581042077045608570756967868':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SAS Mixed use 12Gbps 512e 2.5in Hot-Plug PM5-V Drive, 3 DWPD, 5256 TBW
+  notice: []
+  price: 2249.00
+  name: 960GB SSD SAS Mixed use 12Gbps 512e 2.5in Hot-Plug PM5-V Drive, 3 DWPD, 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: Toshiba
+  metadata: true
+  model: 400-BCQN
+  model_string: 960GB SSD SAS Mixed use 12Gbps 512e 2.5in Hot-Plug PM5-V Drive, 3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BCQN
+'181896035135284048764539979459186028594':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SATA Read Intensive 6Gbps 512e 2.5in Hot-plug,3.5in HYB CARR S4510 Drive, 1 DWPD,7008 TBW
+  notice: []
+  price: 2945.00
+  name: 3.84TB SSD SATA Read Intensive 6Gbps 512e 2.5in Hot-plug,3.5in HYB CARR S4510 Drive, 1 DWPD,7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BDMN
+  model_string: 3.84TB SSD SATA Read Intensive 6Gbps 512e 2.5in Hot-plug,3.5in HYB CARR S4510 Drive, 1 DWPD,7008 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BDMN
+'90814140513368975450361688105871080682':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SATA Read Intensive 6Gbps 512e 2.5in Hot Plug S4510 Drive, 1 DWPD,7008 TBW
+  notice: []
+  price: 2945.00
+  name: 3.84TB SSD SATA Read Intensive 6Gbps 512e 2.5in Hot Plug S4510 Drive, 1 DWPD,7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BDNK
+  model_string: 3.84TB SSD SATA Read Intensive 6Gbps 512e 2.5in Hot Plug S4510 Drive, 1 DWPD,7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BDNK
+'210219359981054762459125055455586294606':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot Plug S4610 Drive, 3 DWPD, 5256 TBW
+  notice: []
+  price: 1275.00
+  name: 960GB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot Plug S4610 Drive, 3 DWPD, 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BDSI
+  model_string: 960GB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot Plug S4610 Drive, 3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BDSI
+'235775901007359025031218256037325114878':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SATA Mix used 6Gbps 512e 2.5in Hot Plug S4610 Drive,
+  notice: []
+  price: 2320.00
+  name: 1.92TB SSD SATA Mix used 6Gbps 512e 2.5in Hot Plug S4610 Drive,
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BDSU
+  model_string: 1.92TB SSD SATA Mix used 6Gbps 512e 2.5in Hot Plug S4610 Drive,
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BDSU
+'232235102000095982338033691357195658811':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot plug, 3.5in HYB CARR S4610 Drive
+  notice: []
+  price: 1275.00
+  name: 960GB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot plug, 3.5in HYB CARR S4610 Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BDSW
+  model_string: 960GB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot plug, 3.5in HYB CARR S4610 Drive
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BDSW
+'327552674714696482850109063432365066969':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot plug, 3.5in HYB CARR S4610 Drive
+  notice: []
+  price: 2320.00
+  name: 1.92TB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot plug, 3.5in HYB CARR S4610 Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BDSY
+  model_string: 1.92TB SSD SATA Mixed Use 6Gbps 512e 2.5in Hot plug, 3.5in HYB CARR S4610 Drive
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BDSY
+'95881942765196111557784288161507111865':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  notice: []
+  price: 2320.00
+  name: 1.92TB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BDZZ
+  model_string: 1.92TB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BDZZ
+'240519460928992803921942000299099072794':
+  type: SSD
+  size: 480 GB
+  desc: 480GB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  notice: []
+  price: 645.00
+  name: 480GB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 480
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BEBF
+  model_string: 480GB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEBF
+'268295570922968426174827142404469732195':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  notice: []
+  price: 1275.00
+  name: 960GB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BEBG
+  model_string: 960GB SSD SATA Mixed use 6Gbps 512e 2.5in Hot-Plug S4610 Drive
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEBG
+'277278903281806366987814235145274997191':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 5256 TBW
+  notice: []
+  price: 2399.00
+  name: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 5256 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BENR
+  model_string: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BENR
+'187596409501666706120111138643570238193':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS MU 12Gbps FIPS-140 512e 2.5in, 3.5in HYB CARR Flex Bay Drive, PM5-V,3 DWPD, 21024 TBW
+  notice: []
+  price: 6999.00
+  name: 3.84TB SSD SAS MU 12Gbps FIPS-140 512e 2.5in, 3.5in HYB CARR Flex Bay Drive, PM5-V,3 DWPD, 21024 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEOF
+  model_string: 3.84TB SSD SAS MU 12Gbps FIPS-140 512e 2.5in, 3.5in HYB CARR Flex Bay Drive, PM5-V,3 DWPD, 21024 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BEOF
+'338448206611622137018025894881388071203':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 5256 TBW
+  notice: []
+  price: 2399.00
+  name: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 5256 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEPD
+  model_string: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEPD
+'320919677385603210840870212554129099320':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 21024 TBW
+  notice: []
+  price: 6999.00
+  name: 3.84TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 21024 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEPF
+  model_string: 3.84TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 21024 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEPF
+'319359679676482206481078651062153599135':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive,PM5-V,3 DWPD 10512 TBW
+  notice: []
+  price: 4099.00
+  name: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive,PM5-V,3 DWPD 10512 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEPQ
+  model_string: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive,PM5-V,3 DWPD 10512 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BEPQ
+'90726325996011270541987864872532947061':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V, 3 DWPD, 10512 TBW
+  notice: []
+  price: 4099.00
+  name: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V, 3 DWPD, 10512 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEPX
+  model_string: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V, 3 DWPD, 10512 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEPX
+'236564196379886529687428749132874249116':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive, PM5-V,3 DWPD, 5256 TBW
+  notice: []
+  price: 2399.00
+  name: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive, PM5-V,3 DWPD, 5256 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEQD
+  model_string: 960GB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive, PM5-V,3 DWPD, 5256 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BEQD
+'32794810713895053531054748297700528105':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V, 3 DWPD, 10512 TBW
+  notice: []
+  price: 4099.00
+  name: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V, 3 DWPD, 10512 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEQI
+  model_string: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V, 3 DWPD, 10512 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEQI
+'105809996698816992070088675044179177350':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 21024 TBW
+  notice: []
+  price: 6999.00
+  name: 3.84TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 21024 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEQK
+  model_string: 3.84TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in, PM5-V,3 DWPD, 21024 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEQK
+'78408177111929703329100808916904642813':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive,PM5-V,3 DWPD 10512 TBW
+  notice: []
+  price: 4099.00
+  name: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive,PM5-V,3 DWPD 10512 TBW
+  encryptedPart: true
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BEQT
+  model_string: 1.92TB SSD SAS Mixed Use 12Gbps FIPS-140 512e 2.5in with 3.5in HYB CARR Drive,PM5-V,3 DWPD 10512 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BEQT
+'21847380006219371036501008567792865277':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD SATA S4510 Read Intensive 6Gbps 512e 2.5in Hot-Plug, S4510, 1 DWPD 7008 TBW
+  notice: []
+  price: 2945.00
+  name: 3.84TB SSD SATA S4510 Read Intensive 6Gbps 512e 2.5in Hot-Plug, S4510, 1 DWPD 7008 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SATA
+  manufacturer: Intel
+  metadata: true
+  model: 400-BFHE
+  model_string: 3.84TB SSD SATA S4510 Read Intensive 6Gbps 512e 2.5in Hot-Plug, S4510, 1 DWPD 7008 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BFHE
+'44257168229517000873839198424605727078':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in with 3.5in HYB CARR Hot-Plug AG drive,3 DWPD 5256 TBW
+  notice: []
+  price: 1132.00
+  name: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in with 3.5in HYB CARR Hot-Plug AG drive,3 DWPD 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFQI
+  model_string: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in with 3.5in HYB CARR Hot-Plug AG drive,3 DWPD 5256 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BFQI
+'288302816310155338370455306208354828862':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in with 3.5in HYB CARR Hot-Plug AG drive,3 DWPD 10512 TBW
+  notice: []
+  price: 2197.00
+  name: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in with 3.5in HYB CARR Hot-Plug AG drive,3 DWPD 10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFQM
+  model_string: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in with 3.5in HYB CARR Hot-Plug AG drive,3 DWPD 10512 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BFQM
+'17776468870014337304494786892220978842':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG Drive,3 DWPD 21024 TBW
+  notice: []
+  price: 4388.00
+  name: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG Drive,3 DWPD 21024 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFQX
+  model_string: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG Drive,3 DWPD 21024 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BFQX
+'201047941852016267622156504445178696582':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive, 3 DWPD 5256 TBW
+  notice: []
+  price: 1132.00
+  name: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive, 3 DWPD 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFRC
+  model_string: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive, 3 DWPD 5256 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BFRC
+'189681549699183665447863948590765882236':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 21024 TBW
+  notice: []
+  price: 4388.00
+  name: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 21024 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFRP
+  model_string: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 21024 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BFRP
+'159572594392020449881194519129022838858':
+  type: SSD
+  size: 3.84 TB
+  desc: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in w/3.5in HYB CARR Hot-Plug AG Drive, 3 DWPD 21024 TBW
+  notice: []
+  price: 4388.00
+  name: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in w/3.5in HYB CARR Hot-Plug AG Drive, 3 DWPD 21024 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3840
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFRS
+  model_string: 3.84TB SSD vSAS Mixed Use 12Gbps 512e 2.5in w/3.5in HYB CARR Hot-Plug AG Drive, 3 DWPD 21024 TBW
+  nand_type: TLC
+  form-factor: large
+  sku: 400-BFRS
+'306028234786407443679263415481738436927':
+  type: SSD
+  size: 960 GB
+  desc: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 5256 TBW
+  notice: []
+  price: 1132.00
+  name: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 5256 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 960
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFRU
+  model_string: 960GB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 5256 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BFRU
+'232065336207091531158879565287771086748':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 10512 TBW
+  notice: []
+  price: 2197.00
+  name: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFRV
+  model_string: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 10512 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BFRV
+'58319436410203236490379762893139142151':
+  type: SSD
+  size: 1.92 TB
+  desc: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 10512 TBW
+  notice: []
+  price: 2197.00
+  name: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 10512 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1920
+  data: true
+  interface: SAS
+  manufacturer: TOS
+  metadata: true
+  model: 400-BFSE
+  model_string: 1.92TB SSD vSAS Mixed Use 12Gbps 512e 2.5in Hot-Plug AG drive,3 DWPD 10512 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BFSE
