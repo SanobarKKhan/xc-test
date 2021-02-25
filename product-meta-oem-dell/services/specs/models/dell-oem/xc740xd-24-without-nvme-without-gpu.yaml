@@ -1,0 +1,89 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - XC740xd-24
+label: XC740xd Core-24
+chassis:
+  label: Chassis and chassis sub-components
+  use-case:
+    - Database and Business Critical Apps
+  product:
+    - type: chassis
+      sku: 321-BCPY
+      qual-date: 6-March-2018
+    - type: fan
+      sku: 384-BBPY
+      qty:
+        - 1
+boot:
+  - type: m.2-boot-drive-raid
+    label: Boot drive (RAID card)
+    desc: Boot drive with RAID card
+    qty:
+      - 1
+    product:
+      - sku: 403-BCHJ
+      - sku: 403-BCHP
+power:
+  - type: power-supply
+    label: Power Supply
+    desc: Power Supply
+    qty:
+      - 1
+    product:
+      - sku: 450-ADIJ
+      - sku: 450-ADWM
+      - sku: 450-ADWT
+      - sku: 450-AENU
+      - sku: 450-AFMQ
+      - sku: 450-AJSC
+  - type: power-cord
+    label: Power Cord
+    desc: Power cord
+    qty:
+      - 2
+      - 4
+      - 6
+      - 8
+    product:
+      - sku: 450-AAXT
+      - sku: 450-AEIT
+      - sku: 450-AEJI
+      - sku: 450-AFFX
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    desc: storage controller, cable kit and riser kit
+    qty:
+      - 2
+      - 4
+      - 6
+      - 8
+    product:
+      - sku: 405-AANK
+      - sku: 780-BCDI
+compute: []
+network:
+  - type: flom
+    label: FlexibleLOM Adapter
+    qty:
+      - 1
+    product:
+      - sku: 407-BBVK
+  - type: transceivers
+    label: Transceiver
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 407-BBVK
