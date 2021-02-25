@@ -1,0 +1,262 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - XC640-4
+label: XC640 Core-4
+chassis:
+  label: Chassis and chassis sub-components
+  use-case:
+    - Remote Office/Branch Office
+  notice:
+    - 3 node cluster deployment.
+  product:
+    - type: chassis
+      sku: 321-BCQF
+      qual-date: 6-March-2018
+    - type: fan
+      sku: 384-BBQI
+      qty:
+        - 1
+    - type: fan
+      sku: 384-BBQJ
+      qty:
+        - 1
+boot:
+  - type: m.2-boot-drive-raid
+    label: Boot drive (RAID card)
+    desc: Boot drive with RAID card
+    qty:
+      - 1
+    product:
+      - sku: 403-BCHH
+      - sku: 403-BCHI
+power:
+  - type: power-supply
+    label: Power Supply
+    desc: Power Supply
+    qty:
+      - 1
+    product:
+      - sku: 450-AADX
+      - sku: 450-AAEW
+      - sku: 450-AALV
+      - sku: 450-ACSM
+      - sku: 450-ADWM
+      - sku: 450-ADWQ
+      - sku: 450-ADWT
+      - sku: 450-AFMQ
+      - sku: 450-AJSC
+      - sku: 470-AARQ
+      - sku: 492-BBDG
+      - sku: 492-BBDH
+      - sku: 492-BBDI
+  - type: power-cord
+    label: Power Cord
+    desc: Power cord
+    qty:
+      - 2
+      - 4
+      - 6
+      - 8
+    product:
+      - sku: 450-AALV
+      - sku: 450-AAXG
+      - sku: 450-ACSL
+      - sku: 450-ACSM
+      - sku: 450-ACSO
+      - sku: 450-AHFH
+      - sku: 492-BBDG
+      - sku: 492-BBDH
+      - sku: 492-BBDI
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    desc: storage controller, cable kit and riser kit
+    qty:
+      - 1
+    product:
+      - sku: 405-AAJU
+      - sku: 780-BCDI
+  - type: all-ssd
+    label: 'Storage: All-Flash'
+    desc: Only SSDs
+    ssd:
+      label: 2.5"/3.5" SATA/SAS SSDs
+      notice:
+        - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
+      qty:
+        - 2
+        - 4
+      product:
+        - sku: '258177486820870950109041153366594214437'
+        - sku: '63394183602891993764774094171218655218'
+        - sku: '220061746464546034380484556121739909946'
+        - sku: '252841938026033781970632760279754843483'
+        - sku: '139057104888233118379708168295037334380'
+        - sku: '208736722385166478577359621399482425670'
+        - sku: '33277448667516586057416269844547649013'
+        - sku: '106973222121069373278777675025646403022'
+        - sku: '181896035135284048764539979459186028594'
+        - sku: '232235102000095982338033691357195658811'
+        - sku: '327552674714696482850109063432365066969'
+        - sku: '44257168229517000873839198424605727078'
+        - sku: '159572594392020449881194519129022838858'
+  - type: all-ssd-sed
+    label: 'Storage: All-Flash Self Encrypting Drive (SED)'
+    desc: Only SATA/SAS SED SSDs
+    ssd:
+      label: 2.5"/3.5" SED SSDs
+      notice:
+        - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
+      qty:
+        - 2
+        - 4
+      product:
+        - sku: '187596409501666706120111138643570238193'
+        - sku: '78408177111929703329100808916904642813'
+  - type: hybrid-sed
+    label: 'Storage: Self Encrypting Drive (SED) Hybrid'
+    desc: Mix of SED SSDs and HDDs
+    sed-ssd:
+      label: 2.5"/3.5" SATA/SAS SED SSDs
+      product:
+        - sku: '187596409501666706120111138643570238193'
+        - sku: '78408177111929703329100808916904642813'
+    sed-hdd:
+      label: 2.5"/3.5" SED HDDs
+      product:
+        - sku: '253667036555301183149624218239703600969'
+        - sku: '13525792393416442364281855044260109809'
+  - type: hybrid
+    label: 'Storage: Hybrid'
+    desc: Mix of SATA/SAS SSDs and HDDs
+    config-1:
+      ssd:
+        label: 2.5"/3.5" SATA/SAS SSDs
+        product:
+          - sku: '258177486820870950109041153366594214437'
+          - sku: '63394183602891993764774094171218655218'
+          - sku: '220061746464546034380484556121739909946'
+          - sku: '252841938026033781970632760279754843483'
+          - sku: '139057104888233118379708168295037334380'
+          - sku: '208736722385166478577359621399482425670'
+          - sku: '33277448667516586057416269844547649013'
+          - sku: '106973222121069373278777675025646403022'
+          - sku: '181896035135284048764539979459186028594'
+          - sku: '232235102000095982338033691357195658811'
+          - sku: '327552674714696482850109063432365066969'
+          - sku: '44257168229517000873839198424605727078'
+          - sku: '159572594392020449881194519129022838858'
+      hdd:
+        label: 2.5"/3.5" HDDs
+        product:
+          - sku: '23139207858072538075981294016406373471'
+          - sku: '322448286474736019060245053608788603508'
+          - sku: '178493438221655812690515969222832276099'
+          - sku: '253832018645947396541998317877843234420'
+          - sku: '88162332449009455531526147020928690689'
+          - sku: '145135824134346564621174368429977173415'
+compute:
+  - type: cascade-lake
+    label: Cascade Lake and Cascade Lake Refresh
+    cpu:
+      desc: Any Intel Cascade Lake or Cascade Lake Refresh Silver, Gold, or Platinum CPU (8 or more cores per CPU).
+      notice:
+        - Do not mix AMD with Intel.
+        - Two processors per selection.
+      qty:
+        - 1
+      product:
+        - sku: 338-BRVH
+        - sku: 338-BRVJ
+        - sku: 338-BRVM
+        - sku: 338-BRVN
+        - sku: 338-BRVO
+        - sku: 338-BRVR
+        - sku: 338-BSDH
+        - sku: 338-BSDI
+        - sku: 338-BSDL
+        - sku: 338-BSDO
+        - sku: 338-BSDP
+        - sku: 338-BSDS
+        - sku: 338-BSDT
+        - sku: 338-BSGN
+        - sku: 338-BSGU
+        - sku: 338-BSHD
+        - sku: 338-BSHF
+        - sku: 338-BSHH
+        - sku: 338-BSHN
+        - sku: 338-BSHR
+        - sku: 338-BSHY
+        - sku: 338-BSIM
+        - sku: 338-BSIQ
+        - sku: 338-BSIV
+        - sku: 338-BSWV
+        - sku: 338-BSWX
+        - sku: 338-BTSI
+        - sku: 338-BTSJ
+        - sku: 338-BTSM
+        - sku: 338-BTSO
+        - sku: 338-BTSP
+        - sku: 338-BTSU
+        - sku: 338-BTWE
+        - sku: 338-BTWV
+        - sku: 338-BVJU
+        - sku: 338-BVJV
+        - sku: 338-BVJW
+        - sku: 338-BVJX
+        - sku: 338-BVKD
+        - sku: 338-BVKF
+        - sku: 338-BVKG
+        - sku: 338-BVKH
+        - sku: 338-BVKJ
+        - sku: 338-BVKL
+        - sku: 338-BVKQ
+        - sku: 338-BVKR
+        - sku: 338-BVKU
+    memory:
+      notice:
+        - You may select a maximum of 2 different types of memory capacity (DIMMS)
+      product:
+        - sku: 370-AEVN
+          qty:
+            - 4
+            - 6
+            - 8
+            - 10
+            - 12
+            - 14
+            - 16
+            - 18
+            - 20
+            - 22
+            - 24
+        - sku: 370-AEVP
+          qty:
+            - 4
+            - 6
+            - 8
+            - 10
+            - 12
+            - 14
+            - 16
+            - 18
+            - 20
+            - 22
+            - 24
+        - sku: 370-AEVQ
+          qty:
+            - 4
+            - 6
+            - 8
+            - 10
+            - 12
+            - 14
+            - 16
+            - 18
+            - 20
+            - 22
+            - 24
+network: []
