@@ -1,0 +1,62 @@
+vendor: Dell EMC
+product-line: XC Core
+software: field-installed
+visibility: external
+models:
+  - XC6515-8
+label: XC6515 Core-8
+chassis:
+  label: Chassis and chassis sub-components
+  use-case:
+    - End-User Computing/Virtual Desktop Infrastructure
+    - Remote Office/Branch Office
+    - Database and Business Critical Apps
+  product:
+    - type: chassis
+      sku: 321-BERO
+      qual-date: 15-July-2020
+    - type: fan
+      sku: 384-BCFW
+      qty:
+        - 1
+boot:
+  - type: m.2-boot-drive-raid
+    label: Boot drive (RAID card)
+    qty:
+      - 1
+    product:
+      - sku: 403-BCHH
+power:
+  - type: power-supply
+    label: Power Supply
+    qty:
+      - 1
+    product:
+      - sku: 450-AGUJ
+  - type: power-cord
+    label: Power Cord
+    desc: Power cord
+    qty:
+      - 2
+    product:
+      - sku: 450-AALV
+      - sku: 450-AAXG
+      - sku: 450-ACSL
+      - sku: 450-ACSM
+      - sku: 450-ACSO
+      - sku: 450-AEIT
+      - sku: 450-AHFH
+      - sku: 492-BBDG
+      - sku: 492-BBDH
+      - sku: 492-BBDI
+storage:
+  - type: storage-controller
+    label: Storage storage-controller
+    desc: storage controller, cable kit and riser kit
+    qty:
+      - 1
+    product:
+      - sku: 405-AAJU
+      - sku: 780-BCDI
+compute: []
+network: []
