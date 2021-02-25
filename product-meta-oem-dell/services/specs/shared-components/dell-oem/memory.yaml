@@ -33,7 +33,7 @@
   ecc: yes
   size: 64 GB
   type: RDIMM
-  price: 2125.00
+  price: 2124.00
   name: 64GB RDIMM, 3200MT/s, Dual Rank
   desc: 64GB RDIMM, 3200MT/s, Dual Rank
   notice: []
@@ -49,4 +49,17 @@
   price: 572.00
   name: 16GB RDIMM, 3200MT/s, Dual Rank
   desc: 16GB RDIMM, 3200MT/s, Dual Rank
+  notice: []
+370-ADMX:
+  cpu:
+    - Cascade Lake
+  class: DDR4
+  speed: 2667
+  voltage: 1.2
+  ecc: yes
+  size: 128 GB
+  type: LRDIMM
+  price: 4099.00
+  name: 128GB LRDIMM, 2666MT/s, Octo Rank
+  desc: 128GB LRDIMM, 2666MT/s, Octo Rank
   notice: []

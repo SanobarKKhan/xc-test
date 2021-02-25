@@ -1,11 +1,8 @@
 321-BCPU:
   desc: Chassis with Up to 12 x 3.5 Hard Drives for 2CPU Configuration
-  nodes: 2
+  nodes: 1
   height-ru: 2
-  notice:
-    - Multi
-    - notes
-    - test
+  notice: []
 321-BCPY:
   desc: Chassis with Up to 24 x 2.5" Hard Drives for 2CPU
   nodes: 1
@@ -41,8 +38,7 @@
   nodes: up to 4
   height-ru: 2
   notice:
-    - If you select 3 nodes, add a blank tray to get the maximum of 4.
-    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis.
+    - If you select less than 6 drives, add blanks to equal 6.
 321-BEQH:
   desc: Chassis up to 24 x 2.5 Hard Drives including 4 NVME and 2 T4 GPU
   nodes: 1
@@ -55,7 +51,7 @@
   notice: []
 321-BFBS:
   desc: PowerEdge C6400 Enclosure, 2.5" Hard Drives V3
-  nodes: up to 4
+  nodes: 3 or 4
   height-ru: 2
   notice:
     - If you select 3 nodes, add a blank tray to get the maximum of 4.
@@ -65,14 +61,24 @@
   nodes: 1
   height-ru: 1
   notice: []
-634-BRRY:
-  desc: 2.5 up to 24 HD 8 NVME HD for pilot
+321-BDXY:
+  desc: Chassis Config 0, 24x3.5" HDD, Single PERC, for Riser Config 1 or 4
   nodes: 1
   height-ru: 2
   notice: []
 321-BEMU:
   desc: PowerEdge C6420, Single Sled MLK
-  nodes: up to 6
+  nodes: up to 4
   height-ru: 2
   notice:
-    - If you select 3 nodes, add a blank tray to get the maximum of 4.;6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis.
+    - If you select less than 6 drives, add blanks to equal 6.
+321-BCMQ:
+  desc: 2.5" Chassis with up to 24 Hard Drives
+  nodes: 1
+  height-ru: 3
+  notice: []
+321-BCQF:
+  desc: 3.5 Chassis with up to 4 Hard Drives and 3PCIe slots
+  nodes: 1
+  height-ru: 1
+  notice: []

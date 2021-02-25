@@ -10,6 +10,10 @@
   desc: Riser Config 3, 2 x 16 LP, XR2
   notice:
     - Riser kit
+330-BBMT:
+  desc: Riser Config 4, Butterfly - 1xFH+4xLP, Dual CPU, R740xd2
+  notice:
+    - Riser kit
 330-BBNN:
   desc: Riser Config 2, 2x16 LP PCIe slot
   notice:
@@ -132,4 +136,9 @@
     - Processor Thermal Module
 330-BBLG:
   desc: Riser Config 6, 5 x8, 3 x16 slots
-  notice: null
+  notice:
+    - Riser kit
+540-BCFL:
+  desc: PCIE Riser for XC6420
+  notice:
+    - Riser kit

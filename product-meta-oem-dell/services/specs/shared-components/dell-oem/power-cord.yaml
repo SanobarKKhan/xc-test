@@ -61,3 +61,6 @@
 492-BCON:
   desc: Y-Power Cord, C13 to C14, 2-1 PDU Style, 10 amps, 6 feet / 2meter
   notice: []
+450-AADZ:
+  desc: C13 to C14, PDU Style, 10 AMP, 13 Feet (4m), Power Cord
+  notice: []

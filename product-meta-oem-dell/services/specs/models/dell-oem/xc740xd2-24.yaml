@@ -11,7 +11,10 @@ chassis:
     - Analytics and Big Data
     - Files and Objects
     - Tactical and Ruggedized
-  product: []
+  product:
+    - type: chassis
+      sku: 321-BDXY
+      qual-date: 18-Dec-2019
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)
@@ -35,6 +38,7 @@ power:
       - 2
     product:
       - sku: 450-AADX
+      - sku: 450-AADZ
       - sku: 450-AAEW
       - sku: 450-AALV
       - sku: 450-AAME
@@ -63,5 +67,162 @@ storage:
     product:
       - sku: 405-AANE
       - sku: 780-BCDI
-compute: []
-network: []
+  - type: hybrid-sed
+    label: 'Storage: Self Encrypting Drive (SED) Hybrid'
+    desc: Mix of SED SSDs and HDDs
+    sed-ssd:
+      label: 2.5"/3.5" SATA/SAS SED SSDs
+      qty:
+        - 4
+      product:
+        - sku: '187596409501666706120111138643570238193'
+        - sku: '236564196379886529687428749132874249116'
+    sed-hdd:
+      label: 2.5"/3.5" SED HDDs
+      qty:
+        - 12
+        - 14
+        - 16
+        - 18
+        - 20
+      product:
+        - sku: '13525792393416442364281855044260109809'
+  - type: hybrid
+    label: 'Storage: Hybrid'
+    desc: Mix of SATA/SAS SSDs and HDDs
+    config-1:
+      ssd:
+        label: 2.5"/3.5" SATA/SAS SSDs
+        qty:
+          - 4
+        product:
+          - sku: '258177486820870950109041153366594214437'
+          - sku: '63394183602891993764774094171218655218'
+          - sku: '252841938026033781970632760279754843483'
+          - sku: '139057104888233118379708168295037334380'
+          - sku: '208736722385166478577359621399482425670'
+          - sku: '33277448667516586057416269844547649013'
+          - sku: '106973222121069373278777675025646403022'
+          - sku: '181896035135284048764539979459186028594'
+          - sku: '232235102000095982338033691357195658811'
+          - sku: '327552674714696482850109063432365066969'
+          - sku: '44257168229517000873839198424605727078'
+          - sku: '288302816310155338370455306208354828862'
+          - sku: '159572594392020449881194519129022838858'
+      hdd:
+        label: 2.5"/3.5" HDDs
+        qty:
+          - 12
+          - 14
+          - 16
+          - 18
+          - 20
+        product:
+          - sku: '253832018645947396541998317877843234420'
+          - sku: '145135824134346564621174368429977173415'
+compute:
+  - type: cascade-lake
+    label: Cascade Lake and Cascade Lake Refresh
+    cpu:
+      desc: Any Intel Cascade Lake or Cascade Lake Refresh Silver, Gold, or Platinum CPU (8 or more cores per CPU).
+      notice:
+        - Do not mix AMD with Intel.
+        - Two processors per selection.
+      qty:
+        - 1
+      product:
+        - sku: 338-BRVH
+        - sku: 338-BRVN
+        - sku: 338-BSDH
+        - sku: 338-BSDI
+        - sku: 338-BSDL
+        - sku: 338-BSDO
+        - sku: 338-BSDP
+        - sku: 338-BSDS
+        - sku: 338-BSDT
+        - sku: 338-BTSI
+        - sku: 338-BTSO
+        - sku: 338-BTSU
+        - sku: 338-BTWE
+        - sku: 338-BVJX
+        - sku: 338-BVKD
+        - sku: 338-BVKJ
+    memory:
+      notice:
+        - You may select a maximum of 2 different types of memory capacity (DIMMS).
+      product:
+        - sku: 370-AEVN
+          qty:
+            - 8
+            - 10
+            - 12
+            - 14
+            - 16
+        - sku: 370-AEVP
+          qty:
+            - 8
+            - 10
+            - 12
+            - 14
+            - 16
+        - sku: 370-AEVQ
+          qty:
+            - 8
+            - 10
+            - 12
+            - 14
+            - 16
+network:
+  - type: flom
+    label: FlexibleLOM Adapter
+    qty:
+      - 1
+    product:
+      - sku: 540-BCKU
+  - type: pcie
+    label: PCIe Network Interfaces
+    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 406-BBLD
+      - sku: 540-BBRL
+      - sku: 540-BBVI
+      - sku: 540-BBVJ
+      - sku: 540-BBVK
+      - sku: 540-BBVO
+      - sku: 540-BCMQ
+      - sku: 555-BCKN
+  - type: network-cable
+    label: Network Cables
+    desc: Network Cables
+    qty:
+      - 1
+    product:
+      - sku: 407-BBDT
+      - sku: 407-BBDU
+      - sku: 470-AAGN
+      - sku: 470-AAGP
+      - sku: 470-AAGR
+      - sku: 470-ABOT
+      - sku: 470-ABOW
+  - type: transceivers
+    label: Transceiver
+    desc: Transceiver
+    qty:
+      - 1
+    product:
+      - sku: 407-BBBY
+      - sku: 407-BBEE
+      - sku: 407-BBEL
+      - sku: 407-BBOH
+      - sku: 407-BBVK
