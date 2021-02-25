@@ -65,11 +65,6 @@
   nodes: 1
   height-ru: 1
   notice: []
-634-BRRY:
-  desc: 2.5 up to 24 HD 8 NVME HD for pilot
-  nodes: 1
-  height-ru: 2
-  notice: []
 321-BEMU:
   desc: PowerEdge C6420, Single Sled MLK
   nodes: up to 6
