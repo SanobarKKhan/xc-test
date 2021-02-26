@@ -1,6 +1,7 @@
 450-AADX:
   desc: C13 to C14, PDU Style, 10 AMP, 2 Feet (.6m), Power Cord
-  notice: []
+  notice:
+    - test for component subtype
 450-AAEW:
   desc: 250V, 2.5 meter PowerCord for Argentina
   notice: []

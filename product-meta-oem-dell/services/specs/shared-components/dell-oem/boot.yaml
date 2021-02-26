@@ -14,7 +14,8 @@
   type: SSD
   size: 240 GB
   desc: BOSS controller card + with 2 M.2 Sticks 240G (RAID 1),FH
-  notice: []
+  notice:
+    - test
   interface: M.2
 403-BBSD:
   type: SSD

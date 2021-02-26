@@ -547,7 +547,7 @@
 407-BBVK:
   desc: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
   name: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
-  price: 279.00
+  price: 290.00
   notice: []
   type: Transceiver
   transceiver-spec: SFP+
