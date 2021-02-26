@@ -2,8 +2,9 @@
   type: SSD
   size: 480 GB
   desc: BOSS controller card + with 2 M.2 Sticks 480GB (RAID 1),LP
-  notice: []
-  interface: M.2
+  notice:
+    - Tested
+  interface: M.4
 403-BCHJ:
   type: SSD
   size: 480 GB
