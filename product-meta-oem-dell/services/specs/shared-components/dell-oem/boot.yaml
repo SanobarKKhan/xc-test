@@ -23,9 +23,3 @@
   desc: BOSS controller card +  with 2 M.2 Sticks 240G (RAID 1)
   notice: []
   interface: M.2
-403-BCHI:
-  type: SSD
-  size: 240 GB
-  desc: BOSS controller card + with 2 M.2 Sticks 240G (RAID 1),LP
-  notice: []
-  interface: M.2
