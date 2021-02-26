@@ -38,7 +38,7 @@
   nodes: up to 4
   height-ru: 2
   notice:
-    - If you select less than 6 drives, add blanks to equal 6.
+    - If you select 3 nodes, add a blank tray to get the maximum of 4.,6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis. New Notice
 321-BEQH:
   desc: Chassis up to 24 x 2.5 Hard Drives including 4 NVME and 2 T4 GPU
   nodes: 1
