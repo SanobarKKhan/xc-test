@@ -38,6 +38,26 @@
   nand_type: TLC
   form-factor: small
   sku: 400-BEFC
+'258666303488476385233169021777228728367':
+  type: SSD
+  size: 3.2 TB
+  desc: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  notice: []
+  price: 3166.25
+  name: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3200
+  data: true
+  interface: NVMe
+  manufacturer: Samsung
+  metadata: true
+  model: 400-BEFE
+  model_string: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEFE
 '214505552832989726967645225003051733981':
   type: SSD
   size: 6.4 TB
@@ -78,6 +98,26 @@
   nand_type: TLC
   form-factor: small
   sku: 400-BELT
+'179048453891607316891647591398986683792':
+  type: SSD
+  size: 3.2 TB
+  desc: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  notice: []
+  price: 4915.00
+  name: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 3200
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-BEMG
+  model_string: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-BEMG
 '246972353523660328396878698041626692252':
   type: SSD
   size: 750 GB
@@ -158,43 +198,3 @@
   nand_type: TLC
   form-factor: small
   sku: 400-BKGI
-'179048453891607316891647591398986683792':
-  type: SSD
-  size: 3.2 TB
-  desc: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
-  notice: []
-  price: 4915.00
-  name: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
-  encryptedPart: false
-  approved_by: Legacy, Nutanix
-  boot: false
-  capacity_gb: 3200
-  data: true
-  interface: NVMe
-  manufacturer: Intel
-  metadata: true
-  model: 400-BEMG
-  model_string: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
-  nand_type: TLC
-  form-factor: small
-  sku: 400-BEMG
-'258666303488476385233169021777228728367':
-  type: SSD
-  size: 3.2 TB
-  desc: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
-  notice: []
-  price: 3166.25
-  name: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
-  encryptedPart: false
-  approved_by: Legacy, Nutanix
-  boot: false
-  capacity_gb: 3200
-  data: true
-  interface: NVMe
-  manufacturer: Samsung
-  metadata: true
-  model: 400-BEFE
-  model_string: Dell 3.2TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, PM1725b with Carrier
-  nand_type: TLC
-  form-factor: small
-  sku: 400-BEFE

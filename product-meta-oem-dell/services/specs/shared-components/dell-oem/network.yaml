@@ -1,9 +1,46 @@
+374-BBWT:
+  desc: PCIe Blank Filler, R6515 / R7515
+  name: PCIe Blank Filler, R6515 / R7515
+  price: 0.00
+  notice: []
+406-BBLD:
+  desc: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28 Adapter, PCIe Low Profile
+  name: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28 Adapter, PCIe Low Profile
+  price: 709.00
+  notice: []
+  type: PCIe
+  port:
+    count: 2
+    spec:
+      - SFP28
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
+      - 25 Gbps
 406-BBLE:
   desc: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28  Adapter, PCIe Full Height
   name: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28  Adapter, PCIe Full Height
   price: 709.00
   notice: []
   type: PCIe
+  port:
+    count: 2
+    spec:
+      - SFP28
+      - SFP+
+      - QSFP
+      - SFP
+    data-rate:
+      - 10 Gbps
+      - 25 Gbps
+406-BBLG:
+  desc: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28, rNDC
+  name: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28, rNDC
+  price: 709.00
+  notice: []
+  type: FLOM
   port:
     count: 2
     spec:
@@ -28,6 +65,11 @@
   name: Cisco 10Gb SFP+ Twinax Cable, 5m
   price: 279.00
   notice: []
+407-BBDU:
+  desc: Cisco 10Gb SFP+ Twinax Cable, 3m
+  name: Cisco 10Gb SFP+ Twinax Cable, 3m
+  price: 199.00
+  notice: []
 407-BBEE:
   desc: Dell Networking, Transceiver, SFP+, 10GbE, LR, 1310nm Wavelength, 10km Reach
   name: Dell Networking, Transceiver, SFP+, 10GbE, LR, 1310nm Wavelength, 10km Reach
@@ -37,6 +79,11 @@
   transceiver-spec: SFP+
   data-rate:
     - 10 Gbps
+407-BBEL:
+  desc: Dell Networking, Transceiver, SFP, 1000BASE-T
+  name: Dell Networking, Transceiver, SFP, 1000BASE-T
+  price: 134.00
+  notice: []
 407-BBOH:
   desc: Mellanox, Transceiver, SFP+, 10Gb, Short-Range
   name: Mellanox, Transceiver, SFP+, 10Gb, Short-Range
@@ -46,6 +93,16 @@
   transceiver-spec: SFP+
   data-rate:
     - 10 Gbps
+407-BBVK:
+  desc: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
+  name: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
+  price: 279.00
+  notice: []
+  type: Transceiver
+  transceiver-spec: SFP+
+  data-rate:
+    - 10 Gbps
+    - 1 Gbps
 407-BBZO:
   desc: SFP+ SR 10GbE Optical Transceiver, High Temperature, Dell
   name: SFP+ SR 10GbE Optical Transceiver, High Temperature, Dell
@@ -497,60 +554,3 @@
     data-rate:
       - 10 Gbps
       - 1 Gbps
-407-BBDU:
-  desc: Cisco 10Gb SFP+ Twinax Cable, 3m
-  name: Cisco 10Gb SFP+ Twinax Cable, 3m
-  price: 199.00
-  notice: []
-374-BBWT:
-  desc: PCIe Blank Filler, R6515 / R7515
-  name: PCIe Blank Filler, R6515 / R7515
-  price: 0.00
-  notice: []
-406-BBLD:
-  desc: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28 Adapter, PCIe Low Profile
-  name: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28 Adapter, PCIe Low Profile
-  price: 709.00
-  notice: []
-  type: PCIe
-  port:
-    count: 2
-    spec:
-      - SFP28
-      - SFP+
-      - QSFP
-      - SFP
-    data-rate:
-      - 10 Gbps
-      - 25 Gbps
-406-BBLG:
-  desc: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28, rNDC
-  name: Mellanox ConnectX-4 LX Dual Port 10/25GbE SFP28, rNDC
-  price: 709.00
-  notice: []
-  type: FLOM
-  port:
-    count: 2
-    spec:
-      - SFP28
-      - SFP+
-      - QSFP
-      - SFP
-    data-rate:
-      - 10 Gbps
-      - 25 Gbps
-407-BBEL:
-  desc: Dell Networking, Transceiver, SFP, 1000BASE-T
-  name: Dell Networking, Transceiver, SFP, 1000BASE-T
-  price: 134.00
-  notice: []
-407-BBVK:
-  desc: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
-  name: SFP+, SR, Optical Transceiver, Intel, 10Gb-1Gb
-  price: 290.00
-  notice: []
-  type: Transceiver
-  transceiver-spec: SFP+
-  data-rate:
-    - 10 Gbps
-    - 1 Gbps

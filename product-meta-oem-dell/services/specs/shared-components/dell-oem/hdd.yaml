@@ -1,3 +1,17 @@
+'3363891528226423973913074758186198273':
+  model: 400-ASHI
+  type: HDD
+  size: 1.2 TB
+  desc: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+  form-factor: small
+  name: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
+  price: 709.00
+  encryptedPart: false
+  interface: SAS
+  sku: 400-ASHI
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
 '23139207858072538075981294016406373471':
   model: 400-ASHS
   type: HDD
@@ -54,20 +68,20 @@
   notice: []
   manufacturer: SEAGATE
   model_string: 8TB 7.2K RPM Self-Encrypting NLSAS 12Gbps 512e 3.5in Hot-plug Hard Drive, FIPS140
-'332350918979768162741666163275938522688':
-  model: 400-AVHH
+'51113348047165284683467509257691228755':
+  model: 400-AVEZ
   type: HDD
   size: 2.4 TB
-  desc: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
+  desc: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
   form-factor: small
-  name: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
-  price: 1399.00
-  encryptedPart: true
+  name: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+  price: 1179.00
+  encryptedPart: false
   interface: SAS
-  sku: 400-AVHH
+  sku: 400-AVEZ
   notice: []
   manufacturer: SEAGATE
-  model_string: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
+  model_string: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
 '253832018645947396541998317877843234420':
   model: 400-AWIP
   type: HDD
@@ -166,31 +180,3 @@
   notice: []
   manufacturer: TOS
   model_string: 16TB Hard Drive SAS 12Gbps 7.2K 512e 3.5in Hot-Plug
-'51113348047165284683467509257691228755':
-  model: 400-AVEZ
-  type: HDD
-  size: 2.4 TB
-  desc: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
-  form-factor: small
-  name: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
-  price: 1179.00
-  encryptedPart: false
-  interface: SAS
-  sku: 400-AVEZ
-  notice: []
-  manufacturer: SEAGATE
-  model_string: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
-'3363891528226423973913074758186198273':
-  model: 400-ASHI
-  type: HDD
-  size: 1.2 TB
-  desc: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
-  form-factor: small
-  name: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
-  price: 709.00
-  encryptedPart: false
-  interface: SAS
-  sku: 400-ASHI
-  notice: []
-  manufacturer: SEAGATE
-  model_string: 1.2TB 10K RPM SAS 12Gbps 512n 2.5in Hot-plug Hard Drive
