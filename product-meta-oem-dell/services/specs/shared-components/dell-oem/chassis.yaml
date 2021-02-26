@@ -49,13 +49,6 @@
   nodes: 1
   height-ru: 1
   notice: []
-321-BFBS:
-  desc: PowerEdge C6400 Enclosure, 2.5" Hard Drives V3
-  nodes: 3 or 4
-  height-ru: 2
-  notice:
-    - If you select 3 nodes, add a blank tray to get the maximum of 4.
-    - 6400 Enclosure Chassis does not have Rack Unit. Given RU is for 6420 Chassis.
 321-BFSI:
   desc: 2.5" Chassis with up to 8 Hot Plug Hard Drives, No GPU
   nodes: 1
