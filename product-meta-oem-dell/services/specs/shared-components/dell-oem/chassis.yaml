@@ -71,7 +71,7 @@
   nodes: up to 4
   height-ru: 2
   notice:
-    - If you select less than 6 drives, add blanks to equal 6.
+    - This is test notice
 321-BCMQ:
   desc: 2.5" Chassis with up to 24 Hard Drives
   nodes: 1
