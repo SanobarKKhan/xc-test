@@ -3,7 +3,7 @@ product-line: XC Core
 software: field-installed
 visibility: external
 models:
-  - XC640-10
+  - XC640 Core-10
 label: XC640 Core-10
 chassis:
   label: Chassis and chassis sub-components
@@ -49,6 +49,9 @@ power:
     desc: Power cord
     qty:
       - 2
+      - 4
+      - 6
+      - 8
     product:
       - sku: 450-AALV
       - sku: 450-AAXG
@@ -82,7 +85,6 @@ storage:
         - 8
         - 10
       product:
-        - sku: '323834918580278084328641974500807077565'
         - sku: '95912119091177647629226493328071369329'
         - sku: '166840999981962305612148959121095435610'
         - sku: '1174464922584254170417802415736644907'
@@ -106,10 +108,8 @@ storage:
         - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
       qty:
         - 2
+        - 3
         - 4
-        - 6
-        - 8
-        - 10
       product:
         - sku: '338448206611622137018025894881388071203'
         - sku: '320919677385603210840870212554129099320'
@@ -120,12 +120,7 @@ storage:
     config-1:
       ssd:
         label: 2.5"/3.5" SATA/SAS SSDs
-        qty:
-          - 2
-          - 3
-          - 4
         product:
-          - sku: '323834918580278084328641974500807077565'
           - sku: '95912119091177647629226493328071369329'
           - sku: '166840999981962305612148959121095435610'
           - sku: '1174464922584254170417802415736644907'
@@ -142,12 +137,6 @@ storage:
           - sku: '58319436410203236490379762893139142151'
       hdd:
         label: 2.5"/3.5" HDDs
-        qty:
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
         product:
           - sku: '3363891528226423973913074758186198273'
           - sku: '51113348047165284683467509257691228755'
@@ -213,28 +202,6 @@ compute:
       notice:
         - You may select a maximum of 2 different types of memory capacity (DIMMS).
       product:
-        - sku: 370-ADMX
-          qty:
-            - 8
-            - 10
-            - 12
-            - 14
-            - 16
-            - 18
-            - 20
-            - 22
-            - 24
-        - sku: 370-ADNH
-          qty:
-            - 8
-            - 10
-            - 12
-            - 14
-            - 16
-            - 18
-            - 20
-            - 22
-            - 24
         - sku: 370-AEVN
           qty:
             - 8
@@ -271,58 +238,12 @@ compute:
 network:
   - type: flom
     label: FlexibleLOM Adapter
-    desc: Flexible LAN on Motherboard (FLOM) adapter
     qty:
       - 1
     product:
-      - sku: 406-BBLG
       - sku: 407-BBVK
-      - sku: 540-BBUK
-      - sku: 540-BBUL
-      - sku: 540-BBUM
-      - sku: 540-BBUY
-      - sku: 540-BBUZ
-      - sku: 555-BCKO
-  - type: pcie
-    label: PCIe Network Interfaces
-    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
-    qty:
-      - 1
-      - 2
-    product:
-      - sku: 406-BBLD
-      - sku: 540-BBCZ
-      - sku: 540-BBDB
-      - sku: 540-BBRL
-      - sku: 540-BBVI
-      - sku: 540-BBVJ
-      - sku: 540-BBVK
-      - sku: 540-BCMQ
-      - sku: 555-BCKN
-  - type: network-cable
-    label: Network Cables
-    desc: Network Cables
-    qty:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-    product:
-      - sku: 407-BBDT
-      - sku: 407-BBDU
-      - sku: 470-AAGN
-      - sku: 470-AAGP
-      - sku: 470-AAGR
-      - sku: 470-ABOT
   - type: transceivers
     label: Transceiver
-    desc: Transceiver
     qty:
       - 1
       - 2
@@ -336,4 +257,3 @@ network:
       - 10
     product:
       - sku: 407-BBVK
-      - sku: 407-BCBE

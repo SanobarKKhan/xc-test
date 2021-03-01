@@ -68,7 +68,6 @@ storage:
         - 6
         - 8
       product:
-        - sku: '323834918580278084328641974500807077565'
         - sku: '37222195332845161498272941919115516336'
         - sku: '246488677298864472749876701749612647667'
         - sku: '3201703884265688375699536108360116059'
@@ -124,7 +123,6 @@ storage:
         qty:
           - 2
         product:
-          - sku: '323834918580278084328641974500807077565'
           - sku: '37222195332845161498272941919115516336'
           - sku: '246488677298864472749876701749612647667'
           - sku: '3201703884265688375699536108360116059'
@@ -195,41 +193,4 @@ compute:
             - 12
             - 14
             - 16
-network:
-  - type: flom
-    label: FlexibleLOM Adapter
-    qty:
-      - 1
-    product:
-      - sku: 540-BCKU
-  - type: pcie
-    label: PCIe Network Interfaces
-    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
-    qty:
-      - 1
-    product:
-      - sku: 406-BBLD
-      - sku: 540-BBRL
-      - sku: 540-BBVI
-      - sku: 540-BBVJ
-      - sku: 540-BBVK
-      - sku: 540-BBVO
-      - sku: 540-BCMQ
-      - sku: 555-BCKN
-  - type: transceivers
-    label: Transceiver
-    desc: Transceiver
-    qty:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-    product:
-      - sku: 429-ABHW
-      - sku: 470-ADDY
+network: []

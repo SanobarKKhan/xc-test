@@ -1186,3 +1186,19 @@
   specintRatePerCore: 54.06
   memorySpeed: 2933
   notice: []
+338-RRRR:
+  nameId: Gold 6238L
+  category: lcpu
+  product: Xeon
+  power: 140 W
+  SPECint: 1143.9
+  mfr: INTEL
+  cores: 22
+  cycles: 2.1
+  arch: Cascade Lake
+  desc: 2x Intel Xeon Gold 6238L 2.1G, 22C/44T, 10.4GT/s, 30.25M Cache, Turbo, HT (140W) DDR4-2933
+  name: 2x Intel Xeon Gold 6238L 2.1G, 22C/44T, 10.4GT/s, 30.25M Cache, Turbo, HT (140W) DDR4-2933
+  price: 15638.00
+  specintRatePerCore: 52.00
+  memorySpeed: 2933
+  notice: []
