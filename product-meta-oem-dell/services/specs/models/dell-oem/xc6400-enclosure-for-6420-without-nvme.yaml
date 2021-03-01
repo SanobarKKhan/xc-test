@@ -18,7 +18,7 @@ chassis:
       sku: 321-BEMU
       qual-date: 20-March-2018
     - type: chassis
-      sku: 321-BFBS
+      sku: 321-BCOO
       qual-date: 20-March-2018
 boot:
   - type: m.2-boot-drive-raid
@@ -57,7 +57,6 @@ storage:
       notice:
         - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
       product:
-        - sku: '323834918580278084328641974500807077565'
         - sku: '95912119091177647629226493328071369329'
         - sku: '166840999981962305612148959121095435610'
         - sku: '1174464922584254170417802415736644907'
@@ -91,7 +90,6 @@ storage:
       ssd:
         label: 2.5"/3.5" SATA/SAS SSDs
         product:
-          - sku: '323834918580278084328641974500807077565'
           - sku: '95912119091177647629226493328071369329'
           - sku: '166840999981962305612148959121095435610'
           - sku: '1174464922584254170417802415736644907'
@@ -200,38 +198,4 @@ compute:
             - 14
             - 15
             - 16
-network:
-  - type: pcie
-    label: PCIe Network Interfaces
-    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
-    qty:
-      - 1
-      - 2
-      - 3
-      - 4
-    product:
-      - sku: 406-BBLD
-      - sku: 540-BBRL
-      - sku: 540-BBVI
-      - sku: 540-BBVJ
-      - sku: 540-BBVK
-      - sku: 540-BBWC
-      - sku: 540-BBZG
-      - sku: 540-BCKX
-      - sku: 540-BCMQ
-      - sku: 555-BCKN
-  - type: transceivers
-    label: Transceiver
-    qty:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-    product:
-      - sku: 407-BBVK
+network: []
