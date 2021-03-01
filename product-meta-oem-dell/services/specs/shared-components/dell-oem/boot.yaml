@@ -1,7 +1,19 @@
+403-BBSD:
+  type: SSD
+  size: 240 GB
+  desc: BOSS controller card +  with 2 M.2 Sticks 240G (RAID 1)
+  notice: []
+  interface: M.2
 403-BCHH:
   type: SSD
   size: 480 GB
   desc: BOSS controller card + with 2 M.2 Sticks 480GB (RAID 1),LP
+  notice: []
+  interface: M.2
+403-BCHI:
+  type: SSD
+  size: 240 GB
+  desc: BOSS controller card + with 2 M.2 Sticks 240G (RAID 1),LP
   notice: []
   interface: M.2
 403-BCHJ:
@@ -14,19 +26,11 @@
   type: SSD
   size: 240 GB
   desc: BOSS controller card + with 2 M.2 Sticks 240G (RAID 1),FH
-  notice:
-    - test
-  interface: M.2
-403-BBSD:
-  type: SSD
-  size: 240 GB
-  desc: BOSS controller card +  with 2 M.2 Sticks 240G (RAID 1)
   notice: []
   interface: M.2
-403-BCHI:
+403-BCHV:
   type: SSD
   size: 240 GB
-  desc: BOSS controller card + with 2 M.2 Sticks 240G (RAID 1),LP
-  notice:
-    - Test
+  desc: BOSS controller card+with 2 M.2 Sticks 240G (RAID 1)
+  notice: []
   interface: M.2

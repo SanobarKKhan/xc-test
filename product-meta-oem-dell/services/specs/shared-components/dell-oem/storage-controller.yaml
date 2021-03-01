@@ -1,3 +1,9 @@
+338-BMPC:
+  desc: C34, Single 1U C6420 Sled, H330 HBA, Supports 2.5in or 3.5in Direct and Expander Backplanes
+  notice: []
+338-BMPD:
+  desc: C35, Single 1U C6420 Sled, H330 HBA, Supports 2.5in NVMe Backplane
+  notice: []
 405-AAJU:
   desc: HBA330 12Gbps SAS HBA Controller (NON-RAID), Minicard
   notice: []
@@ -25,10 +31,3 @@
 780-BCEU:
   desc: C5, H330 HBA, C6420 1U NVMe, Supports up to 6x2.5in Hard Drives
   notice: []
-338-BMPC:
-  desc: C34, Single 1U C6420 Sled, H330 HBA, Supports 2.5in or 3.5in Direct and Expander Backplanes
-  notice: []
-338-BMPD:
-  desc: C35, Single 1U C6420 Sled, H330 HBA, Supports 2.5in NVMe Backplane
-  notice:
-    - Test For Component Sub Type

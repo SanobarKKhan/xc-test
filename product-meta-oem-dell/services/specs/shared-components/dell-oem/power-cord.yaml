@@ -1,7 +1,9 @@
 450-AADX:
   desc: C13 to C14, PDU Style, 10 AMP, 2 Feet (.6m), Power Cord
-  notice:
-    - test for component subtype
+  notice: []
+450-AADZ:
+  desc: C13 to C14, PDU Style, 10 AMP, 13 Feet (4m), Power Cord
+  notice: []
 450-AAEW:
   desc: 250V, 2.5 meter PowerCord for Argentina
   notice: []
@@ -61,7 +63,4 @@
   notice: []
 492-BCON:
   desc: Y-Power Cord, C13 to C14, 2-1 PDU Style, 10 amps, 6 feet / 2meter
-  notice: []
-450-AADZ:
-  desc: C13 to C14, PDU Style, 10 AMP, 13 Feet (4m), Power Cord
   notice: []
