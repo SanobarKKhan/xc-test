@@ -10,10 +10,7 @@ chassis:
   use-case:
     - Database and Business Critical Apps
     - Analytics and Big Data
-  product:
-    - type: chassis
-      sku: 321-BCMQ
-      qual-date: 20-March-2018
+  product: []
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)
@@ -78,6 +75,7 @@ storage:
       notice:
         - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
       product:
+        - sku: '323834918580278084328641974500807077565'
         - sku: '328081329898234127749207467571452165071'
         - sku: '95912119091177647629226493328071369329'
         - sku: '166840999981962305612148959121095435610'
@@ -110,6 +108,7 @@ storage:
       ssd:
         label: 2.5"/3.5" SATA/SAS SSDs
         product:
+          - sku: '323834918580278084328641974500807077565'
           - sku: '328081329898234127749207467571452165071'
           - sku: '95912119091177647629226493328071369329'
           - sku: '166840999981962305612148959121095435610'
@@ -205,4 +204,78 @@ compute:
             - 14
             - 15
             - 16
-network: []
+network:
+  - type: flom
+    label: FlexibleLOM Adapter
+    desc: Flexible LAN on Motherboard (FLOM) adapter
+    qty:
+      - 1
+    product:
+      - sku: 406-BBLG
+      - sku: 540-BBUK
+      - sku: 540-BBUL
+      - sku: 540-BBUM
+      - sku: 540-BBUY
+      - sku: 540-BBUZ
+      - sku: 555-BCKO
+  - type: pcie
+    label: PCIe Network Interfaces
+    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+    product:
+      - sku: 406-BBLE
+      - sku: 540-BBDH
+      - sku: 540-BBHP
+      - sku: 540-BBRO
+      - sku: 540-BBUH
+      - sku: 540-BBUJ
+      - sku: 540-BCIU
+      - sku: 540-BCNM
+  - type: network-cable
+    label: Network Cables
+    desc: Network Cables
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 407-BBDT
+      - sku: 407-BBDU
+      - sku: 470-AAGN
+      - sku: 470-AAGP
+      - sku: 470-AAGR
+      - sku: 470-ABOT
+      - sku: 470-ABOW
+  - type: transceivers
+    label: Transceiver
+    desc: Transceiver
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 407-BBBY
+      - sku: 407-BBEE
+      - sku: 407-BBEL
+      - sku: 407-BBOH
+      - sku: 407-BBVK
+      - sku: 407-BBZO
+      - sku: 407-BCBE

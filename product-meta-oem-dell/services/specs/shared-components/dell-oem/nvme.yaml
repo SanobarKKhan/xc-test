@@ -42,10 +42,8 @@
   type: SSD
   size: 6.4 TB
   desc: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
-  notice:
-    - Not found in Domino,
-    - ' Optional '
-  price: 8599.00
+  notice: []
+  price: 9610.00
   name: Dell 6.4TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4610 with Carrier
   encryptedPart: false
   approved_by: Legacy, Nutanix
@@ -180,3 +178,23 @@
   nand_type: TLC
   form-factor: small
   sku: 400-BKGI
+'43084278103483279260019618439313481298':
+  type: SSD
+  size: 1.6 TB
+  desc: Intel 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4600 with Carrier
+  notice: []
+  price: 2152.00
+  name: Intel 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4600 with Carrier
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 1600
+  data: true
+  interface: NVMe
+  manufacturer: Intel
+  metadata: true
+  model: 400-AWLD
+  model_string: Intel 1.6TB, NVMe, Mixed Use Express Flash, 2.5 SFF Drive, U.2, P4600 with Carrier
+  nand_type: TLC
+  form-factor: small
+  sku: 400-AWLD

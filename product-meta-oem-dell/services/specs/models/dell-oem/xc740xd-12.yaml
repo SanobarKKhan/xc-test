@@ -3,8 +3,8 @@ product-line: XC Core
 software: field-installed
 visibility: external
 models:
-  - XC740XD Core-12
-label: XC740XD Core-12
+  - XC740xd-12
+label: XC740xd Core-12
 chassis:
   label: Chassis and chassis sub-components
   use-case:
@@ -144,6 +144,10 @@ storage:
     config-1:
       ssd:
         label: 2.5"/3.5" SATA/SAS SSDs
+        qty:
+          - 2
+          - 3
+          - 4
         product:
           - sku: '258177486820870950109041153366594214437'
           - sku: '63394183602891993764774094171218655218'
@@ -161,6 +165,14 @@ storage:
           - sku: '159572594392020449881194519129022838858'
       hdd:
         label: 2.5"/3.5" HDDs
+        qty:
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
         product:
           - sku: '23139207858072538075981294016406373471'
           - sku: '322448286474736019060245053608788603508'
@@ -287,12 +299,40 @@ compute:
 network:
   - type: flom
     label: FlexibleLOM Adapter
+    desc: Flexible LAN on Motherboard (FLOM) adapter
     qty:
       - 1
     product:
+      - sku: 406-BBLG
       - sku: 407-BBVK
-  - type: transceivers
-    label: Transceiver
+      - sku: 540-BBBB
+      - sku: 540-BBUK
+      - sku: 540-BBUL
+      - sku: 540-BBUM
+      - sku: 540-BBUY
+      - sku: 540-BBUZ
+      - sku: 555-BCKO
+  - type: pcie
+    label: PCIe Network Interfaces
+    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+    product:
+      - sku: 406-BBLE
+      - sku: 540-BBCT
+      - sku: 540-BBDH
+      - sku: 540-BBHP
+      - sku: 540-BBRO
+      - sku: 540-BBUH
+      - sku: 540-BBUJ
+      - sku: 540-BCIU
+      - sku: 540-BCNM
+  - type: network-cable
+    label: Network Cables
+    desc: Network Cables
     qty:
       - 1
       - 2
@@ -305,4 +345,26 @@ network:
       - 9
       - 10
     product:
+      - sku: 470-AAGN
+      - sku: 470-AAGP
+  - type: transceivers
+    label: Transceiver
+    desc: Transceiver
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 407-BBBY
+      - sku: 407-BBEE
+      - sku: 407-BBEL
+      - sku: 407-BBOH
       - sku: 407-BBVK
+      - sku: 407-BCBE

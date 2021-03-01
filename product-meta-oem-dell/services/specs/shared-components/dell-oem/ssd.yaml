@@ -1,3 +1,23 @@
+'323834918580278084328641974500807077565':
+  type: SSD
+  size: 7.68 TB
+  desc: 7.68TB Solid State Drive Read Intensive SAS 12Gbps 512e 2.5in PM1643a Hot-Plug 1 DWPD 14016 TBW
+  notice: []
+  price: 8900.00
+  name: 7.68TB Solid State Drive Read Intensive SAS 12Gbps 512e 2.5in PM1643a Hot-Plug 1 DWPD 14016 TBW
+  encryptedPart: false
+  approved_by: Legacy, Nutanix
+  boot: false
+  capacity_gb: 7680
+  data: true
+  interface: SAS
+  manufacturer: Samsung
+  metadata: true
+  model: 345-BBBP
+  model_string: 7.68TB Solid State Drive Read Intensive SAS 12Gbps 512e 2.5in PM1643a Hot-Plug 1 DWPD 14016 TBW
+  nand_type: TLC
+  form-factor: small
+  sku: 345-BBBP
 '328081329898234127749207467571452165071':
   type: SSD
   size: 3.84 TB
