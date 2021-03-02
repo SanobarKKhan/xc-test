@@ -11,10 +11,7 @@ chassis:
     - Analytics and Big Data
     - Files and Objects
     - Tactical and Ruggedized
-  product:
-    - type: chassis
-      sku: 321-BDXY
-      qual-date: 18-Dec-2019
+  product: []
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)

@@ -14,14 +14,13 @@
   name: NVIDIA(R) Tesla(TM) T4 16GB Passive, Single Slot, Full Height GPU
   desc: NVIDIA(R) Tesla(TM) T4 16GB Passive, Single Slot, Full Height GPU
   price: 5249.00
-  notice:
-    - Test
+  notice: []
   power:
-    maximum: null
-    typical: null
+    maximum: 0
+    typical: 225
   thermal BTU / hr:
-    maximum: null
-    typical: null
+    maximum: 0
+    typical: 1023.64
   card type: T4
 490-BFHN:
   name: NVIDIA® Tesla™ T4 16GB Passive, Single Slot, Low Profile GPU

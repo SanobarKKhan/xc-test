@@ -12,9 +12,6 @@ chassis:
   notice:
     - 3 node cluster deployment.
   product:
-    - type: chassis
-      sku: 321-BCQF
-      qual-date: 6-March-2018
     - type: fan
       sku: 384-BBQI
       qty:
