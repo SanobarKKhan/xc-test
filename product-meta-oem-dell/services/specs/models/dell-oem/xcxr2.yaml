@@ -9,10 +9,7 @@ chassis:
   label: Chassis
   use-case:
     - Tactical and Ruggedized
-  product:
-    - type: chassis
-      sku: 321-BFSI
-      qual-date: 19-Sept-2019
+  product: []
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)

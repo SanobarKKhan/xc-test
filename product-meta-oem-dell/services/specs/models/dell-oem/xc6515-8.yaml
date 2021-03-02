@@ -12,9 +12,6 @@ chassis:
     - Remote Office/Branch Office
     - Database and Business Critical Apps
   product:
-    - type: chassis
-      sku: 321-BERO
-      qual-date: 15-July-2020
     - type: fan
       sku: 384-BCFW
       qty:

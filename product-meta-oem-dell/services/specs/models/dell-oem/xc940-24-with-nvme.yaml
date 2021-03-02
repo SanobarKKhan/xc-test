@@ -10,10 +10,7 @@ chassis:
   use-case:
     - Database and Business Critical Apps
     - Analytics and Big Data
-  product:
-    - type: chassis
-      sku: 321-BDWN
-      qual-date: 20-March-2018
+  product: []
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)

@@ -11,10 +11,7 @@ chassis:
   use-case:
     - Database and Business Critical Apps
     - End-User Computing/Virtual Desktop Infrastructure
-  product:
-    - type: chassis
-      sku: 321-BEQH
-      qual-date: 6-March-2018
+  product: []
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)
@@ -360,6 +357,7 @@ gpu:
       - Can be optionally configured with 1 or 2 NVIDIA Tesla M10 GPUs, or with 1, 2 or 3 NVIDIA Tesla M60 or up to 6 T4 GPUs or NVIDIA Tesla V100S. Not compatible with NVMe SSD.
     product:
       - sku: 489-BBCG
+      - sku: 490-BEYL
       - sku: 490-BFRQ
       - sku: 490-BFRR
       - sku: 490-BFSG
