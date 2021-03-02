@@ -1,8 +1,7 @@
 400-ASDP:
   desc: 2.5in HDD Blank, C6400
   price: 9.00
-  notice:
-    - test
+  notice: []
 750-AAUO:
   desc: PowerEdge C6400 Blank Tray
   price: 0.00

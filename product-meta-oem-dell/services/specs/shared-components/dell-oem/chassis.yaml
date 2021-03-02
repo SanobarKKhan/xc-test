@@ -1,3 +1,8 @@
+321-BCMQ:
+  desc: 2.5" Chassis with up to 24 Hard Drives
+  nodes: 1
+  height-ru: 3
+  notice: []
 321-BCPU:
   desc: Chassis with Up to 12 x 3.5 Hard Drives for 2CPU Configuration
   nodes: 1
