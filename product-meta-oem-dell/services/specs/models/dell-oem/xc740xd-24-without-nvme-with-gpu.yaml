@@ -3,8 +3,8 @@ product-line: XC Core
 software: field-installed
 visibility: external
 models:
-  - XC740XD Core-24 with GPU
-label: XC740XD Core-24 with GPU
+  - XC740xd Core-24 with GPU
+label: XC740xd Core-24 with GPU
 chassis:
   label: Chassis and chassis sub-components
   use-case:
@@ -67,6 +67,7 @@ storage:
       notice:
         - All Flash must have only SSDs. Hybrid can have mix of SSD and HDD.
       product:
+        - sku: '323834918580278084328641974500807077565'
         - sku: '95912119091177647629226493328071369329'
         - sku: '166840999981962305612148959121095435610'
         - sku: '1174464922584254170417802415736644907'
@@ -92,6 +93,19 @@ storage:
         - sku: '338448206611622137018025894881388071203'
         - sku: '320919677385603210840870212554129099320'
         - sku: '32794810713895053531054748297700528105'
+  - type: hybrid-sed
+    label: 'Storage: Self Encrypting Drive (SED) Hybrid'
+    desc: Mix of SED SSDs and HDDs
+    sed-ssd:
+      label: 2.5"/3.5" SATA/SAS SED SSDs
+      product:
+        - sku: '338448206611622137018025894881388071203'
+        - sku: '320919677385603210840870212554129099320'
+        - sku: '32794810713895053531054748297700528105'
+    sed-hdd:
+      label: 2.5"/3.5" SED HDDs
+      product:
+        - sku: '332350918979768162741666163275938522688'
   - type: hybrid
     label: 'Storage: Hybrid'
     desc: Mix of SATA/SAS SSDs and HDDs
@@ -99,6 +113,7 @@ storage:
       ssd:
         label: 2.5"/3.5" SATA/SAS SSDs
         product:
+          - sku: '323834918580278084328641974500807077565'
           - sku: '95912119091177647629226493328071369329'
           - sku: '166840999981962305612148959121095435610'
           - sku: '1174464922584254170417802415736644907'
@@ -131,6 +146,7 @@ compute:
         - 6
         - 8
       product:
+        - sku: 338-BRVH
         - sku: 338-BRVJ
         - sku: 338-BRVM
         - sku: 338-BRVN
@@ -213,11 +229,90 @@ compute:
             - 14
             - 15
             - 16
-network: []
+network:
+  - type: flom
+    label: FlexibleLOM Adapter
+    desc: Flexible LAN on Motherboard (FLOM) adapter
+    qty:
+      - 1
+    product:
+      - sku: 406-BBLG
+      - sku: 540-BBBB
+      - sku: 540-BBUK
+      - sku: 540-BBUL
+      - sku: 540-BBUM
+      - sku: 540-BBUY
+      - sku: 540-BBUZ
+      - sku: 555-BCKO
+  - type: pcie
+    label: PCIe Network Interfaces
+    desc: PCIe-slot Ethernet adapter/PCIe network interfaces
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+    product:
+      - sku: 406-BBLE
+      - sku: 540-BBCT
+      - sku: 540-BBDH
+      - sku: 540-BBHP
+      - sku: 540-BBRO
+      - sku: 540-BBUH
+      - sku: 540-BBUJ
+      - sku: 540-BCIU
+      - sku: 540-BCNM
+  - type: network-cable
+    label: Network Cables
+    desc: Network Cables
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 407-BBDT
+      - sku: 407-BBDU
+      - sku: 470-AAGN
+      - sku: 470-AAGP
+      - sku: 470-AAGR
+      - sku: 470-ABOT
+      - sku: 470-ABOW
+  - type: transceivers
+    label: Transceiver
+    desc: Transceiver
+    qty:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    product:
+      - sku: 407-BBBY
+      - sku: 407-BBEE
+      - sku: 407-BBEL
+      - sku: 407-BBOH
+      - sku: 407-BBVK
+      - sku: 407-BCBE
 gpu:
   - type: gpu
     label: Computation and Graphics Accelerators
+    desc: GPU card
     notice:
       - Can be optionally configured with 1 or 2 NVIDIA Tesla M10 GPUs, or with 1, 2 or 3 NVIDIA Tesla M60 or up to 6 T4 GPUs or NVIDIA Tesla V100S. Not compatible with NVMe SSD.
     product:
-      - sku: 490-BEYL
+      - sku: 489-BBCG
+      - sku: 490-BFRQ
+      - sku: 490-BFRR
+      - sku: 490-BFSG

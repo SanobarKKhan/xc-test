@@ -82,6 +82,20 @@
   notice: []
   manufacturer: SEAGATE
   model_string: 2.4TB 10K RPM SAS 12Gbps 512e 2.5in Hot-plug Hard Drive
+'332350918979768162741666163275938522688':
+  model: 400-AVHH
+  type: HDD
+  size: 2.4 TB
+  desc: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
+  form-factor: small
+  name: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
+  price: 1399.00
+  encryptedPart: true
+  interface: SAS
+  sku: 400-AVHH
+  notice: []
+  manufacturer: SEAGATE
+  model_string: 2.4TB 10K RPM Self-Encrypting SAS 12Gbps 512e 2.5in Hot-plug Hard Drive, FIPS140
 '253832018645947396541998317877843234420':
   model: 400-AWIP
   type: HDD
