@@ -16,7 +16,7 @@
 338-BRVJ:
   nameId: Platinum 8268
   product: Xeon
-  power: 205 W
+  power: null
   SPECint: 1491.52
   mfr: INTEL
   cores: 24
