@@ -11,7 +11,10 @@ chassis:
   use-case:
     - Database and Business Critical Apps
     - End-User Computing/Virtual Desktop Infrastructure
-  product: []
+  product:
+    - type: chassis
+      sku: 321-BEQH
+      qual-date: 6-March-2018
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)
@@ -191,7 +194,6 @@ compute:
         - 8
       product:
         - sku: 338-BRVH
-        - sku: 338-BRVJ
         - sku: 338-BRVM
         - sku: 338-BRVN
         - sku: 338-BRVO

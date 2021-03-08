@@ -10,14 +10,28 @@ chassis:
   use-case:
     - End-User Computing/Virtual Desktop Infrastructure
     - Private Cloud
-  product: []
+  product:
+    - type: chassis
+      sku: 321-BEMT
+      qual-date: 20-March-2018
+    - type: chassis
+      sku: 321-BEMU
+      qual-date: 20-March-2018
+    - type: chassis
+      sku: 321-BFBS
+      qual-date: 20-March-2018
+    - type: chassis
+      sku: 321-BFSI
+      qual-date: 20-March-2018
 boot:
   - type: m.2-boot-drive-raid
     label: Boot drive (RAID card)
+    desc: Boot drive with RAID card
     qty:
       - 1
     product:
       - sku: 403-BBSD
+      - sku: 403-BCHH
 power:
   - type: power-supply
     label: Power Supply
@@ -117,7 +131,6 @@ compute:
         - 8
       product:
         - sku: 338-BRVH
-        - sku: 338-BRVJ
         - sku: 338-BRVM
         - sku: 338-BRVN
         - sku: 338-BRVO
