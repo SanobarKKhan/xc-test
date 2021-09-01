@@ -12,6 +12,12 @@ chassis:
   notice:
     - 1 or 2 node cluster deployment.
   product:
+    - type: chassis
+      sku: 321-BCQF
+      qual-date: 6-March-2018
+    - type: chassis
+      sku: 321-BFSI
+      qual-date: 6-March-2018
     - type: fan
       sku: 384-BBPR
       qty:
@@ -159,7 +165,6 @@ compute:
         - 1
       product:
         - sku: 338-BRVH
-        - sku: 338-BRVJ
         - sku: 338-BRVM
         - sku: 338-BRVN
         - sku: 338-BRVO

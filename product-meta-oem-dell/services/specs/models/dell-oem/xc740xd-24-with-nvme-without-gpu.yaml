@@ -11,6 +11,9 @@ chassis:
     - Database and Business Critical Apps
     - End-User Computing/Virtual Desktop Infrastructure
   product:
+    - type: chassis
+      sku: 321-BCRB
+      qual-date: 6-March-2018
     - type: fan
       sku: 384-BBPY
       qty:
@@ -200,7 +203,6 @@ compute:
         - 8
       product:
         - sku: 338-BRVH
-        - sku: 338-BRVJ
         - sku: 338-BRVM
         - sku: 338-BRVN
         - sku: 338-BRVO

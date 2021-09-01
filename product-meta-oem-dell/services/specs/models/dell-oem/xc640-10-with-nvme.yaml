@@ -12,6 +12,12 @@ chassis:
     - Test and Development
     - Private Cloud
   product:
+    - type: chassis
+      sku: 321-BDTT
+      qual-date: 6-March-2018
+    - type: chassis
+      sku: 321-BFSI
+      qual-date: 6-March-2018
     - type: fan
       sku: 384-BBQI
       qty:
@@ -166,7 +172,6 @@ compute:
         - 1
       product:
         - sku: 338-BRVH
-        - sku: 338-BRVJ
         - sku: 338-BRVM
         - sku: 338-BRVN
         - sku: 338-BRVO
